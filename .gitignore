@@ -20,11 +20,6 @@ env/
 .vscode/
 .idea/
 
-# Large / regeneratable artefacts
-models/
-data/processed/figures/
-data/processed/shap/
-data/processed/eval/
 
 # Sensitive
 *.env

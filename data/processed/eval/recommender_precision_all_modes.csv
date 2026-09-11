@@ -1,0 +1,10 @@
+query_player,query_season,actual_signing,filter_mode,hit_rank,hit_similarity,at_5,at_10,at_25,n_candidates_returned,note
+Vinicius Júnior,2023/24,Kylian Mbappé,strict (tm_position),-1,,False,False,False,30,Real Madrid signed Mbappé on free transfer June 2024
+Vinicius Júnior,2023/24,Kylian Mbappé,broad (position_family),-1,,False,False,False,30,Real Madrid signed Mbappé on free transfer June 2024
+Vinicius Júnior,2023/24,Kylian Mbappé,cluster-only (no position),10,0.958,False,True,True,30,Real Madrid signed Mbappé on free transfer June 2024
+Julián Álvarez,2023/24,Omar Marmoush,strict (tm_position),29,0.781,False,False,False,30,Man City signed Marmoush Jan 2025 as Álvarez's replacement (per NBC Sports)
+Julián Álvarez,2023/24,Omar Marmoush,broad (position_family),-1,,False,False,False,30,Man City signed Marmoush Jan 2025 as Álvarez's replacement (per NBC Sports)
+Julián Álvarez,2023/24,Omar Marmoush,cluster-only (no position),-1,,False,False,False,30,Man City signed Marmoush Jan 2025 as Álvarez's replacement (per NBC Sports)
+Erling Haaland,2023/24,Omar Marmoush,strict (tm_position),-1,,False,False,False,30,Man City signed Marmoush Jan 2025 to strengthen Haaland's forward line
+Erling Haaland,2023/24,Omar Marmoush,broad (position_family),-1,,False,False,False,30,Man City signed Marmoush Jan 2025 to strengthen Haaland's forward line
+Erling Haaland,2023/24,Omar Marmoush,cluster-only (no position),-1,,False,False,False,30,Man City signed Marmoush Jan 2025 to strengthen Haaland's forward line

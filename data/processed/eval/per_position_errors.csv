@@ -1,0 +1,9 @@
+position_family,n,median_actual_m,median_pred_m,median_abs_error_m,mean_abs_error_m
+Attacking Midfield,190,12.0,12.32,1.97,7.0
+Central Midfield,482,8.0,8.13,1.48,4.79
+Centre-Back,676,8.0,7.91,1.5,4.3
+Defensive Midfield,279,9.0,8.73,1.59,4.87
+Forward,376,10.0,9.64,1.51,4.48
+Full-Back,540,5.0,5.83,1.08,3.2
+Goalkeeper,6,0.45,1.18,0.78,1.08
+Winger,385,14.0,13.42,2.04,4.99

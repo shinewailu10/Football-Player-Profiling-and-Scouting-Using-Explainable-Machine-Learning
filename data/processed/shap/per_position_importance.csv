@@ -1,0 +1,148 @@
+position_family,algorithm,algorithm_note,feature,mean_abs_shap
+Attacking Midfield,RandomForest,best overall,age,0.3140941768405044
+Attacking Midfield,RandomForest,best overall,goals_p90,0.0202850869944487
+Attacking Midfield,RandomForest,best overall,assists_p90,0.13086012630042793
+Attacking Midfield,RandomForest,best overall,goals_assists_p90,0.21097135503372838
+Attacking Midfield,RandomForest,best overall,non_penalty_goals_p90,0.015830855859430885
+Attacking Midfield,RandomForest,best overall,np_goals_assists_p90,0.326001980492703
+Attacking Midfield,RandomForest,best overall,shots_p90,0.02620377956518796
+Attacking Midfield,RandomForest,best overall,shots_on_target_p90,0.01837581563169827
+Attacking Midfield,RandomForest,best overall,shots_on_target_pct,0.01675785839970501
+Attacking Midfield,RandomForest,best overall,goals_per_shot,0.01400209154456807
+Attacking Midfield,RandomForest,best overall,goals_per_shot_on_target,0.016808423721054965
+Attacking Midfield,RandomForest,best overall,interceptions_p90,0.04812435836195744
+Attacking Midfield,RandomForest,best overall,tackles_won_p90,0.03129293401875619
+Attacking Midfield,RandomForest,best overall,fouls_committed_p90,0.01862078781619839
+Attacking Midfield,RandomForest,best overall,fouls_drawn_p90,0.0196107005620857
+Attacking Midfield,RandomForest,best overall,crosses_p90,0.019429284778132737
+Attacking Midfield,RandomForest,best overall,offsides_p90,0.039685756667229025
+Attacking Midfield,RandomForest,best overall,attacking_index,0.03269682061387506
+Attacking Midfield,RandomForest,best overall,creativity_index,0.025984095784852692
+Attacking Midfield,RandomForest,best overall,defensive_index,0.031085959595407758
+Attacking Midfield,RandomForest,best overall,discipline_index,0.019233133404550917
+Central Midfield,RandomForest,tree proxy (overall best was LinearRegression),age,0.33023269415726947
+Central Midfield,RandomForest,tree proxy (overall best was LinearRegression),goals_p90,0.01901240383376268
+Central Midfield,RandomForest,tree proxy (overall best was LinearRegression),assists_p90,0.07725700825558308
+Central Midfield,RandomForest,tree proxy (overall best was LinearRegression),goals_assists_p90,0.05726905210338057
+Central Midfield,RandomForest,tree proxy (overall best was LinearRegression),non_penalty_goals_p90,0.0867142771051263
+Central Midfield,RandomForest,tree proxy (overall best was LinearRegression),np_goals_assists_p90,0.15562576709790768
+Central Midfield,RandomForest,tree proxy (overall best was LinearRegression),shots_p90,0.032234253147151774
+Central Midfield,RandomForest,tree proxy (overall best was LinearRegression),shots_on_target_p90,0.020866279727180838
+Central Midfield,RandomForest,tree proxy (overall best was LinearRegression),shots_on_target_pct,0.029472014327529876
+Central Midfield,RandomForest,tree proxy (overall best was LinearRegression),goals_per_shot,0.024645966094582663
+Central Midfield,RandomForest,tree proxy (overall best was LinearRegression),goals_per_shot_on_target,0.011648725700607173
+Central Midfield,RandomForest,tree proxy (overall best was LinearRegression),interceptions_p90,0.029507241242310543
+Central Midfield,RandomForest,tree proxy (overall best was LinearRegression),tackles_won_p90,0.02941805215856645
+Central Midfield,RandomForest,tree proxy (overall best was LinearRegression),fouls_committed_p90,0.04896788006764379
+Central Midfield,RandomForest,tree proxy (overall best was LinearRegression),fouls_drawn_p90,0.023285822196790016
+Central Midfield,RandomForest,tree proxy (overall best was LinearRegression),crosses_p90,0.04476184605973622
+Central Midfield,RandomForest,tree proxy (overall best was LinearRegression),offsides_p90,0.025338467590944044
+Central Midfield,RandomForest,tree proxy (overall best was LinearRegression),attacking_index,0.03337945313616447
+Central Midfield,RandomForest,tree proxy (overall best was LinearRegression),creativity_index,0.02079495431355766
+Central Midfield,RandomForest,tree proxy (overall best was LinearRegression),defensive_index,0.02913437995013435
+Central Midfield,RandomForest,tree proxy (overall best was LinearRegression),discipline_index,0.039700786526365925
+Centre-Back,RandomForest,best overall,age,0.5058859845805621
+Centre-Back,RandomForest,best overall,goals_p90,0.007303460392922097
+Centre-Back,RandomForest,best overall,assists_p90,0.015361053077643773
+Centre-Back,RandomForest,best overall,goals_assists_p90,0.018045955011012273
+Centre-Back,RandomForest,best overall,non_penalty_goals_p90,0.009600205620583425
+Centre-Back,RandomForest,best overall,np_goals_assists_p90,0.018954788238604706
+Centre-Back,RandomForest,best overall,shots_p90,0.08573227176954282
+Centre-Back,RandomForest,best overall,shots_on_target_p90,0.06309195895501805
+Centre-Back,RandomForest,best overall,shots_on_target_pct,0.02944924013591289
+Centre-Back,RandomForest,best overall,goals_per_shot,0.011254421525940153
+Centre-Back,RandomForest,best overall,goals_per_shot_on_target,0.007466567837676538
+Centre-Back,RandomForest,best overall,interceptions_p90,0.06717161937112323
+Centre-Back,RandomForest,best overall,tackles_won_p90,0.026175421921112205
+Centre-Back,RandomForest,best overall,fouls_committed_p90,0.07148016224962135
+Centre-Back,RandomForest,best overall,fouls_drawn_p90,0.03442931606351204
+Centre-Back,RandomForest,best overall,crosses_p90,0.028571184075873432
+Centre-Back,RandomForest,best overall,offsides_p90,0.03416314955745741
+Centre-Back,RandomForest,best overall,attacking_index,0.06859949946457161
+Centre-Back,RandomForest,best overall,creativity_index,0.028323664272217126
+Centre-Back,RandomForest,best overall,defensive_index,0.035597183171490986
+Centre-Back,RandomForest,best overall,discipline_index,0.027169076380186404
+Defensive Midfield,RandomForest,best overall,age,0.40308291679339603
+Defensive Midfield,RandomForest,best overall,goals_p90,0.012886720375307676
+Defensive Midfield,RandomForest,best overall,assists_p90,0.03151271784471745
+Defensive Midfield,RandomForest,best overall,goals_assists_p90,0.05599791168774625
+Defensive Midfield,RandomForest,best overall,non_penalty_goals_p90,0.023207826700103507
+Defensive Midfield,RandomForest,best overall,np_goals_assists_p90,0.12169434059975211
+Defensive Midfield,RandomForest,best overall,shots_p90,0.024279364595795924
+Defensive Midfield,RandomForest,best overall,shots_on_target_p90,0.024204478742554436
+Defensive Midfield,RandomForest,best overall,shots_on_target_pct,0.0357254070735092
+Defensive Midfield,RandomForest,best overall,goals_per_shot,0.007893968278701955
+Defensive Midfield,RandomForest,best overall,goals_per_shot_on_target,0.021270958472937352
+Defensive Midfield,RandomForest,best overall,interceptions_p90,0.024651760052472712
+Defensive Midfield,RandomForest,best overall,tackles_won_p90,0.031477646176409926
+Defensive Midfield,RandomForest,best overall,fouls_committed_p90,0.028591357590640524
+Defensive Midfield,RandomForest,best overall,fouls_drawn_p90,0.034195169369497555
+Defensive Midfield,RandomForest,best overall,crosses_p90,0.050859611047670186
+Defensive Midfield,RandomForest,best overall,offsides_p90,0.028647691117124615
+Defensive Midfield,RandomForest,best overall,attacking_index,0.041733533070972446
+Defensive Midfield,RandomForest,best overall,creativity_index,0.038483828311872276
+Defensive Midfield,RandomForest,best overall,defensive_index,0.02365870758005975
+Defensive Midfield,RandomForest,best overall,discipline_index,0.03919975453991449
+Forward,RandomForest,best overall,age,0.38221039606130397
+Forward,RandomForest,best overall,goals_p90,0.06510506478175844
+Forward,RandomForest,best overall,assists_p90,0.037504806651885894
+Forward,RandomForest,best overall,goals_assists_p90,0.2749527826583684
+Forward,RandomForest,best overall,non_penalty_goals_p90,0.08050524476120671
+Forward,RandomForest,best overall,np_goals_assists_p90,0.17371333427842156
+Forward,RandomForest,best overall,shots_p90,0.043695660011599836
+Forward,RandomForest,best overall,shots_on_target_p90,0.03704884637519666
+Forward,RandomForest,best overall,shots_on_target_pct,0.020489831265889283
+Forward,RandomForest,best overall,goals_per_shot,0.013380450127569098
+Forward,RandomForest,best overall,goals_per_shot_on_target,0.01050360943396102
+Forward,RandomForest,best overall,interceptions_p90,0.03517754033314283
+Forward,RandomForest,best overall,tackles_won_p90,0.014872783640545801
+Forward,RandomForest,best overall,fouls_committed_p90,0.040707177545997626
+Forward,RandomForest,best overall,fouls_drawn_p90,0.015864539444109916
+Forward,RandomForest,best overall,crosses_p90,0.009705304389299807
+Forward,RandomForest,best overall,offsides_p90,0.01861401699563404
+Forward,RandomForest,best overall,attacking_index,0.123646489451746
+Forward,RandomForest,best overall,creativity_index,0.009857636522849045
+Forward,RandomForest,best overall,defensive_index,0.015574502569172474
+Forward,RandomForest,best overall,discipline_index,0.04084783816996968
+Full-Back,RandomForest,best overall,age,0.38900764058679016
+Full-Back,RandomForest,best overall,goals_p90,0.008709511893553219
+Full-Back,RandomForest,best overall,assists_p90,0.10404241238730401
+Full-Back,RandomForest,best overall,goals_assists_p90,0.08536064731008551
+Full-Back,RandomForest,best overall,non_penalty_goals_p90,0.012423537881952692
+Full-Back,RandomForest,best overall,np_goals_assists_p90,0.042461440577971125
+Full-Back,RandomForest,best overall,shots_p90,0.03621327997273701
+Full-Back,RandomForest,best overall,shots_on_target_p90,0.03069259206456564
+Full-Back,RandomForest,best overall,shots_on_target_pct,0.03836563833731416
+Full-Back,RandomForest,best overall,goals_per_shot,0.018260498804625484
+Full-Back,RandomForest,best overall,goals_per_shot_on_target,0.01297918383035856
+Full-Back,RandomForest,best overall,interceptions_p90,0.018958168951517727
+Full-Back,RandomForest,best overall,tackles_won_p90,0.05071413603253502
+Full-Back,RandomForest,best overall,fouls_committed_p90,0.0497455799324563
+Full-Back,RandomForest,best overall,fouls_drawn_p90,0.020799172439904316
+Full-Back,RandomForest,best overall,crosses_p90,0.06579274164772081
+Full-Back,RandomForest,best overall,offsides_p90,0.04831631202668151
+Full-Back,RandomForest,best overall,attacking_index,0.038524317684586196
+Full-Back,RandomForest,best overall,creativity_index,0.037932168784801545
+Full-Back,RandomForest,best overall,defensive_index,0.023711509928984506
+Full-Back,RandomForest,best overall,discipline_index,0.03627085776652482
+Winger,RandomForest,tree proxy (overall best was LinearRegression),age,0.2626080753566067
+Winger,RandomForest,tree proxy (overall best was LinearRegression),goals_p90,0.011494354638116737
+Winger,RandomForest,tree proxy (overall best was LinearRegression),assists_p90,0.051581355325601506
+Winger,RandomForest,tree proxy (overall best was LinearRegression),goals_assists_p90,0.18092254522208284
+Winger,RandomForest,tree proxy (overall best was LinearRegression),non_penalty_goals_p90,0.04251525134753404
+Winger,RandomForest,tree proxy (overall best was LinearRegression),np_goals_assists_p90,0.20427302961221544
+Winger,RandomForest,tree proxy (overall best was LinearRegression),shots_p90,0.05864265114053208
+Winger,RandomForest,tree proxy (overall best was LinearRegression),shots_on_target_p90,0.022989673310566543
+Winger,RandomForest,tree proxy (overall best was LinearRegression),shots_on_target_pct,0.020822261785743427
+Winger,RandomForest,tree proxy (overall best was LinearRegression),goals_per_shot,0.01242399822639629
+Winger,RandomForest,tree proxy (overall best was LinearRegression),goals_per_shot_on_target,0.014716713276960747
+Winger,RandomForest,tree proxy (overall best was LinearRegression),interceptions_p90,0.034332697768480885
+Winger,RandomForest,tree proxy (overall best was LinearRegression),tackles_won_p90,0.026283069972907958
+Winger,RandomForest,tree proxy (overall best was LinearRegression),fouls_committed_p90,0.07197973725869614
+Winger,RandomForest,tree proxy (overall best was LinearRegression),fouls_drawn_p90,0.017643992090535243
+Winger,RandomForest,tree proxy (overall best was LinearRegression),crosses_p90,0.012044343987940978
+Winger,RandomForest,tree proxy (overall best was LinearRegression),offsides_p90,0.026622936660164725
+Winger,RandomForest,tree proxy (overall best was LinearRegression),attacking_index,0.13220502841544687
+Winger,RandomForest,tree proxy (overall best was LinearRegression),creativity_index,0.022546281487925753
+Winger,RandomForest,tree proxy (overall best was LinearRegression),defensive_index,0.02499790307576261
+Winger,RandomForest,tree proxy (overall best was LinearRegression),discipline_index,0.062355637363519636

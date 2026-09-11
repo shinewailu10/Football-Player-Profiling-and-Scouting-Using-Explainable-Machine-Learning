@@ -1,0 +1,33 @@
+scope,algorithm,n_samples,r2,mae_eur_m,median_error_m,rank_in_scope,is_best_for_scope
+Attacking Midfield,RandomForest,190,0.436,14.69,6.14,1,True
+Attacking Midfield,LinearRegression,190,0.42,15.32,6.38,2,False
+Attacking Midfield,XGBoost,190,0.352,15.84,7.32,3,False
+Attacking Midfield,LightGBM,190,0.256,16.32,8.28,4,False
+Central Midfield,LinearRegression,482,0.306,10.07,4.8,1,True
+Central Midfield,RandomForest,482,0.253,10.21,4.82,2,False
+Central Midfield,XGBoost,482,0.21,10.32,5.09,3,False
+Central Midfield,LightGBM,482,0.205,10.34,4.97,4,False
+Centre-Back,RandomForest,676,0.307,9.3,5.2,1,True
+Centre-Back,LinearRegression,676,0.275,9.99,4.93,2,False
+Centre-Back,XGBoost,676,0.242,9.66,5.84,3,False
+Centre-Back,LightGBM,676,0.223,9.91,5.7,4,False
+Defensive Midfield,RandomForest,279,0.306,10.36,6.06,1,True
+Defensive Midfield,XGBoost,279,0.263,10.71,5.99,2,False
+Defensive Midfield,LightGBM,279,0.21,10.8,5.97,3,False
+Defensive Midfield,LinearRegression,279,0.188,11.71,5.71,4,False
+Forward,RandomForest,376,0.57,10.86,4.36,1,True
+Forward,XGBoost,376,0.561,10.82,4.79,2,False
+Forward,LinearRegression,376,0.552,11.72,4.93,3,False
+Forward,LightGBM,376,0.527,11.41,5.06,4,False
+Full-Back,RandomForest,540,0.315,7.26,3.53,1,True
+Full-Back,LinearRegression,540,0.313,7.35,3.58,2,False
+Full-Back,XGBoost,540,0.273,7.39,3.77,3,False
+Full-Back,LightGBM,540,0.213,7.64,4.08,4,False
+Winger,LinearRegression,385,0.547,12.33,7.06,1,True
+Winger,RandomForest,385,0.463,12.51,6.76,2,False
+Winger,XGBoost,385,0.459,12.49,7.35,3,False
+Winger,LightGBM,385,0.378,13.48,7.6,4,False
+global,RandomForest,2934,0.404,10.11,5.05,1,True
+global,XGBoost,2934,0.384,10.16,5.09,2,False
+global,LinearRegression,2934,0.374,10.42,4.99,3,False
+global,LightGBM,2934,0.368,10.38,5.31,4,False
