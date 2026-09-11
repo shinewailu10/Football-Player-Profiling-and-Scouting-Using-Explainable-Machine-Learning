@@ -90,8 +90,8 @@ brew install libomp
 
 ```bash
 # Clone the repository
-git clone https://github.com/shinewailu10/football_scouting_draft.git
-cd football_scouting_draft
+git clone https://github.com/shinewailu10/Football-Player-Profiling-and-Scouting-Using-Explainable-Machine-Learning.git
+cd Football-Player-Profiling-and-Scouting-Using-Explainable-Machine-Learning
 
 # Create and activate a virtual environment
 python3.12 -m venv venv
@@ -430,7 +430,7 @@ If you reference this project in academic work:
 
 ## Repository
 
-The full source code is available at:
-[https://github.com/shinewailu10/football_scouting_draft](https://github.com/shinewailu10/football_scouting_draft)
+The full source code, trained models, generated figures, and processed data are available at:
+[https://github.com/shinewailu10/Football-Player-Profiling-and-Scouting-Using-Explainable-Machine-Learning](https://github.com/shinewailu10/Football-Player-Profiling-and-Scouting-Using-Explainable-Machine-Learning)
 
-*Private repository — access on request.*
+*Public repository — no login required. Clone and follow the setup instructions above.*
