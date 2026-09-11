@@ -1,0 +1,22 @@
+league,season,team,player,pos,tm_match_score
+ESP-La Liga,2324,Girona,Sávio,"MF,FW",83.33333333333334
+ESP-La Liga,2324,Cádiz,Isaac Carcelen,DF,84.61538461538461
+ESP-La Liga,2324,Alavés,Samu Omorodion,FW,63.52941176470588
+ESP-La Liga,2324,Alavés,Carlos Benavídez,MF,81.25
+ESP-La Liga,2324,Osasuna,Ezequiel Ávila,"FW,MF",73.28571428571429
+FRA-Ligue 1,2324,Lorient,Souleymane Touré,DF,82.75862068965517
+FRA-Ligue 1,2324,Montpellier,Boubakar Kouyaté,DF,70.0
+FRA-Ligue 1,2324,Metz,Cheikh Tidiane Sabaly,"MF,FW",85.5
+ENG-Premier League,2324,Sheffield United,Vinicius Souza,MF,83.33333333333334
+ENG-Premier League,2425,Manchester City,Sávio,"MF,FW",83.33333333333334
+ITA-Serie A,2324,Roma,Obite N'Dicka,DF,69.56521739130434
+ITA-Serie A,2324,Lazio,Valentín Castellanos,FW,77.77777777777779
+ITA-Serie A,2324,Bologna,Babis Lykogiannis,DF,74.64285714285714
+ITA-Serie A,2425,Roma,Obite N'Dicka,DF,69.56521739130434
+ITA-Serie A,2425,Lazio,Valentín Castellanos,FW,77.77777777777779
+ITA-Serie A,2425,Lecce,Kialonda,DF,64.28571428571429
+ITA-Serie A,2425,Bologna,Babis Lykogiannis,DF,74.64285714285714
+GER-Bundesliga,2324,Leverkusen,Álex Grimaldo,MF,77.41935483870968
+GER-Bundesliga,2324,Köln,Julian Chabot,DF,69.23076923076923
+GER-Bundesliga,2425,Leverkusen,Álex Grimaldo,MF,77.41935483870968
+GER-Bundesliga,2425,Stuttgart,Julian Chabot,DF,69.23076923076923

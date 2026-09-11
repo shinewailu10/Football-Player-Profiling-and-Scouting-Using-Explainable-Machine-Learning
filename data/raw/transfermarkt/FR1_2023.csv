@@ -1,0 +1,699 @@
+league,season,club,name,position,age,market_value_eur,contract_expiry
+FR1,2023,Paris Saint-Germain,Gianluigi Donnarumma,Goalkeeper,25,40000000.0,14/07/2021
+FR1,2023,Paris Saint-Germain,Arnau Tenas,Goalkeeper,23,5000000.0,30/07/2023
+FR1,2023,Paris Saint-Germain,Keylor Navas,Goalkeeper,37,1500000.0,02/09/2019
+FR1,2023,Paris Saint-Germain,Sergio Rico,Goalkeeper,30,1500000.0,05/09/2020
+FR1,2023,Paris Saint-Germain,Alexandre Letellier,Goalkeeper,33,250000.0,25/09/2020
+FR1,2023,Paris Saint-Germain,Louis Mouquet,Goalkeeper,19,,
+FR1,2023,Paris Saint-Germain,Marquinhos,Centre-Back,30,50000000.0,19/07/2013
+FR1,2023,Paris Saint-Germain,Lucas Beraldo,Centre-Back,20,30000000.0,01/01/2024
+FR1,2023,Paris Saint-Germain,Milan Škriniar,Centre-Back,29,30000000.0,06/07/2023
+FR1,2023,Paris Saint-Germain,Presnel Kimpembe,Centre-Back,28,12000000.0,01/07/2015
+FR1,2023,Paris Saint-Germain,Danilo Pereira,Centre-Back,32,8000000.0,01/07/2021
+FR1,2023,Paris Saint-Germain,Joane Gadou,Centre-Back,17,500000.0,
+FR1,2023,Paris Saint-Germain,Nuno Mendes,Left-Back,22,55000000.0,01/07/2022
+FR1,2023,Paris Saint-Germain,Lucas Hernández,Left-Back,28,40000000.0,09/07/2023
+FR1,2023,Paris Saint-Germain,Layvin Kurzawa,Left-Back,31,1800000.0,27/08/2015
+FR1,2023,Paris Saint-Germain,Serif Nhaga,Left-Back,18,,
+FR1,2023,Paris Saint-Germain,Achraf Hakimi,Right-Back,25,60000000.0,06/07/2021
+FR1,2023,Paris Saint-Germain,Nordi Mukiele,Right-Back,26,10000000.0,26/07/2022
+FR1,2023,Paris Saint-Germain,Yoram Zague,Right-Back,18,2500000.0,01/07/2024
+FR1,2023,Paris Saint-Germain,Vitinha,Defensive Midfield,24,50000000.0,01/07/2022
+FR1,2023,Paris Saint-Germain,Manuel Ugarte,Defensive Midfield,23,45000000.0,07/07/2023
+FR1,2023,Paris Saint-Germain,Warren Zaïre-Emery,Central Midfield,18,60000000.0,01/07/2022
+FR1,2023,Paris Saint-Germain,Fabián Ruiz,Central Midfield,28,30000000.0,30/08/2022
+FR1,2023,Paris Saint-Germain,Carlos Soler,Central Midfield,27,20000000.0,01/09/2022
+FR1,2023,Paris Saint-Germain,Senny Mayulu,Central Midfield,18,5000000.0,01/01/2024
+FR1,2023,Paris Saint-Germain,Cher Ndour,Central Midfield,19,4000000.0,12/07/2023
+FR1,2023,Paris Saint-Germain,Kang-in Lee,Attacking Midfield,23,25000000.0,08/07/2023
+FR1,2023,Paris Saint-Germain,Marco Asensio,Attacking Midfield,28,20000000.0,06/07/2023
+FR1,2023,Paris Saint-Germain,Bradley Barcola,Left Winger,21,50000000.0,31/08/2023
+FR1,2023,Paris Saint-Germain,Ismaël Gharbi,Left Winger,20,7500000.0,01/07/2022
+FR1,2023,Paris Saint-Germain,Ethan Mbappé,Right Winger,17,1500000.0,
+FR1,2023,Paris Saint-Germain,Kylian Mbappé,Centre-Forward,25,180000000.0,01/07/2018
+FR1,2023,Paris Saint-Germain,Ousmane Dembélé,Centre-Forward,27,60000000.0,12/08/2023
+FR1,2023,Paris Saint-Germain,Gonçalo Ramos,Centre-Forward,23,50000000.0,01/01/2024
+FR1,2023,Paris Saint-Germain,Randal Kolo Muani,Centre-Forward,25,45000000.0,01/09/2023
+FR1,2023,Paris Saint-Germain,Hugo Ekitiké,Centre-Forward,22,20000000.0,01/07/2023
+FR1,2023,AS Monaco,Radoslaw Majecki,Goalkeeper,24,5000000.0,29/01/2020
+FR1,2023,AS Monaco,Philipp Köhn,Goalkeeper,26,5000000.0,15/07/2023
+FR1,2023,AS Monaco,Yann Lienard,Goalkeeper,21,200000.0,01/07/2023
+FR1,2023,AS Monaco,Mohammed Salisu,Centre-Back,25,15000000.0,01/08/2023
+FR1,2023,AS Monaco,Guillermo Maripán,Centre-Back,30,10000000.0,24/08/2019
+FR1,2023,AS Monaco,Thilo Kehrer,Centre-Back,27,10000000.0,01/07/2024
+FR1,2023,AS Monaco,Chrislain Matsima,Centre-Back,22,7000000.0,01/07/2020
+FR1,2023,AS Monaco,Ritchy Valmé,Centre-Back,19,200000.0,
+FR1,2023,AS Monaco,Caio Henrique,Left-Back,26,20000000.0,27/08/2020
+FR1,2023,AS Monaco,Ismail Jakobs,Left-Back,24,8000000.0,12/07/2021
+FR1,2023,AS Monaco,Kassoum Ouattara,Left-Back,19,8000000.0,01/11/2023
+FR1,2023,AS Monaco,Wilfried Singo,Right-Back,23,25000000.0,17/08/2023
+FR1,2023,AS Monaco,Vanderson,Right-Back,23,20000000.0,01/01/2022
+FR1,2023,AS Monaco,Ruben Aguilar,Right-Back,31,5000000.0,06/08/2019
+FR1,2023,AS Monaco,Nazim Babaï,Right-Back,21,100000.0,
+FR1,2023,AS Monaco,Youssouf Fofana,Defensive Midfield,25,30000000.0,29/01/2020
+FR1,2023,AS Monaco,Denis Zakaria,Defensive Midfield,27,25000000.0,14/08/2023
+FR1,2023,AS Monaco,Mohamed Camara,Defensive Midfield,24,20000000.0,14/08/2022
+FR1,2023,AS Monaco,Soungoutou Magassa,Defensive Midfield,20,8000000.0,01/07/2022
+FR1,2023,AS Monaco,Antonin Cartillier,Defensive Midfield,20,200000.0,
+FR1,2023,AS Monaco,Eliot Matazo,Central Midfield,22,5000000.0,01/07/2020
+FR1,2023,AS Monaco,Edan Diop,Central Midfield,19,2000000.0,01/07/2023
+FR1,2023,AS Monaco,Mamadou Coulibaly,Central Midfield,20,300000.0,01/07/2025
+FR1,2023,AS Monaco,Mayssam Benama,Central Midfield,19,150000.0,
+FR1,2023,AS Monaco,Krépin Diatta,Right Midfield,25,12000000.0,21/01/2021
+FR1,2023,AS Monaco,Aurélien Platret,Right Midfield,21,100000.0,
+FR1,2023,AS Monaco,Aleksandr Golovin,Attacking Midfield,28,30000000.0,27/07/2018
+FR1,2023,AS Monaco,Félix Lemaréchal,Attacking Midfield,20,5000000.0,01/07/2022
+FR1,2023,AS Monaco,Kevin Volland,Attacking Midfield,31,4000000.0,02/09/2020
+FR1,2023,AS Monaco,Saïmon Bouabré,Attacking Midfield,18,200000.0,01/07/2025
+FR1,2023,AS Monaco,Takumi Minamino,Left Winger,29,20000000.0,01/07/2022
+FR1,2023,AS Monaco,Eliesse Ben Seghir,Left Winger,19,15000000.0,01/01/2023
+FR1,2023,AS Monaco,Lucas Michal,Left Winger,19,100000.0,01/07/2025
+FR1,2023,AS Monaco,Maghnes Akliouche,Right Winger,22,25000000.0,01/07/2022
+FR1,2023,AS Monaco,Gelson Martins,Right Winger,29,2500000.0,01/07/2019
+FR1,2023,AS Monaco,Malamine Efekele,Right Winger,19,500000.0,
+FR1,2023,AS Monaco,Folarin Balogun,Centre-Forward,22,30000000.0,30/08/2023
+FR1,2023,AS Monaco,Breel Embolo,Centre-Forward,27,12000000.0,15/07/2022
+FR1,2023,AS Monaco,Wissam Ben Yedder,Centre-Forward,33,8000000.0,14/08/2019
+FR1,2023,AS Monaco,Myron Boadu,Centre-Forward,23,5000000.0,04/08/2021
+FR1,2023,Stade Rennais FC,Gauthier Gallon,Goalkeeper,31,1200000.0,05/07/2023
+FR1,2023,Stade Rennais FC,Steve Mandanda,Goalkeeper,39,800000.0,06/07/2022
+FR1,2023,Stade Rennais FC,Geoffrey Lembet,Goalkeeper,35,150000.0,18/07/2023
+FR1,2023,Stade Rennais FC,Yann Batola,Goalkeeper,20,,
+FR1,2023,Stade Rennais FC,Arthur Theate,Centre-Back,24,20000000.0,29/07/2022
+FR1,2023,Stade Rennais FC,Jeanuël Belocian,Centre-Back,19,10000000.0,01/07/2022
+FR1,2023,Stade Rennais FC,Alidu Seidu,Centre-Back,24,9000000.0,29/01/2024
+FR1,2023,Stade Rennais FC,Warmed Omari,Centre-Back,24,8000000.0,01/07/2021
+FR1,2023,Stade Rennais FC,Christopher Wooh,Centre-Back,22,6000000.0,01/09/2022
+FR1,2023,Stade Rennais FC,Mohamed Jaouab,Centre-Back,22,600000.0,01/07/2024
+FR1,2023,Stade Rennais FC,Jérémy Jacquet,Centre-Back,18,500000.0,01/01/2024
+FR1,2023,Stade Rennais FC,Adrien Truffert,Left-Back,22,18000000.0,01/07/2020
+FR1,2023,Stade Rennais FC,Birger Meling,Left-Back,29,3500000.0,20/07/2021
+FR1,2023,Stade Rennais FC,Mahamadou Nagida,Left-Back,19,500000.0,01/07/2024
+FR1,2023,Stade Rennais FC,Lorenz Assignon,Right-Back,24,10000000.0,01/07/2021
+FR1,2023,Stade Rennais FC,Guéla Doué,Right-Back,21,7000000.0,01/07/2022
+FR1,2023,Stade Rennais FC,Rayan Bamba,Right-Back,20,,01/07/2024
+FR1,2023,Stade Rennais FC,Azor Matusiwa,Defensive Midfield,26,12000000.0,22/01/2024
+FR1,2023,Stade Rennais FC,Baptiste Santamaria,Defensive Midfield,29,10000000.0,17/08/2021
+FR1,2023,Stade Rennais FC,Nemanja Matić,Defensive Midfield,35,3000000.0,14/08/2023
+FR1,2023,Stade Rennais FC,Benjamin Bourigeaud,Central Midfield,30,18000000.0,01/07/2017
+FR1,2023,Stade Rennais FC,Enzo Le Fée,Central Midfield,24,18000000.0,07/07/2023
+FR1,2023,Stade Rennais FC,Flavien Tait,Central Midfield,31,2000000.0,09/07/2019
+FR1,2023,Stade Rennais FC,Djaoui Cissé,Central Midfield,20,100000.0,01/07/2024
+FR1,2023,Stade Rennais FC,Ludovic Blas,Right Midfield,26,15000000.0,05/07/2023
+FR1,2023,Stade Rennais FC,Lovro Majer,Attacking Midfield,26,20000000.0,26/08/2021
+FR1,2023,Stade Rennais FC,Fabian Rieder,Attacking Midfield,22,8000000.0,31/08/2023
+FR1,2023,Stade Rennais FC,Jérémy Doku,Left Winger,22,65000000.0,05/10/2020
+FR1,2023,Stade Rennais FC,Martin Terrier,Left Winger,27,20000000.0,06/07/2020
+FR1,2023,Stade Rennais FC,Ibrahim Salah,Left Winger,22,4000000.0,31/01/2023
+FR1,2023,Stade Rennais FC,Désiré Doué,Right Winger,19,30000000.0,01/07/2022
+FR1,2023,Stade Rennais FC,Amine Gouiri,Centre-Forward,24,25000000.0,01/09/2022
+FR1,2023,Stade Rennais FC,Arnaud Kalimuendo,Centre-Forward,22,20000000.0,11/08/2022
+FR1,2023,Stade Rennais FC,Matthis Abline,Centre-Forward,21,6000000.0,01/07/2021
+FR1,2023,Stade Rennais FC,Bertuğ Yıldırım,Centre-Forward,21,3500000.0,29/08/2023
+FR1,2023,Stade Rennais FC,Mathis Lambourde,Centre-Forward,18,500000.0,28/07/2023
+FR1,2023,LOSC Lille,Lucas Chevalier,Goalkeeper,22,25000000.0,01/07/2020
+FR1,2023,LOSC Lille,Lisandru Olmeta,Goalkeeper,18,200000.0,01/07/2025
+FR1,2023,LOSC Lille,Vito Mannone,Goalkeeper,36,200000.0,29/08/2023
+FR1,2023,LOSC Lille,Adam Jakubech,Goalkeeper,27,200000.0,26/07/2017
+FR1,2023,LOSC Lille,Tom Negrel,Goalkeeper,21,,
+FR1,2023,LOSC Lille,Mohamed-Amine Ezzarhouni,Goalkeeper,18,,
+FR1,2023,LOSC Lille,Leny Yoro,Centre-Back,18,50000000.0,01/07/2022
+FR1,2023,LOSC Lille,Bafodé Diakité,Centre-Back,23,18000000.0,05/08/2022
+FR1,2023,LOSC Lille,Tiago Djaló,Centre-Back,24,12000000.0,01/08/2019
+FR1,2023,LOSC Lille,Alexsandro,Centre-Back,24,8000000.0,01/07/2022
+FR1,2023,LOSC Lille,Samuel Umtiti,Centre-Back,30,2500000.0,22/07/2023
+FR1,2023,LOSC Lille,Rafael Fernandes,Centre-Back,22,1500000.0,31/01/2024
+FR1,2023,LOSC Lille,Ousmane Touré,Centre-Back,19,50000.0,01/07/2024
+FR1,2023,LOSC Lille,Gabriel Gudmundsson,Left-Back,25,5000000.0,31/08/2021
+FR1,2023,LOSC Lille,Ismaily,Left-Back,34,1800000.0,04/08/2022
+FR1,2023,LOSC Lille,Vincent Burlet,Left-Back,18,,01/07/2024
+FR1,2023,LOSC Lille,Tiago Santos,Right-Back,21,15000000.0,05/07/2023
+FR1,2023,LOSC Lille,Akim Zedadka,Right-Back,29,2000000.0,01/07/2022
+FR1,2023,LOSC Lille,Carlos Baleba,Defensive Midfield,20,22000000.0,01/07/2022
+FR1,2023,LOSC Lille,Nabil Bentaleb,Defensive Midfield,29,10000000.0,28/08/2023
+FR1,2023,LOSC Lille,Benjamin André,Defensive Midfield,33,8000000.0,17/07/2019
+FR1,2023,LOSC Lille,Ignacio Miramón,Defensive Midfield,21,2500000.0,10/08/2023
+FR1,2023,LOSC Lille,Ayyoub Bouaddi,Central Midfield,16,6000000.0,01/07/2023
+FR1,2023,LOSC Lille,Lilian Baret,Central Midfield,18,,
+FR1,2023,LOSC Lille,Alan Virginius,Left Midfield,21,3500000.0,17/08/2022
+FR1,2023,LOSC Lille,Angel Gomes,Attacking Midfield,23,25000000.0,09/08/2020
+FR1,2023,LOSC Lille,Yusuf Yazıcı,Attacking Midfield,27,10000000.0,06/08/2019
+FR1,2023,LOSC Lille,Hákon Arnar Haraldsson,Attacking Midfield,21,9000000.0,17/07/2023
+FR1,2023,LOSC Lille,Rémy Cabella,Attacking Midfield,34,3500000.0,10/07/2022
+FR1,2023,LOSC Lille,Tiago Morais,Left Winger,20,3000000.0,30/01/2024
+FR1,2023,LOSC Lille,Ivan Cavaleiro,Left Winger,30,2000000.0,10/08/2023
+FR1,2023,LOSC Lille,Joffrey Bazié,Left Winger,20,100000.0,
+FR1,2023,LOSC Lille,Edon Zhegrova,Right Winger,25,25000000.0,14/01/2022
+FR1,2023,LOSC Lille,Adam Ounas,Right Winger,27,4000000.0,01/09/2022
+FR1,2023,LOSC Lille,Aaron Malouda,Right Winger,18,150000.0,
+FR1,2023,LOSC Lille,Ichem Ferrah,Right Winger,18,100000.0,01/07/2024
+FR1,2023,LOSC Lille,Adame Faïz,Right Winger,19,,
+FR1,2023,LOSC Lille,Jonathan David,Centre-Forward,24,50000000.0,11/08/2020
+FR1,2023,LOSC Lille,Andrej Ilic,Centre-Forward,24,3000000.0,01/02/2024
+FR1,2023,LOSC Lille,Amine Messoussa,Centre-Forward,19,400000.0,
+FR1,2023,LOSC Lille,Trévis Dago,Centre-Forward,19,200000.0,
+FR1,2023,Olympique Marseille,Pau López,Goalkeeper,29,10000000.0,01/07/2022
+FR1,2023,Olympique Marseille,Rubén Blanco,Goalkeeper,28,2000000.0,30/07/2023
+FR1,2023,Olympique Marseille,Simon Ngapandouetnbu,Goalkeeper,21,300000.0,11/10/2019
+FR1,2023,Olympique Marseille,Jelle Van Neck,Goalkeeper,20,100000.0,
+FR1,2023,Olympique Marseille,Leonardo Balerdi,Centre-Back,25,20000000.0,03/07/2021
+FR1,2023,Olympique Marseille,Chancel Mbemba,Centre-Back,29,15000000.0,15/07/2022
+FR1,2023,Olympique Marseille,Samuel Gigot,Centre-Back,30,9000000.0,29/01/2022
+FR1,2023,Olympique Marseille,Isaak Touré,Centre-Back,21,7000000.0,01/07/2022
+FR1,2023,Olympique Marseille,Bamo Meïté,Centre-Back,22,6000000.0,01/07/2024
+FR1,2023,Olympique Marseille,Roggerio Nyakossi,Centre-Back,20,100000.0,
+FR1,2023,Olympique Marseille,Yakine Said M'Madi,Centre-Back,20,100000.0,
+FR1,2023,Olympique Marseille,Stéphane Sparagna,Centre-Back,29,50000.0,20/07/2015
+FR1,2023,Olympique Marseille,Renan Lodi,Left-Back,26,18000000.0,14/07/2023
+FR1,2023,Olympique Marseille,Quentin Merlin,Left-Back,22,10000000.0,26/01/2024
+FR1,2023,Olympique Marseille,Ulisses Garcia,Left-Back,28,4000000.0,16/01/2024
+FR1,2023,Olympique Marseille,Emran Soglo,Left-Back,18,1000000.0,01/07/2023
+FR1,2023,Olympique Marseille,Jonathan Clauss,Right-Back,31,12000000.0,20/07/2022
+FR1,2023,Olympique Marseille,Amir Murillo,Right-Back,28,4000000.0,30/08/2023
+FR1,2023,Olympique Marseille,Amay Caprice,Right-Back,19,100000.0,
+FR1,2023,Olympique Marseille,Léo Jousselin,Right-Back,22,,
+FR1,2023,Olympique Marseille,Brice Negouai,Right-Back,22,,
+FR1,2023,Olympique Marseille,Geoffrey Kondogbia,Defensive Midfield,31,12000000.0,01/07/2023
+FR1,2023,Olympique Marseille,Jean Onana,Defensive Midfield,24,4000000.0,08/01/2024
+FR1,2023,Olympique Marseille,Raimane Daou,Defensive Midfield,19,150000.0,
+FR1,2023,Olympique Marseille,Noam Mayoka-Tika,Defensive Midfield,20,50000.0,
+FR1,2023,Olympique Marseille,Mattéo Guendouzi,Central Midfield,25,25000000.0,01/07/2022
+FR1,2023,Olympique Marseille,Jordan Veretout,Central Midfield,31,15000000.0,05/08/2022
+FR1,2023,Olympique Marseille,Azzedine Ounahi,Central Midfield,24,12000000.0,29/01/2023
+FR1,2023,Olympique Marseille,Valentin Rongier,Central Midfield,29,12000000.0,03/09/2019
+FR1,2023,Olympique Marseille,Pape Gueye,Central Midfield,25,6000000.0,01/07/2020
+FR1,2023,Olympique Marseille,Bilal Nadir,Central Midfield,20,500000.0,01/07/2023
+FR1,2023,Olympique Marseille,Paolo Sciortino,Central Midfield,20,100000.0,
+FR1,2023,Olympique Marseille,Gaël Lafont,Central Midfield,18,,
+FR1,2023,Olympique Marseille,Luis Henrique,Right Midfield,22,8000000.0,25/09/2020
+FR1,2023,Olympique Marseille,Alexandre Tunkadi,Attacking Midfield,18,,
+FR1,2023,Olympique Marseille,Darryl Bakola,Attacking Midfield,16,,03/09/2024
+FR1,2023,Olympique Marseille,Amine Harit,Left Winger,27,15000000.0,01/07/2023
+FR1,2023,Olympique Marseille,Ismaïla Sarr,Right Winger,26,18000000.0,24/07/2023
+FR1,2023,Olympique Marseille,Iliman Ndiaye,Right Winger,24,15000000.0,01/08/2023
+FR1,2023,Olympique Marseille,Cengiz Ünder,Right Winger,26,14000000.0,01/07/2022
+FR1,2023,Olympique Marseille,François Mughe,Right Winger,20,800000.0,01/07/2023
+FR1,2023,Olympique Marseille,Alexis Kabamba,Right Winger,18,,
+FR1,2023,Olympique Marseille,Keyliane Abdallah,Right Winger,18,,01/07/2026
+FR1,2023,Olympique Marseille,Joaquín Correa,Second Striker,29,6000000.0,25/08/2023
+FR1,2023,Olympique Marseille,Vitinha,Centre-Forward,24,14000000.0,31/01/2023
+FR1,2023,Olympique Marseille,Faris Moumbagna,Centre-Forward,23,10000000.0,20/01/2024
+FR1,2023,Olympique Marseille,Pierre-Emerick Aubameyang,Centre-Forward,35,5000000.0,31/07/2025
+FR1,2023,Olympique Marseille,Sofiane Sidi Ali,Centre-Forward,28,50000.0,
+FR1,2023,Olympique Marseille,Iuri Moreira,Centre-Forward,20,,
+FR1,2023,Olympique Lyon,Lucas Perri,Goalkeeper,26,6000000.0,05/01/2024
+FR1,2023,Olympique Lyon,Anthony Lopes,Goalkeeper,33,4000000.0,01/07/2011
+FR1,2023,Olympique Lyon,Mathieu Patouillet,Goalkeeper,20,400000.0,01/07/2023
+FR1,2023,Olympique Lyon,Justin Bengui,Goalkeeper,18,300000.0,31/08/2023
+FR1,2023,Olympique Lyon,Rémy Riou,Goalkeeper,36,250000.0,01/07/2022
+FR1,2023,Olympique Lyon,Duje Caleta-Car,Centre-Back,27,7000000.0,08/07/2024
+FR1,2023,Olympique Lyon,Sinaly Diomandé,Centre-Back,23,4000000.0,01/07/2020
+FR1,2023,Olympique Lyon,Adryelson,Centre-Back,26,4000000.0,05/01/2024
+FR1,2023,Olympique Lyon,Clinton Mata,Centre-Back,31,4000000.0,06/07/2023
+FR1,2023,Olympique Lyon,Dejan Lovren,Centre-Back,34,1200000.0,02/01/2023
+FR1,2023,Olympique Lyon,Mamadou Sarr,Centre-Back,18,1000000.0,01/07/2023
+FR1,2023,Olympique Lyon,Nicolás Tagliafico,Left-Back,31,8000000.0,23/07/2022
+FR1,2023,Olympique Lyon,Henrique Silva,Left-Back,30,1000000.0,01/07/2021
+FR1,2023,Olympique Lyon,Jake O'Brien,Right-Back,23,12000000.0,15/08/2023
+FR1,2023,Olympique Lyon,Ainsley Maitland-Niles,Right-Back,26,9000000.0,07/08/2023
+FR1,2023,Olympique Lyon,Saël Kumbedi,Right-Back,19,7000000.0,31/08/2022
+FR1,2023,Olympique Lyon,Orel Mangala,Defensive Midfield,26,20000000.0,02/07/2024
+FR1,2023,Olympique Lyon,Johann Lepenant,Defensive Midfield,21,6000000.0,01/07/2022
+FR1,2023,Olympique Lyon,Skelly Alvero,Defensive Midfield,22,4000000.0,05/07/2023
+FR1,2023,Olympique Lyon,Nemanja Matić,Defensive Midfield,35,3000000.0,27/01/2024
+FR1,2023,Olympique Lyon,Paul Akouokou,Defensive Midfield,26,1500000.0,01/09/2023
+FR1,2023,Olympique Lyon,Maxence Caqueret,Central Midfield,24,20000000.0,14/12/2018
+FR1,2023,Olympique Lyon,Corentin Tolisso,Central Midfield,29,5000000.0,01/07/2022
+FR1,2023,Olympique Lyon,Mahamadou Diawara,Central Midfield,19,3000000.0,01/07/2023
+FR1,2023,Olympique Lyon,Mohamed El Arouch,Central Midfield,20,1500000.0,01/07/2022
+FR1,2023,Olympique Lyon,Chaïm El Djebali,Central Midfield,20,300000.0,
+FR1,2023,Olympique Lyon,Diego Moreira,Left Midfield,19,3000000.0,01/09/2023
+FR1,2023,Olympique Lyon,Rayan Cherki,Attacking Midfield,20,25000000.0,01/01/2020
+FR1,2023,Olympique Lyon,Jeff Reine-Adélaïde,Attacking Midfield,26,2000000.0,14/08/2019
+FR1,2023,Olympique Lyon,Bradley Barcola,Left Winger,21,50000000.0,07/01/2022
+FR1,2023,Olympique Lyon,Saïd Benrahma,Left Winger,28,20000000.0,01/07/2024
+FR1,2023,Olympique Lyon,Malick Fofana,Left Winger,19,15000000.0,10/01/2024
+FR1,2023,Olympique Lyon,Jeffinho,Left Winger,24,5000000.0,31/01/2023
+FR1,2023,Olympique Lyon,Ernest Nuamah,Right Winger,20,18000000.0,07/07/2024
+FR1,2023,Olympique Lyon,Gift Orban,Centre-Forward,21,15000000.0,18/01/2024
+FR1,2023,Olympique Lyon,Alexandre Lacazette,Centre-Forward,33,9000000.0,01/07/2022
+FR1,2023,Olympique Lyon,Amin Sarr,Centre-Forward,23,4000000.0,30/01/2023
+FR1,2023,Olympique Lyon,Mama Baldé,Centre-Forward,28,4000000.0,08/07/2024
+FR1,2023,Olympique Lyon,Tino Kadewere,Centre-Forward,28,2500000.0,22/01/2020
+FR1,2023,OGC Nice,Marcin Bulka,Goalkeeper,24,20000000.0,01/07/2022
+FR1,2023,OGC Nice,Maxime Dupé,Goalkeeper,31,1500000.0,28/01/2024
+FR1,2023,OGC Nice,Salvatore Sirigu,Goalkeeper,37,275000.0,18/09/2023
+FR1,2023,OGC Nice,Teddy Boulhendi,Goalkeeper,23,100000.0,01/07/2020
+FR1,2023,OGC Nice,Jean-Clair Todibo,Centre-Back,24,35000000.0,01/07/2021
+FR1,2023,OGC Nice,Youssouf Ndayishimiye,Centre-Back,25,15000000.0,25/01/2023
+FR1,2023,OGC Nice,Robson Bambu,Centre-Back,26,3000000.0,01/07/2020
+FR1,2023,OGC Nice,Antoine Mendy,Centre-Back,20,800000.0,01/07/2022
+FR1,2023,OGC Nice,Dante,Centre-Back,40,500000.0,23/08/2016
+FR1,2023,OGC Nice,Amidou Doumbouya,Centre-Back,16,300000.0,01/07/2025
+FR1,2023,OGC Nice,Yannis Nahounou,Centre-Back,20,50000.0,
+FR1,2023,OGC Nice,Melvin Bard,Left-Back,23,12000000.0,16/07/2021
+FR1,2023,OGC Nice,Romain Perraud,Left-Back,26,5000000.0,28/08/2023
+FR1,2023,OGC Nice,Ayoub Amraoui,Left-Back,20,1500000.0,01/01/2023
+FR1,2023,OGC Nice,Jordan Lotomba,Right-Back,25,8000000.0,03/08/2020
+FR1,2023,OGC Nice,Youcef Atal,Right-Back,28,4300000.0,17/07/2018
+FR1,2023,OGC Nice,Valentin Rosier,Right-Back,27,4000000.0,18/01/2024
+FR1,2023,OGC Nice,Pablo Rosario,Defensive Midfield,27,8000000.0,27/07/2021
+FR1,2023,OGC Nice,Alexis Beka Beka,Defensive Midfield,23,1500000.0,01/08/2022
+FR1,2023,OGC Nice,Reda Belahyane,Defensive Midfield,20,500000.0,01/01/2023
+FR1,2023,OGC Nice,Khéphren Thuram,Central Midfield,23,35000000.0,06/07/2019
+FR1,2023,OGC Nice,Hicham Boudaoui,Central Midfield,24,9000000.0,02/09/2019
+FR1,2023,OGC Nice,Morgan Sanson,Central Midfield,29,8000000.0,01/07/2024
+FR1,2023,OGC Nice,Issiaga Camara,Central Midfield,19,100000.0,01/07/2024
+FR1,2023,OGC Nice,Daouda Traoré,Central Midfield,17,50000.0,
+FR1,2023,OGC Nice,Sami Wattel,Central Midfield,18,,
+FR1,2023,OGC Nice,Tom Louchet,Right Midfield,21,3000000.0,01/07/2023
+FR1,2023,OGC Nice,Alexis Claude-Maurice,Attacking Midfield,26,3500000.0,29/08/2019
+FR1,2023,OGC Nice,Jérémie Boga,Left Winger,27,15000000.0,25/07/2023
+FR1,2023,OGC Nice,Sofiane Diop,Left Winger,24,12000000.0,29/08/2022
+FR1,2023,OGC Nice,Aliou Baldé,Left Winger,21,800000.0,01/09/2023
+FR1,2023,OGC Nice,Mohamed-Ali Cho,Right Winger,20,10000000.0,08/01/2024
+FR1,2023,OGC Nice,Evann Guessand,Right Winger,22,8000000.0,01/07/2020
+FR1,2023,OGC Nice,Badredine Bouanani,Right Winger,19,5000000.0,07/07/2022
+FR1,2023,OGC Nice,Billal Brahimi,Right Winger,24,3000000.0,28/01/2022
+FR1,2023,OGC Nice,Kaïl Boudache,Right Winger,18,,01/01/2026
+FR1,2023,OGC Nice,Terem Moffi,Centre-Forward,25,25000000.0,01/07/2023
+FR1,2023,OGC Nice,Gaëtan Laborde,Centre-Forward,30,10000000.0,01/09/2022
+FR1,2023,RC Lens,Brice Samba,Goalkeeper,30,15000000.0,05/07/2022
+FR1,2023,RC Lens,Wuilker Fariñez,Goalkeeper,26,700000.0,01/07/2021
+FR1,2023,RC Lens,Jean-Louis Leca,Goalkeeper,38,200000.0,01/07/2018
+FR1,2023,RC Lens,Yannick Pandor,Goalkeeper,23,100000.0,01/07/2022
+FR1,2023,RC Lens,Kevin Danso,Centre-Back,25,25000000.0,06/08/2021
+FR1,2023,RC Lens,Facundo Medina,Centre-Back,25,25000000.0,02/07/2020
+FR1,2023,RC Lens,Jonathan Gradit,Centre-Back,31,4500000.0,20/08/2019
+FR1,2023,RC Lens,Abdukodir Khusanov,Centre-Back,20,2500000.0,24/07/2023
+FR1,2023,RC Lens,Julien Le Cardinal,Centre-Back,26,1500000.0,15/11/2022
+FR1,2023,RC Lens,Keny Mbala,Centre-Back,20,50000.0,
+FR1,2023,RC Lens,Deiver Machado,Left-Back,30,4000000.0,07/07/2021
+FR1,2023,RC Lens,Faitout Maouassa,Left-Back,25,4000000.0,01/09/2023
+FR1,2023,RC Lens,Jhoanner Chávez,Left-Back,22,2000000.0,01/07/2024
+FR1,2023,RC Lens,Massadio Haïdara,Left-Back,31,2000000.0,01/07/2018
+FR1,2023,RC Lens,Przemyslaw Frankowski,Right-Back,29,9000000.0,05/08/2021
+FR1,2023,RC Lens,Ruben Aguilar,Right-Back,31,5000000.0,01/09/2023
+FR1,2023,RC Lens,Tom Pouilly,Right-Back,21,,06/07/2024
+FR1,2023,RC Lens,Salis Abdul Samed,Defensive Midfield,24,8000000.0,01/07/2022
+FR1,2023,RC Lens,Nampalys Mendy,Defensive Midfield,32,3000000.0,04/09/2023
+FR1,2023,RC Lens,Noah Diliberto,Defensive Midfield,22,500000.0,
+FR1,2023,RC Lens,Fodé Sylla,Defensive Midfield,18,200000.0,01/07/2025
+FR1,2023,RC Lens,Andy Diouf,Central Midfield,21,9000000.0,02/07/2023
+FR1,2023,RC Lens,Neil El Aynaoui,Central Midfield,22,8000000.0,01/07/2023
+FR1,2023,RC Lens,Adrien Thomasson,Central Midfield,30,5000000.0,12/01/2023
+FR1,2023,RC Lens,Stijn Spierings,Central Midfield,28,4500000.0,01/07/2023
+FR1,2023,RC Lens,Jimmy Cabot,Right Midfield,30,2500000.0,01/07/2022
+FR1,2023,RC Lens,David Da Costa,Attacking Midfield,23,8000000.0,01/07/2020
+FR1,2023,RC Lens,Angelo Fulgini,Attacking Midfield,27,7000000.0,01/07/2023
+FR1,2023,RC Lens,Ayanda Sishuba,Attacking Midfield,19,500000.0,01/07/2024
+FR1,2023,RC Lens,Nolan Bonte,Attacking Midfield,20,50000.0,
+FR1,2023,RC Lens,Adam Abeddou,Attacking Midfield,27,,
+FR1,2023,RC Lens,Wesley Saïd,Left Winger,29,4000000.0,01/07/2021
+FR1,2023,RC Lens,Óscar Cortés,Left Winger,20,3500000.0,14/07/2023
+FR1,2023,RC Lens,Anthony Bermont,Left Winger,19,,01/07/2024
+FR1,2023,RC Lens,Morgan Guilavogui,Right Winger,26,3000000.0,02/07/2025
+FR1,2023,RC Lens,Elye Wahi,Centre-Forward,21,35000000.0,20/08/2023
+FR1,2023,RC Lens,Florian Sotoca,Centre-Forward,33,3000000.0,01/07/2019
+FR1,2023,RC Lens,Ibrahima Baldé,Centre-Forward,21,300000.0,01/07/2021
+FR1,2023,RC Strasbourg Alsace,Matz Sels,Goalkeeper,32,7000000.0,26/07/2018
+FR1,2023,RC Strasbourg Alsace,Alaa Bellaarouch,Goalkeeper,22,2000000.0,01/07/2022
+FR1,2023,RC Strasbourg Alsace,Matthieu Dreyer,Goalkeeper,35,150000.0,01/02/2024
+FR1,2023,RC Strasbourg Alsace,Alexandre Pierre,Goalkeeper,23,100000.0,01/07/2021
+FR1,2023,RC Strasbourg Alsace,Abakar Sylla,Centre-Back,21,12000000.0,15/07/2023
+FR1,2023,RC Strasbourg Alsace,Ismaël Doukouré,Centre-Back,20,10000000.0,29/01/2022
+FR1,2023,RC Strasbourg Alsace,Gerzino Nyamsi,Centre-Back,27,4500000.0,30/08/2021
+FR1,2023,RC Strasbourg Alsace,Lucas Perrin,Centre-Back,25,3000000.0,01/07/2022
+FR1,2023,RC Strasbourg Alsace,Saïdou Sow,Centre-Back,21,2500000.0,09/08/2023
+FR1,2023,RC Strasbourg Alsace,Steven Baseya,Centre-Back,19,50000.0,01/07/2023
+FR1,2023,RC Strasbourg Alsace,Eduard Sobol,Left-Back,29,1500000.0,23/01/2023
+FR1,2023,RC Strasbourg Alsace,Thomas Delaine,Left-Back,32,1000000.0,01/07/2022
+FR1,2023,RC Strasbourg Alsace,Maxime Bastian,Left-Back,23,600000.0,01/07/2021
+FR1,2023,RC Strasbourg Alsace,Elies Araar Fernandez,Left-Back,17,,
+FR1,2023,RC Strasbourg Alsace,Frédéric Guilbert,Right-Back,29,4000000.0,17/01/2023
+FR1,2023,RC Strasbourg Alsace,Marvin Senaya,Right-Back,23,2000000.0,01/07/2021
+FR1,2023,RC Strasbourg Alsace,Karol Fila,Right-Back,26,700000.0,01/07/2021
+FR1,2023,RC Strasbourg Alsace,Andrey Santos,Defensive Midfield,20,15000000.0,01/02/2024
+FR1,2023,RC Strasbourg Alsace,Junior Mwanga,Defensive Midfield,21,7000000.0,08/08/2023
+FR1,2023,RC Strasbourg Alsace,Ibrahima Sissoko,Defensive Midfield,26,6000000.0,01/07/2018
+FR1,2023,RC Strasbourg Alsace,Jean-Eudes Aholou,Defensive Midfield,30,800000.0,01/07/2022
+FR1,2023,RC Strasbourg Alsace,Rabby Nzingoula,Defensive Midfield,18,300000.0,01/07/2024
+FR1,2023,RC Strasbourg Alsace,Habib Diarra,Central Midfield,20,18000000.0,01/07/2022
+FR1,2023,RC Strasbourg Alsace,Jean-Ricner Bellegarde,Central Midfield,26,15000000.0,02/07/2019
+FR1,2023,RC Strasbourg Alsace,Jessy Deminguet,Central Midfield,26,1200000.0,01/07/2023
+FR1,2023,RC Strasbourg Alsace,Sanjin Prcic,Central Midfield,30,1200000.0,02/09/2019
+FR1,2023,RC Strasbourg Alsace,Samir El Mourabet,Central Midfield,18,,01/07/2025
+FR1,2023,RC Strasbourg Alsace,Tidiane Diallo,Attacking Midfield,18,,
+FR1,2023,RC Strasbourg Alsace,Tom Saettel,Left Winger,19,100000.0,
+FR1,2023,RC Strasbourg Alsace,Ângelo,Right Winger,19,15000000.0,08/08/2023
+FR1,2023,RC Strasbourg Alsace,Dilane Bakwa,Right Winger,21,10000000.0,08/08/2023
+FR1,2023,RC Strasbourg Alsace,Emmanuel Emegha,Centre-Forward,21,12000000.0,22/07/2023
+FR1,2023,RC Strasbourg Alsace,Moïse Sahi Dion,Centre-Forward,22,2000000.0,01/07/2021
+FR1,2023,RC Strasbourg Alsace,Lebo Mothiba,Centre-Forward,28,1500000.0,30/08/2018
+FR1,2023,RC Strasbourg Alsace,Kévin Gameiro,Centre-Forward,37,700000.0,18/07/2021
+FR1,2023,RC Strasbourg Alsace,Jérémy Sebas,Centre-Forward,21,500000.0,01/07/2024
+FR1,2023,RC Strasbourg Alsace,Mohamed Bechikh,Centre-Forward,18,150000.0,
+FR1,2023,RC Strasbourg Alsace,Aboubacar Ali,Centre-Forward,18,150000.0,01/07/2024
+FR1,2023,RC Strasbourg Alsace,Patrick Ouotro,Centre-Forward,18,,01/07/2024
+FR1,2023,Montpellier HSC,Benjamin Lecomte,Goalkeeper,33,3500000.0,26/01/2023
+FR1,2023,Montpellier HSC,Dimitry Bertaud,Goalkeeper,26,1200000.0,01/07/2017
+FR1,2023,Montpellier HSC,Belmin Dizdarevic,Goalkeeper,22,200000.0,07/07/2023
+FR1,2023,Montpellier HSC,Maxime Estève,Centre-Back,22,7000000.0,01/07/2021
+FR1,2023,Montpellier HSC,Becir Omeragic,Centre-Back,22,6000000.0,01/07/2023
+FR1,2023,Montpellier HSC,Kiki Kouyaté,Centre-Back,27,5000000.0,20/01/2023
+FR1,2023,Montpellier HSC,Modibo Sagnan,Centre-Back,25,3000000.0,01/02/2024
+FR1,2023,Montpellier HSC,Christopher Jullien,Centre-Back,31,2500000.0,23/08/2022
+FR1,2023,Montpellier HSC,Mamadou Sakho,Centre-Back,34,800000.0,27/07/2021
+FR1,2023,Montpellier HSC,Téo Allix,Centre-Back,19,100000.0,
+FR1,2023,Montpellier HSC,Issiaga Sylla,Left-Back,30,2500000.0,31/01/2023
+FR1,2023,Montpellier HSC,Lucas Mincarelli,Left-Back,20,1000000.0,01/12/2023
+FR1,2023,Montpellier HSC,Théo Sainte-Luce,Left-Back,25,1000000.0,01/07/2022
+FR1,2023,Montpellier HSC,Falaye Sacko,Right-Back,29,4000000.0,01/07/2023
+FR1,2023,Montpellier HSC,Enzo Tchato,Right-Back,21,2500000.0,01/07/2022
+FR1,2023,Montpellier HSC,Silvan Hefti,Right-Back,26,2500000.0,02/01/2024
+FR1,2023,Montpellier HSC,Joris Chotard,Defensive Midfield,22,10000000.0,25/09/2019
+FR1,2023,Montpellier HSC,Khalil Fayad,Central Midfield,20,5000000.0,01/07/2022
+FR1,2023,Montpellier HSC,Jordan Ferri,Central Midfield,32,4500000.0,01/07/2019
+FR1,2023,Montpellier HSC,Léo Leroy,Central Midfield,24,1000000.0,01/07/2021
+FR1,2023,Montpellier HSC,Théo Chennahi,Central Midfield,19,,01/07/2025
+FR1,2023,Montpellier HSC,Téji Savanier,Attacking Midfield,32,9000000.0,02/07/2019
+FR1,2023,Montpellier HSC,Sacha Delaye,Attacking Midfield,22,300000.0,01/07/2021
+FR1,2023,Montpellier HSC,Yann Karamoh,Left Winger,25,2500000.0,01/02/2024
+FR1,2023,Montpellier HSC,Wahbi Khazri,Left Winger,33,1800000.0,01/07/2022
+FR1,2023,Montpellier HSC,Yanis Issoufou,Left Winger,17,300000.0,01/07/2025
+FR1,2023,Montpellier HSC,Arnaud Nordin,Right Winger,26,8000000.0,01/07/2022
+FR1,2023,Montpellier HSC,Mousa Al-Tamari,Right Winger,27,8000000.0,01/07/2023
+FR1,2023,Montpellier HSC,Tanguy Coulibaly,Right Winger,23,2000000.0,04/12/2023
+FR1,2023,Montpellier HSC,Axel Guéguin,Right Winger,19,700000.0,01/07/2025
+FR1,2023,Montpellier HSC,Othmane Maamma,Right Winger,18,300000.0,01/07/2024
+FR1,2023,Montpellier HSC,Elye Wahi,Centre-Forward,21,35000000.0,01/01/2021
+FR1,2023,Montpellier HSC,Akor Adams,Centre-Forward,24,10000000.0,07/08/2023
+FR1,2023,Montpellier HSC,Kelvin Yeboah,Centre-Forward,24,4000000.0,01/09/2023
+FR1,2023,Montpellier HSC,Serigne Faye,Centre-Forward,20,200000.0,
+FR1,2023,Montpellier HSC,Yanis Guermouche,Centre-Forward,23,125000.0,01/07/2021
+FR1,2023,Montpellier HSC,Junior Ndiaye,Centre-Forward,19,50000.0,01/10/2024
+FR1,2023,FC Toulouse,Guillaume Restes,Goalkeeper,19,18000000.0,01/07/2023
+FR1,2023,FC Toulouse,Álex Domínguez,Goalkeeper,25,300000.0,26/07/2023
+FR1,2023,FC Toulouse,Thomas Himeur,Goalkeeper,23,50000.0,01/07/2021
+FR1,2023,FC Toulouse,Justin Lacombe,Goalkeeper,21,50000.0,01/07/2023
+FR1,2023,FC Toulouse,Logan Costa,Centre-Back,23,12000000.0,20/08/2021
+FR1,2023,FC Toulouse,Christian Mawissa,Centre-Back,19,9000000.0,01/07/2023
+FR1,2023,FC Toulouse,Anthony Rouault,Centre-Back,23,7000000.0,01/07/2020
+FR1,2023,FC Toulouse,Rasmus Nicolaisen,Centre-Back,27,6000000.0,17/08/2021
+FR1,2023,FC Toulouse,Moussa Diarra,Centre-Back,23,2000000.0,01/07/2019
+FR1,2023,FC Toulouse,Kévin Keben,Centre-Back,20,500000.0,01/07/2022
+FR1,2023,FC Toulouse,Nicolas Wasbauer,Centre-Back,19,,
+FR1,2023,FC Toulouse,Gabriel Suazo,Left-Back,26,3500000.0,16/01/2023
+FR1,2023,FC Toulouse,Oliver Zandén,Left-Back,22,800000.0,19/07/2022
+FR1,2023,FC Toulouse,Ylies Aradj,Left-Back,19,,01/07/2025
+FR1,2023,FC Toulouse,Mikkel Desler,Right-Back,29,3000000.0,20/07/2021
+FR1,2023,FC Toulouse,Warren Kamanzi,Right-Back,23,2000000.0,02/01/2023
+FR1,2023,FC Toulouse,Rafik Messali,Right-Back,21,,01/07/2024
+FR1,2023,FC Toulouse,Stijn Spierings,Central Midfield,28,4500000.0,14/09/2023
+FR1,2023,FC Toulouse,Vincent Sierro,Central Midfield,28,4000000.0,23/01/2023
+FR1,2023,FC Toulouse,Cristian Cásseres Jr.,Central Midfield,24,4000000.0,07/07/2023
+FR1,2023,FC Toulouse,Niklas Schmidt,Central Midfield,26,3000000.0,04/08/2023
+FR1,2023,FC Toulouse,Kléri Serber,Central Midfield,25,250000.0,21/01/2021
+FR1,2023,FC Toulouse,Noah Lahmadi,Central Midfield,19,50000.0,
+FR1,2023,FC Toulouse,Aron Dønnum,Right Midfield,26,3500000.0,01/09/2023
+FR1,2023,FC Toulouse,Farès Chaïbi,Attacking Midfield,21,18000000.0,01/07/2022
+FR1,2023,FC Toulouse,Denis Genreau,Attacking Midfield,25,1500000.0,02/08/2021
+FR1,2023,FC Toulouse,César Gelabert,Attacking Midfield,23,1500000.0,01/07/2023
+FR1,2023,FC Toulouse,Naatan Skyttä,Attacking Midfield,22,400000.0,01/02/2021
+FR1,2023,FC Toulouse,Edhy Zuliani,Attacking Midfield,19,,01/07/2025
+FR1,2023,FC Toulouse,Yann Gboho,Left Winger,23,4000000.0,08/01/2024
+FR1,2023,FC Toulouse,Ibrahim Cissoko,Left Winger,21,1500000.0,01/07/2023
+FR1,2023,FC Toulouse,Zakaria Aboukhlal,Right Winger,24,10000000.0,01/07/2022
+FR1,2023,FC Toulouse,Shavy Babicka,Right Winger,24,2000000.0,18/01/2024
+FR1,2023,FC Toulouse,Mamady Bangré,Right Winger,23,800000.0,01/07/2021
+FR1,2023,FC Toulouse,Noah Edjouma,Right Winger,18,50000.0,01/01/2025
+FR1,2023,FC Toulouse,Thijs Dallinga,Centre-Forward,23,18000000.0,01/07/2022
+FR1,2023,FC Toulouse,Frank Magri,Centre-Forward,24,3000000.0,21/07/2023
+FR1,2023,FC Toulouse,Yanis Begraoui,Centre-Forward,22,900000.0,06/08/2021
+FR1,2023,FC Toulouse,Bonota Traoré,Centre-Forward,21,50000.0,
+FR1,2023,Stade Reims,Yehvann Diouf,Goalkeeper,24,8000000.0,01/07/2019
+FR1,2023,Stade Reims,Alexandre Olliero,Goalkeeper,28,400000.0,31/01/2023
+FR1,2023,Stade Reims,Ludovic Butelle,Goalkeeper,41,100000.0,01/07/2023
+FR1,2023,Stade Reims,Joseph Okumu,Centre-Back,27,9000000.0,22/07/2023
+FR1,2023,Stade Reims,Emmanuel Agbadou,Centre-Back,27,9000000.0,01/07/2022
+FR1,2023,Stade Reims,Check Keita,Centre-Back,21,1500000.0,01/03/2023
+FR1,2023,Stade Reims,Yunis Abdelhamid,Centre-Back,36,600000.0,01/07/2017
+FR1,2023,Stade Reims,Fallou Fall,Centre-Back,20,100000.0,01/07/2024
+FR1,2023,Stade Reims,Arthur Tchaptchet,Centre-Back,18,50000.0,01/07/2024
+FR1,2023,Stade Reims,Killian Prouchet,Centre-Back,19,,
+FR1,2023,Stade Reims,Abdoul Koné,Centre-Back,19,,30/01/2026
+FR1,2023,Stade Reims,Sergio Akieme,Left-Back,26,7000000.0,01/02/2024
+FR1,2023,Stade Reims,Josh Wilson-Esbrand,Left-Back,21,4000000.0,23/07/2023
+FR1,2023,Stade Reims,Thibault De Smet,Left-Back,26,4000000.0,01/07/2020
+FR1,2023,Stade Reims,Nhoa Sangui,Left-Back,18,,01/07/2024
+FR1,2023,Stade Reims,Thomas Foket,Right-Back,29,6000000.0,31/08/2018
+FR1,2023,Stade Reims,Maxime Busi,Right-Back,24,1500000.0,01/07/2022
+FR1,2023,Stade Reims,Thérence Koudou,Right-Back,19,800000.0,01/07/2023
+FR1,2023,Stade Reims,Ibrahim Diakité,Right-Back,20,800000.0,01/07/2022
+FR1,2023,Stade Reims,Azor Matusiwa,Defensive Midfield,26,12000000.0,31/08/2021
+FR1,2023,Stade Reims,Benjamin Stambouli,Defensive Midfield,33,700000.0,01/02/2024
+FR1,2023,Stade Reims,Amadou Koné,Defensive Midfield,19,500000.0,01/07/2024
+FR1,2023,Stade Reims,Samuel Koeberlé,Defensive Midfield,19,150000.0,
+FR1,2023,Stade Reims,Marshall Munetsi,Central Midfield,28,10000000.0,01/07/2019
+FR1,2023,Stade Reims,Teddy Teuma,Central Midfield,30,7000000.0,07/07/2023
+FR1,2023,Stade Reims,Amir Richardson,Central Midfield,22,6000000.0,31/08/2022
+FR1,2023,Stade Reims,Valentin Atangana,Central Midfield,18,1000000.0,01/07/2023
+FR1,2023,Stade Reims,Yaya Fofana,Central Midfield,20,150000.0,01/07/2024
+FR1,2023,Stade Reims,Kamory Doumbia,Attacking Midfield,21,5000000.0,01/07/2022
+FR1,2023,Stade Reims,Reda Khadra,Attacking Midfield,22,3000000.0,21/07/2023
+FR1,2023,Stade Reims,Mohamed Daramy,Left Winger,22,10000000.0,11/08/2023
+FR1,2023,Stade Reims,Keito Nakamura,Left Winger,23,9000000.0,10/08/2023
+FR1,2023,Stade Reims,Mamadou Diakhon,Left Winger,18,700000.0,01/07/2023
+FR1,2023,Stade Reims,Ike Orazi,Left Winger,17,,01/07/2025
+FR1,2023,Stade Reims,Junya Ito,Right Winger,31,8000000.0,29/07/2022
+FR1,2023,Stade Reims,Oumar Diakité,Centre-Forward,20,6000000.0,01/07/2023
+FR1,2023,Stade Reims,Amine Salama,Centre-Forward,23,2000000.0,01/07/2023
+FR1,2023,Stade Reims,Adama Bojang,Centre-Forward,20,500000.0,06/08/2023
+FR1,2023,Stade Reims,Christ Letono,Centre-Forward,20,,
+FR1,2023,FC Lorient,Yvon Mvogo,Goalkeeper,30,3000000.0,13/07/2022
+FR1,2023,FC Lorient,Alfred Gomis,Goalkeeper,30,1000000.0,01/09/2023
+FR1,2023,FC Lorient,Vito Mannone,Goalkeeper,36,200000.0,01/09/2022
+FR1,2023,FC Lorient,Dominique Youfeigane,Goalkeeper,24,150000.0,20/07/2023
+FR1,2023,FC Lorient,Montassar Talbi,Centre-Back,26,7000000.0,18/07/2022
+FR1,2023,FC Lorient,Isaak Touré,Centre-Back,21,7000000.0,01/09/2023
+FR1,2023,FC Lorient,Bamo Meïté,Centre-Back,22,6000000.0,01/09/2025
+FR1,2023,FC Lorient,Formose Mendy,Centre-Back,23,4500000.0,20/07/2023
+FR1,2023,FC Lorient,Nathaniel Adjei,Centre-Back,21,2500000.0,01/07/2024
+FR1,2023,FC Lorient,Julien Laporte,Centre-Back,30,2000000.0,08/07/2019
+FR1,2023,FC Lorient,Loris Mouyokolo,Centre-Back,23,300000.0,13/07/2021
+FR1,2023,FC Lorient,Aurélien Pelon,Centre-Back,20,,
+FR1,2023,FC Lorient,Carmel Mabanza,Centre-Back,20,,
+FR1,2023,FC Lorient,Enzo Genton,Centre-Back,18,,01/07/2024
+FR1,2023,FC Lorient,Benjamin Mendy,Left-Back,29,2000000.0,19/07/2023
+FR1,2023,FC Lorient,Darlin Yongwa,Left-Back,23,1500000.0,01/07/2022
+FR1,2023,FC Lorient,Gino Caoki,Left-Back,19,50000.0,
+FR1,2023,FC Lorient,Vincent Le Goff,Left-Back,34,,17/07/2014
+FR1,2023,FC Lorient,Gédéon Kalulu,Right-Back,26,3500000.0,01/07/2022
+FR1,2023,FC Lorient,Igor Silva,Right-Back,27,1000000.0,23/07/2021
+FR1,2023,FC Lorient,Dembo Sylla,Right-Back,21,700000.0,17/07/2023
+FR1,2023,FC Lorient,Laurent Abergel,Defensive Midfield,31,3000000.0,26/07/2019
+FR1,2023,FC Lorient,Tiemoué Bakayoko,Defensive Midfield,29,2000000.0,31/08/2023
+FR1,2023,FC Lorient,Bonke Innocent,Defensive Midfield,28,1000000.0,18/01/2022
+FR1,2023,FC Lorient,Imrân Louza,Central Midfield,25,7000000.0,15/01/2024
+FR1,2023,FC Lorient,Ayman Kari,Central Midfield,19,4000000.0,31/01/2023
+FR1,2023,FC Lorient,Julien Ponceau,Central Midfield,23,3500000.0,01/07/2018
+FR1,2023,FC Lorient,Arthur Avom,Central Midfield,19,,01/07/2024
+FR1,2023,FC Lorient,Joel Mvuka,Right Midfield,21,3500000.0,31/01/2023
+FR1,2023,FC Lorient,Panos Katseris,Right Midfield,22,2500000.0,23/01/2024
+FR1,2023,FC Lorient,Théo Le Bris,Right Midfield,21,2000000.0,01/07/2022
+FR1,2023,FC Lorient,Romain Faivre,Attacking Midfield,25,15000000.0,14/07/2023
+FR1,2023,FC Lorient,Jean-Victor Makengo,Attacking Midfield,26,6000000.0,30/01/2023
+FR1,2023,FC Lorient,Quentin Boisgard,Attacking Midfield,27,700000.0,02/07/2020
+FR1,2023,FC Lorient,Pablo Pagis,Left Winger,21,1000000.0,01/07/2022
+FR1,2023,FC Lorient,Bassirou N'Diaye,Left Winger,22,500000.0,
+FR1,2023,FC Lorient,Badredine Bouanani,Right Winger,19,5000000.0,31/01/2024
+FR1,2023,FC Lorient,Royce Openda,Right Winger,22,50000.0,
+FR1,2023,FC Lorient,Junior Kroupi,Centre-Forward,18,15000000.0,04/02/2025
+FR1,2023,FC Lorient,Mohamed Bamba,Centre-Forward,22,6000000.0,26/01/2024
+FR1,2023,FC Lorient,Bamba Dieng,Centre-Forward,24,4000000.0,27/01/2023
+FR1,2023,FC Lorient,Aiyegun Tosin,Centre-Forward,26,3000000.0,25/07/2023
+FR1,2023,FC Lorient,Ibrahima Koné,Centre-Forward,25,2500000.0,31/01/2022
+FR1,2023,FC Lorient,Adrian Grbic,Centre-Forward,27,1200000.0,08/07/2020
+FR1,2023,FC Lorient,Siriné Doucouré,Centre-Forward,22,1000000.0,01/09/2022
+FR1,2023,FC Nantes,Alban Lafont,Goalkeeper,25,9000000.0,01/07/2021
+FR1,2023,FC Nantes,Rémy Descamps,Goalkeeper,28,1500000.0,01/07/2021
+FR1,2023,FC Nantes,Hugo Barbet,Goalkeeper,22,150000.0,06/07/2023
+FR1,2023,FC Nantes,Denis Petric,Goalkeeper,36,100000.0,01/08/2019
+FR1,2023,FC Nantes,Nathan Zézé,Centre-Back,19,5000000.0,04/07/2023
+FR1,2023,FC Nantes,Eray Cömert,Centre-Back,26,4000000.0,26/08/2023
+FR1,2023,FC Nantes,Nicolas Cozza,Centre-Back,25,3500000.0,28/08/2024
+FR1,2023,FC Nantes,Jean-Charles Castelletto,Centre-Back,29,3500000.0,01/07/2020
+FR1,2023,FC Nantes,Bastien Meupiyou,Centre-Back,18,800000.0,01/08/2023
+FR1,2023,FC Nantes,Nicolas Pallois,Centre-Back,36,600000.0,27/07/2017
+FR1,2023,FC Nantes,Junior Diaz,Centre-Back,20,400000.0,01/07/2023
+FR1,2023,FC Nantes,Yannis M'Bemba,Centre-Back,22,100000.0,
+FR1,2023,FC Nantes,Robin Voisine,Centre-Back,22,,
+FR1,2023,FC Nantes,Enzo Mongo,Centre-Back,19,,
+FR1,2023,FC Nantes,Quentin Merlin,Left-Back,22,10000000.0,01/07/2021
+FR1,2023,FC Nantes,Jaouen Hadjam,Left-Back,21,2000000.0,17/01/2023
+FR1,2023,FC Nantes,Hugo Boutsingkham,Left-Back,21,200000.0,
+FR1,2023,FC Nantes,Jean-Kévin Duverne,Right-Back,26,3500000.0,30/08/2023
+FR1,2023,FC Nantes,Ronaël Pierre-Gabriel,Right-Back,26,3500000.0,01/08/2023
+FR1,2023,FC Nantes,Fabien Centonze,Right-Back,28,3000000.0,22/09/2022
+FR1,2023,FC Nantes,Kelvin Amian,Right-Back,26,2500000.0,25/01/2024
+FR1,2023,FC Nantes,Marcus Coco,Right-Back,28,1500000.0,16/07/2019
+FR1,2023,FC Nantes,Pedro Chirivella,Defensive Midfield,27,7000000.0,01/07/2020
+FR1,2023,FC Nantes,Lamine Diack,Defensive Midfield,23,1200000.0,31/01/2024
+FR1,2023,FC Nantes,Mathis Oger,Defensive Midfield,21,,
+FR1,2023,FC Nantes,Douglas Augusto,Central Midfield,27,6000000.0,12/08/2023
+FR1,2023,FC Nantes,Samuel Moutoussamy,Central Midfield,27,3000000.0,06/09/2017
+FR1,2023,FC Nantes,Moussa Sissoko,Central Midfield,34,1200000.0,01/07/2022
+FR1,2023,FC Nantes,Mohamed Achi,Central Midfield,22,200000.0,01/07/2022
+FR1,2023,FC Nantes,Dehmaine Tabibou,Central Midfield,19,50000.0,01/07/2024
+FR1,2023,FC Nantes,Florent Mollet,Attacking Midfield,32,1800000.0,17/01/2023
+FR1,2023,FC Nantes,Moses Simon,Left Winger,28,12000000.0,01/07/2020
+FR1,2023,FC Nantes,Bénie Traoré,Left Winger,21,4000000.0,04/01/2024
+FR1,2023,FC Nantes,Abdoul Kader Bamba,Left Winger,30,900000.0,01/07/2019
+FR1,2023,FC Nantes,Adel Mahamoud,Left Winger,21,100000.0,
+FR1,2023,FC Nantes,Marquinhos,Right Winger,21,7000000.0,12/08/2023
+FR1,2023,FC Nantes,Adson,Right Winger,23,4500000.0,23/08/2023
+FR1,2023,FC Nantes,Stredair Appuah,Right Winger,20,500000.0,01/07/2023
+FR1,2023,FC Nantes,Mostafa Mohamed,Centre-Forward,26,10000000.0,01/07/2023
+FR1,2023,FC Nantes,Matthis Abline,Centre-Forward,21,6000000.0,03/07/2024
+FR1,2023,FC Nantes,Ignatius Ganago,Centre-Forward,25,3000000.0,01/09/2022
+FR1,2023,FC Nantes,Tino Kadewere,Centre-Forward,28,2500000.0,01/07/2024
+FR1,2023,FC Nantes,Joe-Loïc Affamah,Centre-Forward,22,100000.0,
+FR1,2023,Stade Brestois 29,Marco Bizot,Goalkeeper,33,4000000.0,04/08/2021
+FR1,2023,Stade Brestois 29,Grégoire Coudert,Goalkeeper,25,400000.0,05/07/2021
+FR1,2023,Stade Brestois 29,Yan Marillat,Goalkeeper,29,150000.0,27/09/2023
+FR1,2023,Stade Brestois 29,Lilian Brassier,Centre-Back,24,12000000.0,01/07/2021
+FR1,2023,Stade Brestois 29,Brendan Chardonnet,Centre-Back,29,8000000.0,01/07/2013
+FR1,2023,Stade Brestois 29,Achraf Dari,Centre-Back,25,2000000.0,29/07/2022
+FR1,2023,Stade Brestois 29,Christophe Hérelle,Centre-Back,31,1500000.0,11/08/2020
+FR1,2023,Stade Brestois 29,Julien Le Cardinal,Centre-Back,26,1500000.0,01/07/2024
+FR1,2023,Stade Brestois 29,Josué Escartin,Centre-Back,21,150000.0,09/08/2022
+FR1,2023,Stade Brestois 29,Tommy Le Verge,Centre-Back,18,,
+FR1,2023,Stade Brestois 29,Bradley Locko,Left-Back,22,12000000.0,27/07/2023
+FR1,2023,Stade Brestois 29,Jordan Amavi,Left-Back,30,1200000.0,31/07/2024
+FR1,2023,Stade Brestois 29,Kenny Lala,Right-Back,32,3000000.0,01/01/2023
+FR1,2023,Stade Brestois 29,Luck Zogbé,Right-Back,19,100000.0,26/10/2023
+FR1,2023,Stade Brestois 29,Pierre Lees-Melou,Defensive Midfield,31,10000000.0,23/07/2022
+FR1,2023,Stade Brestois 29,Jonas Martin,Defensive Midfield,34,1000000.0,19/07/2023
+FR1,2023,Stade Brestois 29,Antonin Cartillier,Defensive Midfield,20,200000.0,01/02/2024
+FR1,2023,Stade Brestois 29,Mahdi Camara,Central Midfield,26,10000000.0,01/07/2023
+FR1,2023,Stade Brestois 29,Hugo Magnetti,Central Midfield,26,7000000.0,01/07/2018
+FR1,2023,Stade Brestois 29,Hianga'a Mbock,Central Midfield,24,700000.0,01/07/2019
+FR1,2023,Stade Brestois 29,Kamory Doumbia,Attacking Midfield,21,5000000.0,30/08/2024
+FR1,2023,Stade Brestois 29,Karamoko Dembélé,Attacking Midfield,21,900000.0,05/07/2022
+FR1,2023,Stade Brestois 29,Adrien Lebeau,Attacking Midfield,24,300000.0,04/08/2023
+FR1,2023,Stade Brestois 29,Mathias Pereira Lage,Left Winger,27,2500000.0,01/07/2022
+FR1,2023,Stade Brestois 29,Djibril Konté,Left Winger,21,50000.0,
+FR1,2023,Stade Brestois 29,Romain Del Castillo,Right Winger,28,10000000.0,31/08/2021
+FR1,2023,Stade Brestois 29,Billal Brahimi,Right Winger,24,3000000.0,01/09/2023
+FR1,2023,Stade Brestois 29,Axel Camblan,Right Winger,20,500000.0,01/07/2022
+FR1,2023,Stade Brestois 29,Martín Satriano,Centre-Forward,23,7000000.0,14/07/2023
+FR1,2023,Stade Brestois 29,Steve Mounié,Centre-Forward,29,6000000.0,09/09/2020
+FR1,2023,Stade Brestois 29,Jérémy Le Douaron,Centre-Forward,26,5000000.0,01/07/2020
+FR1,2023,Le Havre AC,Arthur Desmas,Goalkeeper,30,2500000.0,01/07/2022
+FR1,2023,Le Havre AC,Mohamed Koné,Goalkeeper,22,500000.0,01/07/2022
+FR1,2023,Le Havre AC,Mathieu Gorgelin,Goalkeeper,33,200000.0,01/07/2019
+FR1,2023,Le Havre AC,Paul Argney,Goalkeeper,18,150000.0,01/07/2024
+FR1,2023,Le Havre AC,Arouna Sangante,Centre-Back,22,10000000.0,01/07/2021
+FR1,2023,Le Havre AC,Étienne Youté Kinkoué,Centre-Back,22,7000000.0,11/01/2023
+FR1,2023,Le Havre AC,Gautier Lloris,Centre-Back,28,3000000.0,12/07/2022
+FR1,2023,Le Havre AC,Yoann Salmier,Centre-Back,31,1500000.0,04/07/2023
+FR1,2023,Le Havre AC,Yoni Gomis,Centre-Back,18,50000.0,01/07/2024
+FR1,2023,Le Havre AC,Aliou Thiaré,Centre-Back,20,,01/07/2024
+FR1,2023,Le Havre AC,Christopher Operi,Left-Back,27,4000000.0,01/07/2022
+FR1,2023,Le Havre AC,Cheick Doumbia,Left-Back,19,50000.0,01/07/2023
+FR1,2023,Le Havre AC,Loïc Nego,Right-Back,33,900000.0,01/07/2023
+FR1,2023,Le Havre AC,Oualid El Hajjam,Right-Back,33,800000.0,15/07/2022
+FR1,2023,Le Havre AC,Abdoulaye Touré,Defensive Midfield,30,3000000.0,26/07/2023
+FR1,2023,Le Havre AC,Oussama Targhalline,Defensive Midfield,22,2500000.0,06/01/2023
+FR1,2023,Le Havre AC,Nolan Mbemba,Defensive Midfield,29,350000.0,01/07/2020
+FR1,2023,Le Havre AC,Aloïs Confais,Defensive Midfield,27,250000.0,17/08/2022
+FR1,2023,Le Havre AC,Mathéo Bodmer,Defensive Midfield,20,,
+FR1,2023,Le Havre AC,Daler Kuzyaev,Central Midfield,31,8000000.0,12/07/2023
+FR1,2023,Le Havre AC,Yassine Kechta,Central Midfield,22,5000000.0,01/07/2022
+FR1,2023,Le Havre AC,Rassoul Ndiaye,Central Midfield,22,2500000.0,17/07/2023
+FR1,2023,Le Havre AC,Simon Ebonog,Central Midfield,19,100000.0,01/07/2024
+FR1,2023,Le Havre AC,Nabil Alioui,Attacking Midfield,25,3200000.0,11/08/2020
+FR1,2023,Le Havre AC,Mokrane Bentoumi,Attacking Midfield,18,50000.0,01/07/2024
+FR1,2023,Le Havre AC,Antoine Joujou,Left Winger,21,1500000.0,29/08/2024
+FR1,2023,Le Havre AC,Issa Soumaré,Left Winger,23,800000.0,04/07/2023
+FR1,2023,Le Havre AC,Kandet Diawara,Left Winger,24,400000.0,04/07/2023
+FR1,2023,Le Havre AC,Josué Casimir,Right Winger,22,3000000.0,01/07/2021
+FR1,2023,Le Havre AC,Emmanuel Sabbi,Right Winger,26,2500000.0,10/08/2023
+FR1,2023,Le Havre AC,Samuel Grandsir,Right Winger,27,1500000.0,23/01/2023
+FR1,2023,Le Havre AC,Mohamed Bayo,Centre-Forward,26,5000000.0,01/09/2023
+FR1,2023,Le Havre AC,André Ayew,Centre-Forward,34,1000000.0,04/10/2024
+FR1,2023,Le Havre AC,Elysée Logbo,Centre-Forward,20,800000.0,01/07/2022
+FR1,2023,Le Havre AC,Steve Ngoura,Centre-Forward,19,400000.0,01/01/2024
+FR1,2023,FC Metz,Guillaume Dietsch,Goalkeeper,23,600000.0,30/11/2018
+FR1,2023,FC Metz,Alexandre Oukidja,Goalkeeper,35,500000.0,01/07/2018
+FR1,2023,FC Metz,Marc-Aurèle Caillard,Goalkeeper,30,200000.0,20/07/2020
+FR1,2023,FC Metz,Fali Candé,Centre-Back,26,2500000.0,26/01/2022
+FR1,2023,FC Metz,Christophe Hérelle,Centre-Back,31,1500000.0,01/09/2023
+FR1,2023,FC Metz,Sadibou Sané,Centre-Back,20,800000.0,22/07/2023
+FR1,2023,FC Metz,Aboubacar Lô,Centre-Back,24,300000.0,01/07/2021
+FR1,2023,FC Metz,Ismaël Traoré,Centre-Back,37,250000.0,21/07/2022
+FR1,2023,FC Metz,Albin Demouchy,Centre-Back,22,50000.0,
+FR1,2023,FC Metz,Charles Divialle-Corbière,Centre-Back,20,,
+FR1,2023,FC Metz,Matthieu Udol,Left-Back,28,2500000.0,01/07/2015
+FR1,2023,FC Metz,Kevin Van Den Kerkhof,Right-Back,28,3000000.0,31/08/2023
+FR1,2023,FC Metz,Koffi Kouao,Right-Back,26,1500000.0,12/08/2022
+FR1,2023,FC Metz,Maxime Colin,Right-Back,32,900000.0,27/07/2023
+FR1,2023,FC Metz,Sofiane Alakouch,Right-Back,25,500000.0,21/07/2021
+FR1,2023,FC Metz,Habib Maïga,Defensive Midfield,28,2500000.0,01/07/2019
+FR1,2023,FC Metz,Danley Jean Jacques,Defensive Midfield,24,2000000.0,07/07/2022
+FR1,2023,FC Metz,Kévin N'Doram,Defensive Midfield,28,1500000.0,01/07/2020
+FR1,2023,FC Metz,Warren Tchimbembé,Defensive Midfield,26,300000.0,23/07/2020
+FR1,2023,FC Metz,Lamine Camara,Central Midfield,20,10000000.0,01/07/2023
+FR1,2023,FC Metz,Arthur Atta,Central Midfield,21,1000000.0,25/01/2023
+FR1,2023,FC Metz,Jean N'Guessan,Central Midfield,21,800000.0,21/07/2023
+FR1,2023,FC Metz,Joseph Nduquidi,Central Midfield,19,800000.0,31/08/2023
+FR1,2023,FC Metz,Sami Lahssaini,Central Midfield,25,400000.0,03/01/2019
+FR1,2023,FC Metz,Ablie Jallow,Right Midfield,25,2000000.0,11/07/2017
+FR1,2023,FC Metz,Youssef Maziz,Attacking Midfield,26,1500000.0,01/07/2020
+FR1,2023,FC Metz,Cheikh Sabaly,Left Winger,25,2000000.0,01/07/2018
+FR1,2023,FC Metz,Papa Amadou Diallo,Left Winger,20,1000000.0,01/07/2023
+FR1,2023,FC Metz,Maïdine Douane,Left Winger,21,200000.0,01/07/2022
+FR1,2023,FC Metz,Joel Asoro,Right Winger,25,1500000.0,24/08/2023
+FR1,2023,FC Metz,Malick Mbaye,Right Winger,20,500000.0,01/07/2023
+FR1,2023,FC Metz,Georges Mikautadze,Centre-Forward,23,15000000.0,01/07/2024
+FR1,2023,FC Metz,Óscar Estupiñán,Centre-Forward,27,4000000.0,01/09/2023
+FR1,2023,FC Metz,Didier Lamkel Zé,Centre-Forward,27,1000000.0,01/02/2024
+FR1,2023,FC Metz,Simon Elisor,Centre-Forward,24,1000000.0,05/07/2023
+FR1,2023,FC Metz,Benjamin Tetteh,Centre-Forward,26,1000000.0,10/08/2023
+FR1,2023,FC Metz,Ibou Sané,Centre-Forward,19,300000.0,22/07/2023
+FR1,2023,Clermont Foot 63,Mory Diaw,Goalkeeper,31,1800000.0,01/07/2022
+FR1,2023,Clermont Foot 63,Massamba N'Diaye,Goalkeeper,22,500000.0,03/08/2023
+FR1,2023,Clermont Foot 63,Théo Borne,Goalkeeper,21,50000.0,
+FR1,2023,Clermont Foot 63,Théo Ramousse,Goalkeeper,19,,
+FR1,2023,Clermont Foot 63,Alidu Seidu,Centre-Back,24,9000000.0,01/07/2020
+FR1,2023,Clermont Foot 63,Chrislain Matsima,Centre-Back,22,7000000.0,01/02/2024
+FR1,2023,Clermont Foot 63,Andy Pelmard,Centre-Back,24,3500000.0,12/07/2023
+FR1,2023,Clermont Foot 63,Mateusz Wieteska,Centre-Back,27,3000000.0,25/07/2022
+FR1,2023,Clermont Foot 63,Maximiliano Caufriez,Centre-Back,27,2500000.0,01/07/2023
+FR1,2023,Clermont Foot 63,Jérémy Jacquet,Centre-Back,18,500000.0,29/01/2024
+FR1,2023,Clermont Foot 63,Florent Ogier,Centre-Back,35,300000.0,13/07/2018
+FR1,2023,Clermont Foot 63,Ivan M'Bahia,Centre-Back,19,50000.0,04/07/2024
+FR1,2023,Clermont Foot 63,Mohamed Sylla,Centre-Back,20,,
+FR1,2023,Clermont Foot 63,Neto Borges,Left-Back,27,3000000.0,01/07/2022
+FR1,2023,Clermont Foot 63,Yoël Armougom,Left-Back,26,300000.0,04/07/2023
+FR1,2023,Clermont Foot 63,Cheick Oumar Konaté,Right-Back,20,1500000.0,01/02/2023
+FR1,2023,Clermont Foot 63,Mehdi Zeffane,Right-Back,32,500000.0,01/07/2022
+FR1,2023,Clermont Foot 63,Yohann Magnin,Defensive Midfield,27,2000000.0,25/01/2019
+FR1,2023,Clermont Foot 63,Maxime Gonalons,Defensive Midfield,35,700000.0,01/07/2022
+FR1,2023,Clermont Foot 63,Johan Gastien,Defensive Midfield,36,500000.0,01/07/2018
+FR1,2023,Clermont Foot 63,Stan Berkani,Defensive Midfield,20,,
+FR1,2023,Clermont Foot 63,Adam Mabrouk,Defensive Midfield,21,,
+FR1,2023,Clermont Foot 63,Habib Keïta,Central Midfield,22,1000000.0,04/07/2023
+FR1,2023,Clermont Foot 63,Abdellah Baallal,Central Midfield,19,50000.0,01/07/2024
+FR1,2023,Clermont Foot 63,Alan Virginius,Left Midfield,21,3500000.0,09/01/2024
+FR1,2023,Clermont Foot 63,Muhammed Cham,Attacking Midfield,23,6000000.0,04/10/2020
+FR1,2023,Clermont Foot 63,Aïman Maurer,Attacking Midfield,19,500000.0,01/02/2023
+FR1,2023,Clermont Foot 63,Elbasan Rashani,Left Winger,31,1500000.0,16/07/2021
+FR1,2023,Clermont Foot 63,Jérémie Bela,Left Winger,31,600000.0,02/08/2022
+FR1,2023,Clermont Foot 63,İlhan Fakılı,Left Winger,18,,01/07/2024
+FR1,2023,Clermont Foot 63,Jim Allevinah,Right Winger,29,2000000.0,01/07/2019
+FR1,2023,Clermont Foot 63,Bilal Boutobba,Right Winger,25,1800000.0,01/07/2023
+FR1,2023,Clermont Foot 63,Mohamed-Amine Bouchenna,Second Striker,18,200000.0,01/07/2024
+FR1,2023,Clermont Foot 63,Shamar Nicholson,Centre-Forward,27,5000000.0,01/09/2023
+FR1,2023,Clermont Foot 63,Grejohn Kyei,Centre-Forward,28,1500000.0,31/01/2022
+FR1,2023,Clermont Foot 63,Komnen Andric,Centre-Forward,28,1000000.0,15/07/2022

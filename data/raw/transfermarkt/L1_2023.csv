@@ -1,0 +1,629 @@
+league,season,club,name,position,age,market_value_eur,contract_expiry
+L1,2023,Bayern Munich,Manuel Neuer,Goalkeeper,38,4000000.0,01/07/2011
+L1,2023,Bayern Munich,Daniel Peretz,Goalkeeper,23,3000000.0,25/08/2023
+L1,2023,Bayern Munich,Sven Ulreich,Goalkeeper,35,700000.0,01/07/2021
+L1,2023,Bayern Munich,Max Schmitt,Goalkeeper,18,500000.0,
+L1,2023,Bayern Munich,Tom Ritzy Hülsmann,Goalkeeper,20,250000.0,
+L1,2023,Bayern Munich,Matthijs de Ligt,Centre-Back,24,65000000.0,19/07/2022
+L1,2023,Bayern Munich,Benjamin Pavard,Centre-Back,28,50000000.0,01/07/2019
+L1,2023,Bayern Munich,Dayot Upamecano,Centre-Back,25,45000000.0,05/07/2021
+L1,2023,Bayern Munich,Min-jae Kim,Centre-Back,27,45000000.0,18/07/2023
+L1,2023,Bayern Munich,Eric Dier,Centre-Back,30,12000000.0,01/07/2024
+L1,2023,Bayern Munich,Tarek Buchmann,Centre-Back,19,500000.0,01/07/2023
+L1,2023,Bayern Munich,Alphonso Davies,Left-Back,23,50000000.0,01/01/2019
+L1,2023,Bayern Munich,Raphaël Guerreiro,Left-Back,30,12000000.0,01/07/2023
+L1,2023,Bayern Munich,Frans Krätzig,Left-Back,21,2000000.0,06/10/2023
+L1,2023,Bayern Munich,Adam Aznou,Left-Back,18,900000.0,01/07/2024
+L1,2023,Bayern Munich,Matteo Pérez Vinlöf,Left-Back,18,600000.0,
+L1,2023,Bayern Munich,Konrad Laimer,Right-Back,27,30000000.0,01/07/2023
+L1,2023,Bayern Munich,Noussair Mazraoui,Right-Back,26,30000000.0,01/07/2022
+L1,2023,Bayern Munich,Sacha Boey,Right-Back,23,18000000.0,28/01/2024
+L1,2023,Bayern Munich,Bouna Sarr,Right-Back,32,1500000.0,05/10/2020
+L1,2023,Bayern Munich,Max Scholze,Right-Back,19,700000.0,
+L1,2023,Bayern Munich,Joshua Kimmich,Defensive Midfield,29,50000000.0,02/07/2015
+L1,2023,Bayern Munich,Ryan Gravenberch,Defensive Midfield,22,35000000.0,01/07/2022
+L1,2023,Bayern Munich,Aleksandar Pavlovic,Defensive Midfield,20,30000000.0,01/11/2023
+L1,2023,Bayern Munich,Noël Aséko,Defensive Midfield,18,750000.0,02/07/2026
+L1,2023,Bayern Munich,Luca Denk,Defensive Midfield,21,250000.0,
+L1,2023,Bayern Munich,Leon Goretzka,Central Midfield,29,30000000.0,01/07/2018
+L1,2023,Bayern Munich,Taichi Fukui,Central Midfield,19,700000.0,
+L1,2023,Bayern Munich,Jamal Musiala,Attacking Midfield,21,120000000.0,01/07/2020
+L1,2023,Bayern Munich,Lovro Zvonarek,Attacking Midfield,19,3000000.0,01/07/2024
+L1,2023,Bayern Munich,Jonathan Asp Jensen,Attacking Midfield,18,1300000.0,
+L1,2023,Bayern Munich,Kingsley Coman,Left Winger,28,50000000.0,01/07/2017
+L1,2023,Bayern Munich,Mathys Tel,Left Winger,19,40000000.0,26/07/2022
+L1,2023,Bayern Munich,Bryan Zaragoza,Left Winger,22,12000000.0,01/07/2024
+L1,2023,Bayern Munich,Leroy Sané,Right Winger,28,70000000.0,15/07/2020
+L1,2023,Bayern Munich,Serge Gnabry,Second Striker,28,40000000.0,01/07/2017
+L1,2023,Bayern Munich,Thomas Müller,Second Striker,34,8000000.0,01/07/2009
+L1,2023,Bayern Munich,Harry Kane,Centre-Forward,30,100000000.0,12/08/2023
+L1,2023,Bayern Munich,Eric-Maxim Choupo-Moting,Centre-Forward,35,2500000.0,05/10/2020
+L1,2023,Bayer 04 Leverkusen,Matej Kovar,Goalkeeper,24,7000000.0,15/08/2023
+L1,2023,Bayer 04 Leverkusen,Patrick Pentz,Goalkeeper,27,3000000.0,27/01/2023
+L1,2023,Bayer 04 Leverkusen,Lukas Hradecky,Goalkeeper,34,2500000.0,01/07/2018
+L1,2023,Bayer 04 Leverkusen,Niklas Lomb,Goalkeeper,30,250000.0,01/07/2012
+L1,2023,Bayer 04 Leverkusen,Edmond Tapsoba,Centre-Back,25,45000000.0,31/01/2020
+L1,2023,Bayer 04 Leverkusen,Piero Hincapié,Centre-Back,22,40000000.0,16/08/2021
+L1,2023,Bayer 04 Leverkusen,Odilon Kossounou,Centre-Back,23,35000000.0,22/07/2021
+L1,2023,Bayer 04 Leverkusen,Jonathan Tah,Centre-Back,28,30000000.0,16/07/2015
+L1,2023,Bayer 04 Leverkusen,Reno Münz,Centre-Back,18,,
+L1,2023,Bayer 04 Leverkusen,Madi Monamay,Centre-Back,18,,
+L1,2023,Bayer 04 Leverkusen,Alejandro Grimaldo,Left-Back,28,45000000.0,01/07/2023
+L1,2023,Bayer 04 Leverkusen,Jeremie Frimpong,Right-Back,23,50000000.0,27/01/2021
+L1,2023,Bayer 04 Leverkusen,Josip Stanisic,Right-Back,24,28000000.0,20/08/2023
+L1,2023,Bayer 04 Leverkusen,Arthur,Right-Back,21,5000000.0,01/07/2023
+L1,2023,Bayer 04 Leverkusen,Timothy Fosu-Mensah,Right-Back,26,800000.0,13/01/2021
+L1,2023,Bayer 04 Leverkusen,Granit Xhaka,Defensive Midfield,31,20000000.0,06/07/2023
+L1,2023,Bayer 04 Leverkusen,Robert Andrich,Defensive Midfield,29,17000000.0,16/08/2021
+L1,2023,Bayer 04 Leverkusen,Exequiel Palacios,Central Midfield,25,45000000.0,01/01/2020
+L1,2023,Bayer 04 Leverkusen,Nadiem Amiri,Central Midfield,27,7000000.0,30/07/2019
+L1,2023,Bayer 04 Leverkusen,Gustavo Puerta,Central Midfield,20,3000000.0,27/01/2023
+L1,2023,Bayer 04 Leverkusen,Noah Mbamba,Central Midfield,19,2500000.0,14/01/2023
+L1,2023,Bayer 04 Leverkusen,Florian Wirtz,Attacking Midfield,21,130000000.0,01/07/2020
+L1,2023,Bayer 04 Leverkusen,Jonas Hofmann,Attacking Midfield,31,10000000.0,05/07/2023
+L1,2023,Bayer 04 Leverkusen,Ayman Aourir,Attacking Midfield,19,300000.0,01/07/2023
+L1,2023,Bayer 04 Leverkusen,Francis Onyeka,Attacking Midfield,17,,01/07/2025
+L1,2023,Bayer 04 Leverkusen,Amine Adli,Left Winger,24,30000000.0,26/08/2021
+L1,2023,Bayer 04 Leverkusen,Nathan Tella,Right Winger,24,23000000.0,27/08/2023
+L1,2023,Bayer 04 Leverkusen,Victor Boniface,Centre-Forward,23,40000000.0,22/07/2023
+L1,2023,Bayer 04 Leverkusen,Patrik Schick,Centre-Forward,28,22000000.0,08/09/2020
+L1,2023,Bayer 04 Leverkusen,Adam Hlozek,Centre-Forward,21,12000000.0,01/07/2022
+L1,2023,Bayer 04 Leverkusen,Borja Iglesias,Centre-Forward,31,5000000.0,27/01/2024
+L1,2023,Bayer 04 Leverkusen,Ken Izekor,Centre-Forward,17,,
+L1,2023,RB Leipzig,Péter Gulácsi,Goalkeeper,34,3000000.0,01/07/2015
+L1,2023,RB Leipzig,Janis Blaswich,Goalkeeper,33,2000000.0,01/07/2022
+L1,2023,RB Leipzig,Timo Schlieck,Goalkeeper,18,500000.0,01/07/2025
+L1,2023,RB Leipzig,Leopold Zingerle,Goalkeeper,30,400000.0,01/07/2023
+L1,2023,RB Leipzig,Castello Lukeba,Centre-Back,21,40000000.0,11/08/2023
+L1,2023,RB Leipzig,Mohamed Simakan,Centre-Back,24,35000000.0,01/07/2021
+L1,2023,RB Leipzig,El Chadaille Bitshiabu,Centre-Back,19,12000000.0,18/07/2023
+L1,2023,RB Leipzig,Willi Orbán,Centre-Back,31,10000000.0,01/07/2015
+L1,2023,RB Leipzig,Lukas Klostermann,Centre-Back,28,8000000.0,22/08/2014
+L1,2023,RB Leipzig,Jonathan Norbye,Centre-Back,17,,01/07/2025
+L1,2023,RB Leipzig,Tim Köhler,Centre-Back,19,,01/07/2024
+L1,2023,RB Leipzig,David Raum,Left-Back,26,20000000.0,31/07/2022
+L1,2023,RB Leipzig,Christopher Lenz,Left-Back,29,1500000.0,30/08/2023
+L1,2023,RB Leipzig,Benjamin Henrichs,Right-Back,27,20000000.0,01/07/2021
+L1,2023,RB Leipzig,Hugo Novoa,Right-Back,21,2500000.0,01/07/2021
+L1,2023,RB Leipzig,Nicolas Seiwald,Defensive Midfield,23,16000000.0,01/07/2023
+L1,2023,RB Leipzig,Xaver Schlager,Central Midfield,26,28000000.0,01/07/2022
+L1,2023,RB Leipzig,Amadou Haidara,Central Midfield,26,20000000.0,01/01/2019
+L1,2023,RB Leipzig,Kevin Kampl,Central Midfield,33,3500000.0,31/08/2017
+L1,2023,RB Leipzig,Ilaix Moriba,Central Midfield,21,3000000.0,31/08/2021
+L1,2023,RB Leipzig,Xavi Simons,Attacking Midfield,21,80000000.0,30/01/2025
+L1,2023,RB Leipzig,Dani Olmo,Attacking Midfield,26,50000000.0,25/01/2020
+L1,2023,RB Leipzig,Eljif Elmas,Attacking Midfield,24,20000000.0,01/01/2024
+L1,2023,RB Leipzig,Christoph Baumgartner,Attacking Midfield,24,18000000.0,01/07/2023
+L1,2023,RB Leipzig,Fábio Carvalho,Attacking Midfield,21,14000000.0,01/07/2023
+L1,2023,RB Leipzig,Nuha Jatta,Attacking Midfield,18,,01/07/2025
+L1,2023,RB Leipzig,Emil Forsberg,Left Winger,32,5000000.0,07/01/2015
+L1,2023,RB Leipzig,Loïs Openda,Centre-Forward,24,60000000.0,14/07/2023
+L1,2023,RB Leipzig,Benjamin Sesko,Centre-Forward,21,50000000.0,01/07/2023
+L1,2023,RB Leipzig,Timo Werner,Centre-Forward,28,17000000.0,09/08/2022
+L1,2023,RB Leipzig,Yussuf Poulsen,Centre-Forward,30,6000000.0,04/07/2013
+L1,2023,RB Leipzig,Yannick Eduardo,Centre-Forward,18,,01/07/2024
+L1,2023,Borussia Dortmund,Gregor Kobel,Goalkeeper,26,40000000.0,01/07/2021
+L1,2023,Borussia Dortmund,Marcel Lotka,Goalkeeper,23,1300000.0,01/07/2022
+L1,2023,Borussia Dortmund,Alexander Meyer,Goalkeeper,33,800000.0,01/07/2022
+L1,2023,Borussia Dortmund,Nico Schlotterbeck,Centre-Back,24,40000000.0,01/07/2022
+L1,2023,Borussia Dortmund,Niklas Süle,Centre-Back,28,15000000.0,01/07/2022
+L1,2023,Borussia Dortmund,Emre Can,Centre-Back,30,10000000.0,01/07/2020
+L1,2023,Borussia Dortmund,Ramy Bensebaini,Centre-Back,29,7000000.0,01/07/2023
+L1,2023,Borussia Dortmund,Mats Hummels,Centre-Back,35,5000000.0,01/07/2019
+L1,2023,Borussia Dortmund,Hendry Blank,Centre-Back,19,2500000.0,
+L1,2023,Borussia Dortmund,Antonios Papadopoulos,Centre-Back,24,1000000.0,
+L1,2023,Borussia Dortmund,Ian Maatsen,Left-Back,22,40000000.0,12/01/2024
+L1,2023,Borussia Dortmund,Guille Bueno,Left-Back,21,600000.0,
+L1,2023,Borussia Dortmund,Julian Ryerson,Right-Back,26,20000000.0,17/01/2023
+L1,2023,Borussia Dortmund,Marius Wolf,Right-Back,29,3000000.0,02/07/2018
+L1,2023,Borussia Dortmund,Thomas Meunier,Right-Back,32,2500000.0,01/07/2020
+L1,2023,Borussia Dortmund,Mateu Morey,Right-Back,24,800000.0,01/07/2019
+L1,2023,Borussia Dortmund,Salih Özcan,Defensive Midfield,26,10000000.0,01/07/2022
+L1,2023,Borussia Dortmund,Felix Nmecha,Central Midfield,23,20000000.0,03/07/2023
+L1,2023,Borussia Dortmund,Marcel Sabitzer,Central Midfield,30,20000000.0,24/07/2023
+L1,2023,Borussia Dortmund,Kjell Wätjen,Central Midfield,18,2000000.0,01/07/2024
+L1,2023,Borussia Dortmund,Abdoulaye Kamara,Central Midfield,19,1500000.0,
+L1,2023,Borussia Dortmund,Julian Brandt,Attacking Midfield,28,40000000.0,01/07/2019
+L1,2023,Borussia Dortmund,Giovanni Reyna,Attacking Midfield,21,18000000.0,12/01/2020
+L1,2023,Borussia Dortmund,Thorgan Hazard,Attacking Midfield,31,5000000.0,01/07/2019
+L1,2023,Borussia Dortmund,Marco Reus,Attacking Midfield,35,5000000.0,01/07/2012
+L1,2023,Borussia Dortmund,Ole Pohlmann,Attacking Midfield,23,1500000.0,01/07/2023
+L1,2023,Borussia Dortmund,Jadon Sancho,Left Winger,24,30000000.0,11/01/2024
+L1,2023,Borussia Dortmund,Jamie Gittens,Left Winger,19,28000000.0,01/07/2022
+L1,2023,Borussia Dortmund,Julien Duranville,Left Winger,18,8500000.0,27/01/2023
+L1,2023,Borussia Dortmund,Karim Adeyemi,Right Winger,22,28000000.0,01/07/2022
+L1,2023,Borussia Dortmund,Samuel Bamba,Right Winger,20,800000.0,
+L1,2023,Borussia Dortmund,Donyell Malen,Centre-Forward,25,40000000.0,27/07/2021
+L1,2023,Borussia Dortmund,Youssoufa Moukoko,Centre-Forward,19,22000000.0,29/07/2020
+L1,2023,Borussia Dortmund,Niclas Füllkrug,Centre-Forward,31,15000000.0,31/08/2023
+L1,2023,Borussia Dortmund,Sébastien Haller,Centre-Forward,30,10000000.0,06/07/2022
+L1,2023,Borussia Dortmund,Paris Brunner,Centre-Forward,18,,
+L1,2023,VfB Stuttgart,Alexander Nübel,Goalkeeper,27,12000000.0,25/07/2023
+L1,2023,VfB Stuttgart,Fabian Bredlow,Goalkeeper,29,1000000.0,01/07/2019
+L1,2023,VfB Stuttgart,Dennis Seimen,Goalkeeper,18,1000000.0,01/07/2023
+L1,2023,VfB Stuttgart,Florian Schock,Goalkeeper,23,200000.0,07/09/2021
+L1,2023,VfB Stuttgart,Hiroki Ito,Centre-Back,25,30000000.0,01/07/2022
+L1,2023,VfB Stuttgart,Konstantinos Mavropanos,Centre-Back,26,20000000.0,01/07/2022
+L1,2023,VfB Stuttgart,Waldemar Anton,Centre-Back,27,20000000.0,28/07/2020
+L1,2023,VfB Stuttgart,Dan-Axel Zagadou,Centre-Back,25,10000000.0,19/09/2022
+L1,2023,VfB Stuttgart,Anthony Rouault,Centre-Back,23,7000000.0,01/07/2024
+L1,2023,VfB Stuttgart,Anrie Chase,Centre-Back,20,350000.0,01/07/2024
+L1,2023,VfB Stuttgart,Maximilian Mittelstädt,Left-Back,27,17000000.0,01/07/2023
+L1,2023,VfB Stuttgart,Borna Sosa,Left-Back,26,7500000.0,01/07/2018
+L1,2023,VfB Stuttgart,Moussa Cissé,Left-Back,21,175000.0,
+L1,2023,VfB Stuttgart,Josha Vagnoman,Right-Back,23,10000000.0,09/07/2022
+L1,2023,VfB Stuttgart,Leonidas Stergiou,Right-Back,22,5000000.0,01/07/2024
+L1,2023,VfB Stuttgart,Pascal Stenzel,Right-Back,28,2500000.0,01/07/2020
+L1,2023,VfB Stuttgart,Angelo Stiller,Defensive Midfield,23,20000000.0,25/08/2023
+L1,2023,VfB Stuttgart,Wataru Endo,Defensive Midfield,31,13000000.0,01/07/2020
+L1,2023,VfB Stuttgart,Atakan Karazor,Defensive Midfield,27,12000000.0,01/07/2019
+L1,2023,VfB Stuttgart,Mahmoud Dahoud,Central Midfield,28,6000000.0,01/02/2024
+L1,2023,VfB Stuttgart,Nikolas Nartey,Central Midfield,24,600000.0,29/08/2019
+L1,2023,VfB Stuttgart,Samuele Di Benedetto,Central Midfield,18,450000.0,
+L1,2023,VfB Stuttgart,Enzo Millot,Attacking Midfield,21,30000000.0,14/08/2021
+L1,2023,VfB Stuttgart,Woo-yeong Jeong,Attacking Midfield,24,3500000.0,11/07/2023
+L1,2023,VfB Stuttgart,Lilian Egloff,Attacking Midfield,21,800000.0,01/07/2020
+L1,2023,VfB Stuttgart,Genki Haraguchi,Attacking Midfield,33,500000.0,30/01/2023
+L1,2023,VfB Stuttgart,Laurin Ulrich,Attacking Midfield,19,500000.0,01/07/2026
+L1,2023,VfB Stuttgart,Raul Paula,Attacking Midfield,20,350000.0,
+L1,2023,VfB Stuttgart,Chris Führich,Left Winger,26,28000000.0,19/07/2021
+L1,2023,VfB Stuttgart,Silas,Right Winger,25,10000000.0,13/08/2019
+L1,2023,VfB Stuttgart,Jamie Leweling,Right Winger,23,9000000.0,01/07/2024
+L1,2023,VfB Stuttgart,Roberto Massimo,Right Winger,23,800000.0,01/07/2018
+L1,2023,VfB Stuttgart,Luca Raimund,Right Winger,19,500000.0,01/07/2024
+L1,2023,VfB Stuttgart,Serhou Guirassy,Centre-Forward,28,40000000.0,01/07/2023
+L1,2023,VfB Stuttgart,Deniz Undav,Centre-Forward,27,25000000.0,09/08/2024
+L1,2023,VfB Stuttgart,Mohamed Sankoh,Centre-Forward,20,700000.0,01/07/2021
+L1,2023,VfB Stuttgart,Jovan Milosevic,Centre-Forward,18,700000.0,01/07/2023
+L1,2023,VfB Stuttgart,Thomas Kastanaras,Centre-Forward,21,500000.0,01/07/2022
+L1,2023,Eintracht Frankfurt,Kevin Trapp,Goalkeeper,33,4000000.0,07/08/2019
+L1,2023,Eintracht Frankfurt,Kauã Santos,Goalkeeper,21,1500000.0,29/08/2023
+L1,2023,Eintracht Frankfurt,Simon Simoni,Goalkeeper,19,500000.0,01/01/2023
+L1,2023,Eintracht Frankfurt,Jens Grahl,Goalkeeper,35,200000.0,19/07/2021
+L1,2023,Eintracht Frankfurt,Luke Gauer,Goalkeeper,19,100000.0,
+L1,2023,Eintracht Frankfurt,Nils Ramming,Goalkeeper,17,,
+L1,2023,Eintracht Frankfurt,Willian Pacho,Centre-Back,22,35000000.0,01/07/2023
+L1,2023,Eintracht Frankfurt,Robin Koch,Centre-Back,27,18000000.0,01/07/2024
+L1,2023,Eintracht Frankfurt,Tuta,Centre-Back,24,12000000.0,31/01/2019
+L1,2023,Eintracht Frankfurt,Hrvoje Smolcic,Centre-Back,23,3000000.0,01/07/2022
+L1,2023,Eintracht Frankfurt,Nnamdi Collins,Centre-Back,20,1000000.0,09/08/2023
+L1,2023,Eintracht Frankfurt,Dario Gebuhr,Centre-Back,21,400000.0,01/07/2023
+L1,2023,Eintracht Frankfurt,Davis Bautista,Centre-Back,19,250000.0,
+L1,2023,Eintracht Frankfurt,Niels Nkounkou,Left-Back,23,7500000.0,01/09/2023
+L1,2023,Eintracht Frankfurt,Philipp Max,Left-Back,30,2000000.0,01/07/2023
+L1,2023,Eintracht Frankfurt,Christopher Lenz,Left-Back,29,1500000.0,01/07/2021
+L1,2023,Eintracht Frankfurt,Aurélio Buta,Right-Back,27,5000000.0,01/07/2022
+L1,2023,Eintracht Frankfurt,Elias Baum,Right-Back,18,1000000.0,26/10/2023
+L1,2023,Eintracht Frankfurt,Timothy Chandler,Right-Back,34,500000.0,01/07/2014
+L1,2023,Eintracht Frankfurt,Ellyes Skhiri,Defensive Midfield,29,11000000.0,05/07/2023
+L1,2023,Eintracht Frankfurt,Kristijan Jakic,Defensive Midfield,27,6500000.0,01/07/2022
+L1,2023,Eintracht Frankfurt,Makoto Hasebe,Defensive Midfield,40,500000.0,01/07/2014
+L1,2023,Eintracht Frankfurt,Hugo Larsson,Central Midfield,20,28000000.0,01/07/2023
+L1,2023,Eintracht Frankfurt,Donny van de Beek,Central Midfield,27,5000000.0,01/01/2024
+L1,2023,Eintracht Frankfurt,Sebastian Rode,Central Midfield,33,1000000.0,27/07/2019
+L1,2023,Eintracht Frankfurt,Marcel Wenig,Central Midfield,20,600000.0,01/07/2022
+L1,2023,Eintracht Frankfurt,Sidney Raebiger,Central Midfield,19,300000.0,01/09/2023
+L1,2023,Eintracht Frankfurt,Harpreet Ghotra,Central Midfield,21,100000.0,09/07/2023
+L1,2023,Eintracht Frankfurt,Junior Dina Ebimbe,Right Midfield,23,12000000.0,01/07/2023
+L1,2023,Eintracht Frankfurt,Farès Chaïbi,Attacking Midfield,21,18000000.0,30/08/2023
+L1,2023,Eintracht Frankfurt,Mario Götze,Attacking Midfield,32,5500000.0,01/07/2022
+L1,2023,Eintracht Frankfurt,Paxten Aaronson,Attacking Midfield,20,4500000.0,01/01/2023
+L1,2023,Eintracht Frankfurt,Marko Mladenovic,Attacking Midfield,19,500000.0,
+L1,2023,Eintracht Frankfurt,Mehdi Loune,Attacking Midfield,20,300000.0,
+L1,2023,Eintracht Frankfurt,Jean-Mattéo Bahoya,Left Winger,19,7500000.0,25/01/2024
+L1,2023,Eintracht Frankfurt,Jens Petter Hauge,Left Winger,24,2500000.0,01/07/2022
+L1,2023,Eintracht Frankfurt,Jesper Lindstrøm,Right Winger,24,22000000.0,11/07/2021
+L1,2023,Eintracht Frankfurt,Ansgar Knauff,Right Winger,22,10000000.0,01/07/2023
+L1,2023,Eintracht Frankfurt,Randal Kolo Muani,Centre-Forward,25,45000000.0,01/07/2022
+L1,2023,Eintracht Frankfurt,Omar Marmoush,Centre-Forward,25,22000000.0,01/07/2023
+L1,2023,Eintracht Frankfurt,Hugo Ekitiké,Centre-Forward,22,20000000.0,01/07/2024
+L1,2023,Eintracht Frankfurt,Sasa Kalajdzic,Centre-Forward,26,5000000.0,07/01/2024
+L1,2023,Eintracht Frankfurt,Nacho Ferri,Centre-Forward,19,2000000.0,05/10/2022
+L1,2023,Eintracht Frankfurt,Jessic Ngankam,Centre-Forward,23,1500000.0,14/07/2023
+L1,2023,Eintracht Frankfurt,Lucas Alario,Centre-Forward,31,1500000.0,01/07/2022
+L1,2023,Eintracht Frankfurt,Noel Futkeu,Centre-Forward,21,400000.0,01/07/2026
+L1,2023,VfL Wolfsburg,Koen Casteels,Goalkeeper,32,6000000.0,21/01/2015
+L1,2023,VfL Wolfsburg,Pavao Pervan,Goalkeeper,36,300000.0,01/07/2018
+L1,2023,VfL Wolfsburg,Philipp Schulze,Goalkeeper,21,225000.0,01/07/2021
+L1,2023,VfL Wolfsburg,Niklas Klinger,Goalkeeper,28,100000.0,01/07/2019
+L1,2023,VfL Wolfsburg,Maxence Lacroix,Centre-Back,24,20000000.0,25/08/2020
+L1,2023,VfL Wolfsburg,Moritz Jenz,Centre-Back,25,7500000.0,01/07/2023
+L1,2023,VfL Wolfsburg,Sebastiaan Bornauw,Centre-Back,25,7000000.0,16/07/2021
+L1,2023,VfL Wolfsburg,Cédric Zesiger,Centre-Back,26,5000000.0,01/07/2023
+L1,2023,VfL Wolfsburg,Nicolas Cozza,Centre-Back,25,3500000.0,25/01/2023
+L1,2023,VfL Wolfsburg,Anders Børset,Centre-Back,18,150000.0,
+L1,2023,VfL Wolfsburg,Felix Lange,Centre-Back,20,75000.0,01/07/2023
+L1,2023,VfL Wolfsburg,Joakim Maehle,Left-Back,27,14000000.0,12/08/2023
+L1,2023,VfL Wolfsburg,Rogério,Left-Back,26,5000000.0,05/08/2023
+L1,2023,VfL Wolfsburg,Ridle Baku,Right-Back,26,7000000.0,01/10/2020
+L1,2023,VfL Wolfsburg,Kilian Fischer,Right-Back,23,1500000.0,01/07/2022
+L1,2023,VfL Wolfsburg,Kofi Amoako,Defensive Midfield,19,400000.0,01/07/2024
+L1,2023,VfL Wolfsburg,Aster Vranckx,Central Midfield,21,12000000.0,01/07/2021
+L1,2023,VfL Wolfsburg,Mattias Svanberg,Central Midfield,25,12000000.0,16/07/2022
+L1,2023,VfL Wolfsburg,Maximilian Arnold,Central Midfield,30,7000000.0,01/01/2012
+L1,2023,VfL Wolfsburg,Yannick Gerhardt,Central Midfield,30,4000000.0,01/07/2016
+L1,2023,VfL Wolfsburg,Kevin Paredes,Left Midfield,21,7500000.0,28/01/2022
+L1,2023,VfL Wolfsburg,Lovro Majer,Attacking Midfield,26,20000000.0,16/08/2023
+L1,2023,VfL Wolfsburg,Bennit Bröger,Attacking Midfield,17,,
+L1,2023,VfL Wolfsburg,Jakub Kamiński,Left Winger,22,6000000.0,01/07/2022
+L1,2023,VfL Wolfsburg,Ulysses Llanez,Left Winger,23,200000.0,01/07/2021
+L1,2023,VfL Wolfsburg,Patrick Wimmer,Right Winger,23,15000000.0,01/07/2022
+L1,2023,VfL Wolfsburg,Vaclav Cerny,Right Winger,26,7000000.0,01/07/2023
+L1,2023,VfL Wolfsburg,Tiago Tomás,Right Winger,22,6000000.0,05/07/2023
+L1,2023,VfL Wolfsburg,Jonas Wind,Centre-Forward,25,20000000.0,31/01/2022
+L1,2023,VfL Wolfsburg,Lukas Nmecha,Centre-Forward,25,5000000.0,16/07/2021
+L1,2023,VfL Wolfsburg,Amin Sarr,Centre-Forward,23,4000000.0,31/08/2023
+L1,2023,VfL Wolfsburg,Kevin Behrens,Centre-Forward,33,2000000.0,31/01/2024
+L1,2023,VfL Wolfsburg,Dzenan Pejcinovic,Centre-Forward,19,1000000.0,14/07/2022
+L1,2023,SC Freiburg,Noah Atubolu,Goalkeeper,22,10000000.0,01/07/2021
+L1,2023,SC Freiburg,Florian Müller,Goalkeeper,26,1200000.0,01/07/2023
+L1,2023,SC Freiburg,Jaaso Jantunen,Goalkeeper,19,400000.0,
+L1,2023,SC Freiburg,Benjamin Uphoff,Goalkeeper,30,300000.0,05/08/2020
+L1,2023,SC Freiburg,Niklas Sauter,Goalkeeper,21,250000.0,
+L1,2023,SC Freiburg,Philipp Lienhart,Centre-Back,27,15000000.0,01/07/2018
+L1,2023,SC Freiburg,Matthias Ginter,Centre-Back,30,10000000.0,01/07/2022
+L1,2023,SC Freiburg,Keven Schlotterbeck,Centre-Back,27,6000000.0,01/07/2018
+L1,2023,SC Freiburg,Attila Szalai,Centre-Back,26,4000000.0,21/01/2024
+L1,2023,SC Freiburg,Kenneth Schmidt,Centre-Back,22,2500000.0,01/01/2023
+L1,2023,SC Freiburg,Manuel Gulde,Centre-Back,33,1500000.0,01/07/2016
+L1,2023,SC Freiburg,Max Rosenfelder,Centre-Back,21,500000.0,01/07/2023
+L1,2023,SC Freiburg,Christian Günter,Left-Back,31,5000000.0,01/07/2012
+L1,2023,SC Freiburg,Jordy Makengo,Left-Back,22,3500000.0,01/07/2023
+L1,2023,SC Freiburg,Roland Sallai,Right-Back,27,15000000.0,31/08/2018
+L1,2023,SC Freiburg,Kiliann Sildillia,Right-Back,22,15000000.0,01/07/2021
+L1,2023,SC Freiburg,Lukas Kübler,Right-Back,31,2000000.0,01/07/2015
+L1,2023,SC Freiburg,Yannik Keitel,Defensive Midfield,24,5000000.0,01/07/2020
+L1,2023,SC Freiburg,Nicolas Höfler,Defensive Midfield,34,2000000.0,01/07/2010
+L1,2023,SC Freiburg,Fabian Rüdlin,Defensive Midfield,27,350000.0,
+L1,2023,SC Freiburg,Maximilian Eggestein,Central Midfield,27,10000000.0,18/08/2021
+L1,2023,SC Freiburg,Mika Baur,Central Midfield,19,1800000.0,
+L1,2023,SC Freiburg,Merlin Röhl,Attacking Midfield,21,12000000.0,17/08/2022
+L1,2023,SC Freiburg,Daniel-Kofi Kyereh,Attacking Midfield,28,3500000.0,01/07/2022
+L1,2023,SC Freiburg,Vincenzo Grifo,Left Winger,31,9000000.0,02/09/2019
+L1,2023,SC Freiburg,Florent Muslija,Left Winger,25,2500000.0,24/01/2024
+L1,2023,SC Freiburg,Ritsu Doan,Right Winger,26,18000000.0,05/07/2022
+L1,2023,SC Freiburg,Noah Weißhaupt,Right Winger,22,5000000.0,01/07/2021
+L1,2023,SC Freiburg,Ryan Johansson,Right Winger,23,250000.0,
+L1,2023,SC Freiburg,Maximilian Philipp,Second Striker,30,2000000.0,01/07/2024
+L1,2023,SC Freiburg,Michael Gregoritsch,Centre-Forward,30,8000000.0,08/07/2022
+L1,2023,SC Freiburg,Lucas Höler,Centre-Forward,29,4000000.0,01/01/2018
+L1,2023,SC Freiburg,Junior Adamu,Centre-Forward,23,4000000.0,01/07/2023
+L1,2023,SC Freiburg,Maximilian Breunig,Centre-Forward,23,800000.0,
+L1,2023,TSG 1899 Hoffenheim,Oliver Baumann,Goalkeeper,34,3000000.0,01/07/2014
+L1,2023,TSG 1899 Hoffenheim,Nahuel Noll,Goalkeeper,21,500000.0,01/07/2021
+L1,2023,TSG 1899 Hoffenheim,Luca Philipp,Goalkeeper,23,300000.0,31/07/2020
+L1,2023,TSG 1899 Hoffenheim,Ozan Kabak,Centre-Back,24,10000000.0,23/07/2022
+L1,2023,TSG 1899 Hoffenheim,Attila Szalai,Centre-Back,26,4000000.0,24/07/2023
+L1,2023,TSG 1899 Hoffenheim,Kevin Akpoguma,Centre-Back,29,3000000.0,01/07/2013
+L1,2023,TSG 1899 Hoffenheim,Stanley Nsoki,Centre-Back,25,2500000.0,03/08/2022
+L1,2023,TSG 1899 Hoffenheim,Tim Drexler,Centre-Back,19,2500000.0,01/07/2024
+L1,2023,TSG 1899 Hoffenheim,Kevin Vogt,Centre-Back,32,2000000.0,01/07/2016
+L1,2023,TSG 1899 Hoffenheim,John Brooks,Centre-Back,31,2000000.0,26/01/2023
+L1,2023,TSG 1899 Hoffenheim,Joshua Quarshie,Centre-Back,19,800000.0,16/08/2023
+L1,2023,TSG 1899 Hoffenheim,Kasim Adams,Centre-Back,29,700000.0,25/07/2018
+L1,2023,TSG 1899 Hoffenheim,David Jurásek,Left-Back,23,8000000.0,22/01/2024
+L1,2023,TSG 1899 Hoffenheim,Angelo Stiller,Defensive Midfield,23,20000000.0,01/07/2021
+L1,2023,TSG 1899 Hoffenheim,Anton Stach,Defensive Midfield,25,15000000.0,01/09/2023
+L1,2023,TSG 1899 Hoffenheim,Florian Grillitsch,Defensive Midfield,28,6500000.0,01/07/2023
+L1,2023,TSG 1899 Hoffenheim,Diadié Samassékou,Defensive Midfield,28,2000000.0,15/08/2019
+L1,2023,TSG 1899 Hoffenheim,Grischa Prömel,Central Midfield,29,7000000.0,01/07/2022
+L1,2023,TSG 1899 Hoffenheim,Umut Tohumcu,Central Midfield,19,7000000.0,18/01/2023
+L1,2023,TSG 1899 Hoffenheim,Tom Bischof,Central Midfield,19,3500000.0,01/07/2021
+L1,2023,TSG 1899 Hoffenheim,Dennis Geiger,Central Midfield,26,3000000.0,01/07/2016
+L1,2023,TSG 1899 Hoffenheim,Finn Becker,Central Midfield,24,2500000.0,01/07/2022
+L1,2023,TSG 1899 Hoffenheim,Marco John,Central Midfield,22,1500000.0,01/07/2020
+L1,2023,TSG 1899 Hoffenheim,Pavel Kaderabek,Right Midfield,32,3000000.0,01/07/2015
+L1,2023,TSG 1899 Hoffenheim,Robert Skov,Left Midfield,28,5000000.0,29/07/2019
+L1,2023,TSG 1899 Hoffenheim,Julian Justvan,Attacking Midfield,26,1500000.0,01/07/2023
+L1,2023,TSG 1899 Hoffenheim,Bambasé Conté,Attacking Midfield,20,700000.0,16/08/2023
+L1,2023,TSG 1899 Hoffenheim,Marius Bülter,Left Winger,31,2500000.0,06/07/2023
+L1,2023,TSG 1899 Hoffenheim,Andrej Kramaric,Second Striker,33,5000000.0,01/07/2016
+L1,2023,TSG 1899 Hoffenheim,Maximilian Beier,Centre-Forward,21,30000000.0,01/07/2020
+L1,2023,TSG 1899 Hoffenheim,Mergim Berisha,Centre-Forward,26,10000000.0,30/08/2023
+L1,2023,TSG 1899 Hoffenheim,Wout Weghorst,Centre-Forward,31,6000000.0,09/08/2023
+L1,2023,TSG 1899 Hoffenheim,Ihlas Bebou,Centre-Forward,30,4000000.0,01/07/2019
+L1,2023,TSG 1899 Hoffenheim,Max Moerstedt,Centre-Forward,18,1000000.0,01/01/2024
+L1,2023,Borussia Mönchengladbach,Jonas Omlin,Goalkeeper,30,6000000.0,19/01/2023
+L1,2023,Borussia Mönchengladbach,Moritz Nicolas,Goalkeeper,26,2500000.0,01/07/2016
+L1,2023,Borussia Mönchengladbach,Jan Olschowsky,Goalkeeper,22,600000.0,13/07/2020
+L1,2023,Borussia Mönchengladbach,Tobias Sippel,Goalkeeper,36,300000.0,01/07/2015
+L1,2023,Borussia Mönchengladbach,Maximilian Brüll,Goalkeeper,21,75000.0,
+L1,2023,Borussia Mönchengladbach,Ko Itakura,Centre-Back,27,12000000.0,02/07/2022
+L1,2023,Borussia Mönchengladbach,Nico Elvedi,Centre-Back,27,10000000.0,01/07/2015
+L1,2023,Borussia Mönchengladbach,Maximilian Wöber,Centre-Back,26,10000000.0,31/07/2023
+L1,2023,Borussia Mönchengladbach,Marvin Friedrich,Centre-Back,28,3500000.0,11/01/2022
+L1,2023,Borussia Mönchengladbach,Fabio Chiarodia,Centre-Back,19,2000000.0,01/07/2023
+L1,2023,Borussia Mönchengladbach,Mamadou Doucouré,Centre-Back,26,100000.0,01/07/2016
+L1,2023,Borussia Mönchengladbach,Luca Netz,Left-Back,21,10000000.0,06/08/2021
+L1,2023,Borussia Mönchengladbach,Lukas Ullrich,Left-Back,20,750000.0,01/07/2023
+L1,2023,Borussia Mönchengladbach,Joe Scally,Right-Back,21,10000000.0,01/01/2021
+L1,2023,Borussia Mönchengladbach,Stefan Lainer,Right-Back,31,2500000.0,01/07/2019
+L1,2023,Borussia Mönchengladbach,Simon Walde,Right-Back,19,500000.0,04/01/2023
+L1,2023,Borussia Mönchengladbach,Tony Jantschke,Right-Back,34,400000.0,01/07/2009
+L1,2023,Borussia Mönchengladbach,Julian Weigl,Defensive Midfield,28,6000000.0,01/07/2023
+L1,2023,Borussia Mönchengladbach,Christoph Kramer,Defensive Midfield,33,1700000.0,01/07/2016
+L1,2023,Borussia Mönchengladbach,Manu Koné,Central Midfield,23,20000000.0,21/01/2021
+L1,2023,Borussia Mönchengladbach,Rocco Reitz,Central Midfield,22,10000000.0,01/07/2020
+L1,2023,Borussia Mönchengladbach,Florian Neuhaus,Central Midfield,27,7000000.0,01/07/2017
+L1,2023,Borussia Mönchengladbach,Robin Hack,Left Winger,25,8000000.0,01/07/2023
+L1,2023,Borussia Mönchengladbach,Yvandro Borges Sanches,Left Winger,20,1000000.0,01/07/2022
+L1,2023,Borussia Mönchengladbach,Franck Honorat,Right Winger,27,12000000.0,11/07/2023
+L1,2023,Borussia Mönchengladbach,Nathan Ngoumou,Right Winger,24,5000000.0,30/08/2022
+L1,2023,Borussia Mönchengladbach,Hannes Wolf,Right Winger,25,2000000.0,01/07/2021
+L1,2023,Borussia Mönchengladbach,Patrick Herrmann,Right Winger,33,1000000.0,01/01/2010
+L1,2023,Borussia Mönchengladbach,Tomas Cvancara,Centre-Forward,23,8000000.0,14/07/2023
+L1,2023,Borussia Mönchengladbach,Alassane Pléa,Centre-Forward,31,7000000.0,13/07/2018
+L1,2023,Borussia Mönchengladbach,Jordan,Centre-Forward,28,4000000.0,31/08/2023
+L1,2023,Borussia Mönchengladbach,Grant-Leon Ranos,Centre-Forward,20,1000000.0,01/07/2023
+L1,2023,Borussia Mönchengladbach,Shio Fukuda,Centre-Forward,20,300000.0,15/01/2024
+L1,2023,1.FC Union Berlin,Frederik Rönnow,Goalkeeper,31,4500000.0,20/07/2021
+L1,2023,1.FC Union Berlin,Alexander Schwolow,Goalkeeper,32,700000.0,26/07/2023
+L1,2023,1.FC Union Berlin,Jakob Busk,Goalkeeper,30,250000.0,15/01/2016
+L1,2023,1.FC Union Berlin,Yannic Stein,Goalkeeper,19,200000.0,01/07/2023
+L1,2023,1.FC Union Berlin,Danilho Doekhi,Centre-Back,26,17000000.0,01/07/2022
+L1,2023,1.FC Union Berlin,Diogo Leite,Centre-Back,25,15000000.0,01/07/2023
+L1,2023,1.FC Union Berlin,Robin Knoche,Centre-Back,32,2500000.0,04/08/2020
+L1,2023,1.FC Union Berlin,Kevin Vogt,Centre-Back,32,2000000.0,11/01/2024
+L1,2023,1.FC Union Berlin,Paul Jaeckel,Centre-Back,25,2000000.0,01/07/2021
+L1,2023,1.FC Union Berlin,Leonardo Bonucci,Centre-Back,37,1000000.0,01/09/2023
+L1,2023,1.FC Union Berlin,Oluwaseun Ogbemudia,Centre-Back,17,,01/07/2025
+L1,2023,1.FC Union Berlin,Robin Gosens,Left-Back,29,12000000.0,15/08/2023
+L1,2023,1.FC Union Berlin,Jérôme Roussillon,Left-Back,31,2500000.0,12/01/2023
+L1,2023,1.FC Union Berlin,Josip Juranovic,Right-Back,28,7500000.0,22/01/2023
+L1,2023,1.FC Union Berlin,Christopher Trimmel,Right-Back,37,600000.0,01/07/2014
+L1,2023,1.FC Union Berlin,Laurenz Dehl,Right-Back,22,200000.0,01/07/2019
+L1,2023,1.FC Union Berlin,Rani Khedira,Defensive Midfield,30,5000000.0,01/07/2021
+L1,2023,1.FC Union Berlin,Aljoscha Kemlein,Defensive Midfield,19,3000000.0,01/07/2023
+L1,2023,1.FC Union Berlin,Lucas Tousart,Central Midfield,27,7000000.0,19/07/2023
+L1,2023,1.FC Union Berlin,Aïssa Laïdouni,Central Midfield,27,6000000.0,27/01/2023
+L1,2023,1.FC Union Berlin,András Schäfer,Central Midfield,25,5000000.0,21/01/2022
+L1,2023,1.FC Union Berlin,Alex Král,Central Midfield,26,5000000.0,01/07/2024
+L1,2023,1.FC Union Berlin,Janik Haberer,Central Midfield,30,3000000.0,01/07/2022
+L1,2023,1.FC Union Berlin,Tim Schleinitz,Central Midfield,19,,
+L1,2023,1.FC Union Berlin,Brenden Aaronson,Attacking Midfield,23,12000000.0,09/07/2023
+L1,2023,1.FC Union Berlin,Kevin Volland,Attacking Midfield,31,4000000.0,17/08/2023
+L1,2023,1.FC Union Berlin,Milos Pantovic,Attacking Midfield,27,800000.0,01/07/2022
+L1,2023,1.FC Union Berlin,Sheraldo Becker,Left Winger,29,10000000.0,01/07/2019
+L1,2023,1.FC Union Berlin,David Datro Fofana,Centre-Forward,21,12000000.0,11/07/2023
+L1,2023,1.FC Union Berlin,Yorbe Vertessen,Centre-Forward,23,5000000.0,01/02/2024
+L1,2023,1.FC Union Berlin,Jordan,Centre-Forward,28,4000000.0,01/07/2022
+L1,2023,1.FC Union Berlin,Benedict Hollerbach,Centre-Forward,23,4000000.0,27/07/2023
+L1,2023,1.FC Union Berlin,Mikkel Kaufmann,Centre-Forward,23,2700000.0,01/07/2023
+L1,2023,1.FC Union Berlin,Chris Bedia,Centre-Forward,28,2500000.0,18/01/2024
+L1,2023,1.FC Union Berlin,Kevin Behrens,Centre-Forward,33,2000000.0,01/07/2021
+L1,2023,1.FSV Mainz 05,Robin Zentner,Goalkeeper,29,3000000.0,01/07/2014
+L1,2023,1.FSV Mainz 05,Daniel Batz,Goalkeeper,33,350000.0,01/07/2023
+L1,2023,1.FSV Mainz 05,Lasse Rieß,Goalkeeper,22,200000.0,01/07/2021
+L1,2023,1.FSV Mainz 05,Sepp van den Berg,Centre-Back,22,12000000.0,13/07/2023
+L1,2023,1.FSV Mainz 05,Andreas Hanche-Olsen,Centre-Back,27,9000000.0,13/01/2023
+L1,2023,1.FSV Mainz 05,Dominik Kohr,Centre-Back,30,3000000.0,01/07/2022
+L1,2023,1.FSV Mainz 05,Maxim Leitsch,Centre-Back,26,1500000.0,01/07/2022
+L1,2023,1.FSV Mainz 05,Danny da Costa,Centre-Back,30,1200000.0,01/07/2022
+L1,2023,1.FSV Mainz 05,Stefan Bell,Centre-Back,32,800000.0,01/07/2010
+L1,2023,1.FSV Mainz 05,Lasse Wilhelm,Centre-Back,21,225000.0,
+L1,2023,1.FSV Mainz 05,Maxim Dal,Centre-Back,18,,01/07/2025
+L1,2023,1.FSV Mainz 05,Phillipp Mwene,Left-Back,30,1800000.0,23/08/2023
+L1,2023,1.FSV Mainz 05,Tim Müller,Left-Back,19,150000.0,
+L1,2023,1.FSV Mainz 05,Anthony Caci,Right-Back,26,7000000.0,01/07/2022
+L1,2023,1.FSV Mainz 05,Silvan Widmer,Right-Back,31,3000000.0,09/07/2021
+L1,2023,1.FSV Mainz 05,Anton Stach,Defensive Midfield,25,15000000.0,31/07/2021
+L1,2023,1.FSV Mainz 05,Tom Krauß,Defensive Midfield,23,4000000.0,14/07/2023
+L1,2023,1.FSV Mainz 05,Edimilson Fernandes,Defensive Midfield,28,3500000.0,01/07/2019
+L1,2023,1.FSV Mainz 05,Josuha Guilavogui,Defensive Midfield,33,700000.0,25/09/2023
+L1,2023,1.FSV Mainz 05,Leandro Barreiro,Central Midfield,24,17000000.0,01/07/2018
+L1,2023,1.FSV Mainz 05,Nadiem Amiri,Central Midfield,27,7000000.0,31/01/2024
+L1,2023,1.FSV Mainz 05,Merveille Papela,Central Midfield,23,1000000.0,26/09/2019
+L1,2023,1.FSV Mainz 05,Brajan Gruda,Attacking Midfield,20,20000000.0,18/11/2022
+L1,2023,1.FSV Mainz 05,Jae-sung Lee,Attacking Midfield,31,2500000.0,08/07/2021
+L1,2023,1.FSV Mainz 05,Marco Richter,Attacking Midfield,26,2000000.0,22/08/2023
+L1,2023,1.FSV Mainz 05,Aymen Barkok,Attacking Midfield,26,1000000.0,01/07/2022
+L1,2023,1.FSV Mainz 05,Anwar El Ghazi,Right Winger,29,2500000.0,22/09/2023
+L1,2023,1.FSV Mainz 05,David Mamutovic,Right Winger,23,250000.0,
+L1,2023,1.FSV Mainz 05,Jonathan Burkardt,Centre-Forward,23,12000000.0,01/07/2018
+L1,2023,1.FSV Mainz 05,Nelson Weiper,Centre-Forward,19,5000000.0,01/07/2022
+L1,2023,1.FSV Mainz 05,Ludovic Ajorque,Centre-Forward,30,3000000.0,24/01/2023
+L1,2023,1.FSV Mainz 05,Karim Onisiwo,Centre-Forward,32,1500000.0,05/01/2016
+L1,2023,1.FSV Mainz 05,Jessic Ngankam,Centre-Forward,23,1500000.0,01/02/2024
+L1,2023,1.FSV Mainz 05,Marcus Müller,Centre-Forward,21,200000.0,
+L1,2023,FC Augsburg,Finn Dahmen,Goalkeeper,26,5000000.0,01/07/2023
+L1,2023,FC Augsburg,Tomas Koubek,Goalkeeper,31,800000.0,06/08/2019
+L1,2023,FC Augsburg,Marcel Lubik,Goalkeeper,20,300000.0,01/07/2023
+L1,2023,FC Augsburg,Felix Uduokhai,Centre-Back,26,7000000.0,01/07/2020
+L1,2023,FC Augsburg,Maximilian Bauer,Centre-Back,24,3000000.0,01/07/2022
+L1,2023,FC Augsburg,Patric Pfeiffer,Centre-Back,24,2000000.0,01/07/2023
+L1,2023,FC Augsburg,Jeffrey Gouweleeuw,Centre-Back,32,2000000.0,09/01/2016
+L1,2023,FC Augsburg,Japhet Tanganga,Centre-Back,25,1800000.0,01/09/2023
+L1,2023,FC Augsburg,Reece Oxford,Centre-Back,25,1500000.0,02/08/2019
+L1,2023,FC Augsburg,Frederik Winther,Centre-Back,23,800000.0,04/10/2020
+L1,2023,FC Augsburg,Iago,Left-Back,27,4000000.0,01/07/2019
+L1,2023,FC Augsburg,Mads Pedersen,Left-Back,27,2500000.0,01/07/2019
+L1,2023,FC Augsburg,Aaron Zehnter,Left-Back,19,1500000.0,01/07/2022
+L1,2023,FC Augsburg,David Colina,Left-Back,23,1000000.0,14/01/2023
+L1,2023,FC Augsburg,Kevin Mbabu,Right-Back,29,4000000.0,01/09/2023
+L1,2023,FC Augsburg,Robert Gumny,Right-Back,26,2000000.0,02/09/2020
+L1,2023,FC Augsburg,Raphael Framberger,Right-Back,28,600000.0,01/01/2015
+L1,2023,FC Augsburg,Kristijan Jakic,Defensive Midfield,27,6500000.0,01/07/2024
+L1,2023,FC Augsburg,Niklas Dorsch,Defensive Midfield,26,4000000.0,08/07/2021
+L1,2023,FC Augsburg,Tim Breithaupt,Defensive Midfield,22,3000000.0,01/07/2023
+L1,2023,FC Augsburg,David Deger,Defensive Midfield,24,100000.0,
+L1,2023,FC Augsburg,Mahmut Kücüksahin,Defensive Midfield,20,100000.0,17/07/2024
+L1,2023,FC Augsburg,Arne Engels,Central Midfield,20,9000000.0,03/01/2023
+L1,2023,FC Augsburg,Arne Maier,Central Midfield,25,5000000.0,01/07/2022
+L1,2023,FC Augsburg,Elvis Rexhbecaj,Central Midfield,26,3500000.0,27/07/2022
+L1,2023,FC Augsburg,Fredrik Jensen,Attacking Midfield,26,3500000.0,01/07/2018
+L1,2023,FC Augsburg,Pep Biel,Attacking Midfield,27,3000000.0,01/02/2024
+L1,2023,FC Augsburg,Mert Kömür,Attacking Midfield,18,2000000.0,01/07/2023
+L1,2023,FC Augsburg,Daniel Hausmann,Attacking Midfield,21,100000.0,
+L1,2023,FC Augsburg,Rubén Vargas,Left Winger,25,7500000.0,01/07/2019
+L1,2023,FC Augsburg,Nathanaël Mbuku,Left Winger,22,2000000.0,30/01/2023
+L1,2023,FC Augsburg,Masaya Okugawa,Left Winger,28,1500000.0,05/07/2023
+L1,2023,FC Augsburg,Irvin Cardona,Right Winger,26,2500000.0,18/01/2023
+L1,2023,FC Augsburg,Sven Michel,Right Winger,33,700000.0,01/07/2023
+L1,2023,FC Augsburg,Ermedin Demirovic,Centre-Forward,26,28000000.0,08/07/2022
+L1,2023,FC Augsburg,Mergim Berisha,Centre-Forward,26,10000000.0,28/01/2025
+L1,2023,FC Augsburg,Phillip Tietz,Centre-Forward,26,5000000.0,12/07/2023
+L1,2023,FC Augsburg,Dion Beljo,Centre-Forward,22,4000000.0,13/01/2023
+L1,2023,SV Werder Bremen,Michael Zetterer,Goalkeeper,28,3000000.0,27/01/2015
+L1,2023,SV Werder Bremen,Jiri Pavlenka,Goalkeeper,32,1500000.0,01/07/2017
+L1,2023,SV Werder Bremen,Dudu,Goalkeeper,25,200000.0,01/07/2020
+L1,2023,SV Werder Bremen,Spyros Angelidis,Goalkeeper,19,,
+L1,2023,SV Werder Bremen,Marco Friedl,Centre-Back,26,7500000.0,01/07/2019
+L1,2023,SV Werder Bremen,Niklas Stark,Centre-Back,29,5500000.0,01/07/2022
+L1,2023,SV Werder Bremen,Milos Veljkovic,Centre-Back,28,4500000.0,01/02/2016
+L1,2023,SV Werder Bremen,Amos Pieper,Centre-Back,26,4000000.0,01/07/2022
+L1,2023,SV Werder Bremen,Julián Malatini,Centre-Back,23,2500000.0,16/01/2024
+L1,2023,SV Werder Bremen,Anthony Jung,Centre-Back,32,1000000.0,01/07/2021
+L1,2023,SV Werder Bremen,Olivier Deman,Left-Back,24,5000000.0,31/08/2023
+L1,2023,SV Werder Bremen,Felix Agu,Left-Back,24,4000000.0,01/07/2020
+L1,2023,SV Werder Bremen,Mitchell Weiser,Right-Back,30,6000000.0,15/07/2022
+L1,2023,SV Werder Bremen,Senne Lynen,Defensive Midfield,25,7000000.0,08/08/2023
+L1,2023,SV Werder Bremen,Ilia Gruev,Defensive Midfield,24,5000000.0,01/07/2019
+L1,2023,SV Werder Bremen,Skelly Alvero,Defensive Midfield,22,4000000.0,01/07/2024
+L1,2023,SV Werder Bremen,Nicolai Rapp,Defensive Midfield,27,700000.0,01/07/2021
+L1,2023,SV Werder Bremen,Christian Groß,Defensive Midfield,35,300000.0,01/08/2020
+L1,2023,SV Werder Bremen,Jens Stage,Central Midfield,27,7500000.0,01/07/2022
+L1,2023,SV Werder Bremen,Leonardo Bittencourt,Central Midfield,30,2500000.0,15/07/2020
+L1,2023,SV Werder Bremen,Naby Keïta,Central Midfield,29,2000000.0,01/07/2023
+L1,2023,SV Werder Bremen,Jakob Löpping,Central Midfield,21,125000.0,
+L1,2023,SV Werder Bremen,Cimo Röcker,Central Midfield,30,,01/07/2012
+L1,2023,SV Werder Bremen,Romano Schmid,Attacking Midfield,24,10000000.0,03/01/2019
+L1,2023,SV Werder Bremen,Isak Hansen-Aarøen,Attacking Midfield,19,1500000.0,01/02/2024
+L1,2023,SV Werder Bremen,Leon Opitz,Attacking Midfield,19,600000.0,06/09/2023
+L1,2023,SV Werder Bremen,Justin Njinmah,Right Winger,23,9000000.0,05/01/2022
+L1,2023,SV Werder Bremen,Kein Sato,Right Winger,22,,
+L1,2023,SV Werder Bremen,Niclas Füllkrug,Centre-Forward,31,15000000.0,01/07/2019
+L1,2023,SV Werder Bremen,Marvin Ducksch,Centre-Forward,30,9000000.0,25/08/2021
+L1,2023,SV Werder Bremen,Rafael Santos Borré,Centre-Forward,28,8000000.0,01/09/2023
+L1,2023,SV Werder Bremen,Nick Woltemade,Centre-Forward,22,4000000.0,01/07/2020
+L1,2023,SV Werder Bremen,Dawid Kownacki,Centre-Forward,27,2000000.0,01/07/2023
+L1,2023,SV Werder Bremen,Oliver Burke,Centre-Forward,27,2000000.0,01/07/2022
+L1,2023,SV Werder Bremen,Joel Imasuen,Centre-Forward,19,,
+L1,2023,1.FC Köln,Marvin Schwäbe,Goalkeeper,29,4000000.0,01/07/2021
+L1,2023,1.FC Köln,Philipp Pentke,Goalkeeper,39,300000.0,01/08/2023
+L1,2023,1.FC Köln,Jonas Nickisch,Goalkeeper,20,200000.0,01/07/2023
+L1,2023,1.FC Köln,Matthias Köbbing,Goalkeeper,27,100000.0,01/01/2022
+L1,2023,1.FC Köln,Jeff Chabot,Centre-Back,26,9000000.0,01/07/2023
+L1,2023,1.FC Köln,Timo Hübers,Centre-Back,27,5500000.0,01/07/2021
+L1,2023,1.FC Köln,Luca Kilian,Centre-Back,24,2000000.0,01/07/2022
+L1,2023,1.FC Köln,Dominique Heintz,Centre-Back,30,800000.0,31/08/2023
+L1,2023,1.FC Köln,Elias Bakatukanda,Centre-Back,20,250000.0,01/07/2023
+L1,2023,1.FC Köln,Max Finkgräfe,Left-Back,20,6000000.0,01/07/2023
+L1,2023,1.FC Köln,Leart Paçarada,Left-Back,29,1500000.0,01/07/2023
+L1,2023,1.FC Köln,Kristian Pedersen,Left-Back,29,800000.0,01/07/2022
+L1,2023,1.FC Köln,Noah Katterbach,Left-Back,23,600000.0,01/07/2019
+L1,2023,1.FC Köln,Eric Martel,Defensive Midfield,22,7500000.0,01/07/2022
+L1,2023,1.FC Köln,Dejan Ljubicic,Defensive Midfield,26,5000000.0,01/07/2021
+L1,2023,1.FC Köln,Benno Schmitz,Defensive Midfield,29,1500000.0,01/07/2018
+L1,2023,1.FC Köln,Jacob Christensen,Defensive Midfield,23,1500000.0,01/07/2023
+L1,2023,1.FC Köln,Mathias Olesen,Defensive Midfield,23,1500000.0,04/02/2022
+L1,2023,1.FC Köln,Denis Huseinbasic,Central Midfield,22,4000000.0,01/07/2022
+L1,2023,1.FC Köln,Rasmus Carstensen,Right Midfield,23,2000000.0,01/07/2024
+L1,2023,1.FC Köln,Florian Kainz,Attacking Midfield,31,2500000.0,18/01/2019
+L1,2023,1.FC Köln,Linton Maina,Left Winger,25,3000000.0,01/07/2022
+L1,2023,1.FC Köln,Faride Alidou,Left Winger,22,2500000.0,21/08/2023
+L1,2023,1.FC Köln,Justin Diehl,Left Winger,19,2500000.0,01/01/2024
+L1,2023,1.FC Köln,Jan Thielmann,Right Winger,22,5000000.0,17/01/2020
+L1,2023,1.FC Köln,Dimitrios Limnios,Right Winger,26,900000.0,21/09/2020
+L1,2023,1.FC Köln,Davie Selke,Centre-Forward,29,2800000.0,02/01/2023
+L1,2023,1.FC Köln,Luca Waldschmidt,Centre-Forward,28,2500000.0,01/07/2024
+L1,2023,1.FC Köln,Damion Downs,Centre-Forward,19,2000000.0,01/07/2023
+L1,2023,1.FC Köln,Steffen Tigges,Centre-Forward,25,1500000.0,01/07/2022
+L1,2023,1.FC Köln,Mark Uth,Centre-Forward,32,1000000.0,01/07/2021
+L1,2023,1.FC Köln,Sargis Adamyan,Centre-Forward,31,600000.0,05/07/2022
+L1,2023,1.FC Köln,Florian Dietz,Centre-Forward,25,600000.0,01/07/2022
+L1,2023,1.FC Heidenheim 1846,Kevin Müller,Goalkeeper,33,1000000.0,01/07/2015
+L1,2023,1.FC Heidenheim 1846,Vitus Eicher,Goalkeeper,33,250000.0,17/01/2017
+L1,2023,1.FC Heidenheim 1846,Frank Feller,Goalkeeper,20,200000.0,01/07/2023
+L1,2023,1.FC Heidenheim 1846,Paul Tschernuth,Goalkeeper,22,100000.0,01/07/2021
+L1,2023,1.FC Heidenheim 1846,Benedikt Gimber,Centre-Back,27,2800000.0,01/07/2023
+L1,2023,1.FC Heidenheim 1846,Patrick Mainka,Centre-Back,29,2500000.0,01/07/2018
+L1,2023,1.FC Heidenheim 1846,Tim Siersleben,Centre-Back,24,1500000.0,01/07/2023
+L1,2023,1.FC Heidenheim 1846,Thomas Keller,Centre-Back,24,350000.0,01/07/2022
+L1,2023,1.FC Heidenheim 1846,Jonas Föhrenbach,Left-Back,28,2000000.0,01/07/2019
+L1,2023,1.FC Heidenheim 1846,Seedy Jarju,Left-Back,19,200000.0,01/07/2023
+L1,2023,1.FC Heidenheim 1846,Omar Traoré,Right-Back,26,2500000.0,01/07/2023
+L1,2023,1.FC Heidenheim 1846,Marnon Busch,Right-Back,29,1200000.0,01/07/2017
+L1,2023,1.FC Heidenheim 1846,Lennard Maloney,Defensive Midfield,24,5000000.0,01/07/2022
+L1,2023,1.FC Heidenheim 1846,Norman Theuerkauf,Defensive Midfield,37,300000.0,01/07/2015
+L1,2023,1.FC Heidenheim 1846,Luka Janes,Defensive Midfield,20,200000.0,01/07/2023
+L1,2023,1.FC Heidenheim 1846,Jan Schöppner,Central Midfield,25,3000000.0,05/08/2020
+L1,2023,1.FC Heidenheim 1846,Kevin Sessa,Central Midfield,23,2500000.0,01/07/2018
+L1,2023,1.FC Heidenheim 1846,Adrian Beck,Attacking Midfield,27,1500000.0,01/07/2022
+L1,2023,1.FC Heidenheim 1846,Denis Thomalla,Attacking Midfield,31,750000.0,01/07/2016
+L1,2023,1.FC Heidenheim 1846,Christian Kühlwetter,Attacking Midfield,28,500000.0,01/09/2020
+L1,2023,1.FC Heidenheim 1846,Florian Pick,Left Winger,28,700000.0,01/09/2020
+L1,2023,1.FC Heidenheim 1846,Niklas Beste,Right Winger,25,15000000.0,01/07/2022
+L1,2023,1.FC Heidenheim 1846,Eren Dinkçi,Right Winger,22,12000000.0,30/01/2026
+L1,2023,1.FC Heidenheim 1846,Nikola Dovedan,Second Striker,29,800000.0,01/07/2023
+L1,2023,1.FC Heidenheim 1846,Tim Kleindienst,Centre-Forward,28,6000000.0,01/07/2021
+L1,2023,1.FC Heidenheim 1846,Marvin Pieringer,Centre-Forward,24,3000000.0,03/07/2023
+L1,2023,1.FC Heidenheim 1846,Stefan Schimmer,Centre-Forward,30,500000.0,06/08/2019
+L1,2023,1.FC Heidenheim 1846,Elidon Qenaj,Centre-Forward,21,100000.0,01/07/2022
+L1,2023,VfL Bochum,Manuel Riemann,Goalkeeper,35,600000.0,01/07/2015
+L1,2023,VfL Bochum,Niclas Thiede,Goalkeeper,25,350000.0,01/07/2023
+L1,2023,VfL Bochum,Andreas Luthe,Goalkeeper,37,300000.0,29/01/2024
+L1,2023,VfL Bochum,Michael Esser,Goalkeeper,36,300000.0,01/07/2021
+L1,2023,VfL Bochum,Hugo Rölleke,Goalkeeper,19,,01/07/2025
+L1,2023,VfL Bochum,Keven Schlotterbeck,Centre-Back,27,6000000.0,22/08/2023
+L1,2023,VfL Bochum,Erhan Masovic,Centre-Back,25,5000000.0,05/10/2020
+L1,2023,VfL Bochum,Tim Oermann,Centre-Back,20,4000000.0,01/07/2022
+L1,2023,VfL Bochum,Ivan Ordets,Centre-Back,31,2500000.0,01/07/2024
+L1,2023,VfL Bochum,Noah Loosli,Centre-Back,27,800000.0,01/07/2023
+L1,2023,VfL Bochum,Mohammed Tolba,Centre-Back,19,200000.0,01/07/2022
+L1,2023,VfL Bochum,Bernardo,Left-Back,29,5500000.0,02/08/2023
+L1,2023,VfL Bochum,Maximilian Wittek,Left-Back,28,2000000.0,14/08/2023
+L1,2023,VfL Bochum,Danilo Soares,Left-Back,32,700000.0,01/07/2017
+L1,2023,VfL Bochum,Moritz Römling,Left-Back,23,150000.0,01/07/2019
+L1,2023,VfL Bochum,Felix Passlack,Right-Back,26,1800000.0,01/07/2023
+L1,2023,VfL Bochum,Cristian Gamboa,Right-Back,34,500000.0,27/08/2019
+L1,2023,VfL Bochum,Jordi Osei-Tutu,Right-Back,25,500000.0,01/07/2022
+L1,2023,VfL Bochum,Patrick Osterhage,Defensive Midfield,24,7000000.0,01/07/2021
+L1,2023,VfL Bochum,Anthony Losilla,Defensive Midfield,38,500000.0,01/07/2014
+L1,2023,VfL Bochum,Matus Bero,Central Midfield,28,3500000.0,01/07/2023
+L1,2023,VfL Bochum,Agon Elezi,Central Midfield,23,800000.0,30/01/2024
+L1,2023,VfL Bochum,Mats Pannewig,Central Midfield,19,125000.0,01/07/2023
+L1,2023,VfL Bochum,Kevin Stöger,Attacking Midfield,30,5000000.0,01/07/2022
+L1,2023,VfL Bochum,Philipp Förster,Attacking Midfield,29,1800000.0,01/07/2022
+L1,2023,VfL Bochum,Lukas Daschner,Attacking Midfield,25,1200000.0,01/07/2023
+L1,2023,VfL Bochum,Moritz-Broni Kwarteng,Attacking Midfield,26,1200000.0,01/07/2023
+L1,2023,VfL Bochum,Christopher Antwi-Adjei,Left Winger,30,1200000.0,01/07/2021
+L1,2023,VfL Bochum,Takuma Asano,Right Winger,29,4000000.0,01/07/2021
+L1,2023,VfL Bochum,Moritz Broschinski,Centre-Forward,23,3000000.0,22/01/2023
+L1,2023,VfL Bochum,Philipp Hofmann,Centre-Forward,31,1800000.0,01/07/2022
+L1,2023,VfL Bochum,Gonçalo Paciência,Centre-Forward,29,1500000.0,01/09/2023
+L1,2023,VfL Bochum,Simon Zoller,Centre-Forward,33,350000.0,01/01/2019
+L1,2023,VfL Bochum,Lys Mousset,Centre-Forward,28,350000.0,15/08/2022
+L1,2023,SV Darmstadt 98,Marcel Schuhen,Goalkeeper,31,800000.0,01/07/2019
+L1,2023,SV Darmstadt 98,Alexander Brunst,Goalkeeper,28,400000.0,01/07/2022
+L1,2023,SV Darmstadt 98,Morten Behrens,Goalkeeper,27,250000.0,01/07/2021
+L1,2023,SV Darmstadt 98,Max Wendt,Goalkeeper,19,,
+L1,2023,SV Darmstadt 98,Christoph Klarer,Centre-Back,24,3000000.0,18/07/2023
+L1,2023,SV Darmstadt 98,Matej Maglica,Centre-Back,25,2000000.0,01/07/2024
+L1,2023,SV Darmstadt 98,Clemens Riedel,Centre-Back,20,2000000.0,01/07/2021
+L1,2023,SV Darmstadt 98,Bartol Franjic,Centre-Back,24,1800000.0,18/08/2023
+L1,2023,SV Darmstadt 98,Christoph Zimmermann,Centre-Back,31,1000000.0,20/07/2022
+L1,2023,SV Darmstadt 98,Jannik Müller,Centre-Back,30,800000.0,01/07/2021
+L1,2023,SV Darmstadt 98,Thomas Isherwood,Centre-Back,26,500000.0,03/01/2021
+L1,2023,SV Darmstadt 98,Fabian Nürnberger,Left-Back,24,2500000.0,01/07/2023
+L1,2023,SV Darmstadt 98,Emir Karić,Left-Back,27,1000000.0,01/07/2021
+L1,2023,SV Darmstadt 98,Fabian Holland,Left-Back,33,500000.0,05/07/2015
+L1,2023,SV Darmstadt 98,Matthias Bader,Right-Back,27,1800000.0,31/01/2020
+L1,2023,SV Darmstadt 98,Fabio Torsiello,Right-Back,19,500000.0,06/12/2022
+L1,2023,SV Darmstadt 98,Andreas Müller,Defensive Midfield,23,800000.0,01/07/2023
+L1,2023,SV Darmstadt 98,Klaus Gjasula,Defensive Midfield,34,400000.0,11/08/2021
+L1,2023,SV Darmstadt 98,Asaf Arania,Defensive Midfield,18,,01/07/2024
+L1,2023,SV Darmstadt 98,Fabian Schnellhardt,Central Midfield,30,1000000.0,01/07/2019
+L1,2023,SV Darmstadt 98,Tobias Kempe,Central Midfield,35,500000.0,07/07/2017
+L1,2023,SV Darmstadt 98,Frank Ronstadt,Right Midfield,26,550000.0,01/07/2021
+L1,2023,SV Darmstadt 98,Marvin Mehlem,Attacking Midfield,26,2500000.0,01/07/2017
+L1,2023,SV Darmstadt 98,Julian Justvan,Attacking Midfield,26,1500000.0,19/01/2024
+L1,2023,SV Darmstadt 98,Braydon Manu,Left Winger,27,1200000.0,01/07/2019
+L1,2023,SV Darmstadt 98,Mathias Honsak,Left Winger,27,1200000.0,05/07/2019
+L1,2023,SV Darmstadt 98,Gerrit Holtmann,Left Winger,29,1000000.0,21/01/2024
+L1,2023,SV Darmstadt 98,Tim Skarke,Centre-Forward,27,3000000.0,31/08/2023
+L1,2023,SV Darmstadt 98,Oscar Vilhelmsson,Centre-Forward,20,2000000.0,12/07/2022
+L1,2023,SV Darmstadt 98,Fraser Hornby,Centre-Forward,24,1200000.0,05/07/2023
+L1,2023,SV Darmstadt 98,Luca Pfeiffer,Centre-Forward,27,1200000.0,17/08/2023
+L1,2023,SV Darmstadt 98,Filip Stojilkovic,Centre-Forward,24,800000.0,31/01/2023
+L1,2023,SV Darmstadt 98,Aaron Seydel,Centre-Forward,28,500000.0,06/08/2020
+L1,2023,SV Darmstadt 98,Sebastian Polter,Centre-Forward,33,500000.0,01/02/2024

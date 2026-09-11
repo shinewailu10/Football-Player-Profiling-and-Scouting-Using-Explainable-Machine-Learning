@@ -1,0 +1,833 @@
+league,season,club,name,position,age,market_value_eur,contract_expiry
+IT1,2023,Inter Milan,Yann Sommer,Goalkeeper,35,5000000.0,07/08/2023
+IT1,2023,Inter Milan,Emil Audero,Goalkeeper,27,5000000.0,10/08/2023
+IT1,2023,Inter Milan,Raffaele Di Gennaro,Goalkeeper,30,300000.0,13/07/2023
+IT1,2023,Inter Milan,Alessandro Calligaris,Goalkeeper,19,150000.0,
+IT1,2023,Inter Milan,Alessandro Bastoni,Centre-Back,25,70000000.0,31/08/2017
+IT1,2023,Inter Milan,Benjamin Pavard,Centre-Back,28,50000000.0,30/08/2023
+IT1,2023,Inter Milan,Yann Bisseck,Centre-Back,23,16000000.0,12/07/2023
+IT1,2023,Inter Milan,Stefan de Vrij,Centre-Back,32,7000000.0,01/07/2018
+IT1,2023,Inter Milan,Francesco Acerbi,Centre-Back,36,3500000.0,01/07/2023
+IT1,2023,Inter Milan,Giacomo Stabile,Centre-Back,19,50000.0,
+IT1,2023,Inter Milan,Federico Dimarco,Left-Back,26,50000000.0,05/07/2018
+IT1,2023,Inter Milan,Carlos Augusto,Left-Back,25,22000000.0,01/07/2024
+IT1,2023,Inter Milan,Matteo Motta,Left-Back,19,100000.0,
+IT1,2023,Inter Milan,Denzel Dumfries,Right-Back,28,24000000.0,14/08/2021
+IT1,2023,Inter Milan,Matteo Darmian,Right-Back,34,4000000.0,01/07/2021
+IT1,2023,Inter Milan,Hakan Çalhanoğlu,Defensive Midfield,30,45000000.0,01/07/2021
+IT1,2023,Inter Milan,Kristjan Asllani,Defensive Midfield,22,18000000.0,01/07/2023
+IT1,2023,Inter Milan,Lucien Agoumé,Defensive Midfield,22,6000000.0,05/07/2019
+IT1,2023,Inter Milan,Aleksandar Stanković,Defensive Midfield,18,1000000.0,29/06/2026
+IT1,2023,Inter Milan,Nicolò Barella,Central Midfield,27,80000000.0,01/09/2020
+IT1,2023,Inter Milan,Davide Frattesi,Central Midfield,24,35000000.0,01/07/2024
+IT1,2023,Inter Milan,Henrikh Mkhitaryan,Central Midfield,35,6000000.0,01/07/2022
+IT1,2023,Inter Milan,Davy Klaassen,Central Midfield,31,4000000.0,01/09/2023
+IT1,2023,Inter Milan,Stefano Sensi,Central Midfield,28,3000000.0,01/09/2020
+IT1,2023,Inter Milan,Ebenezer Akinsanmiro,Central Midfield,19,1800000.0,01/07/2024
+IT1,2023,Inter Milan,Issiaka Kamate,Central Midfield,19,1000000.0,01/07/2024
+IT1,2023,Inter Milan,Juan Cuadrado,Right Midfield,36,1000000.0,19/07/2023
+IT1,2023,Inter Milan,Tommaso Guercio,Right Midfield,19,300000.0,
+IT1,2023,Inter Milan,Tajon Buchanan,Right Winger,25,8000000.0,05/01/2024
+IT1,2023,Inter Milan,Joaquín Correa,Second Striker,29,6000000.0,01/07/2022
+IT1,2023,Inter Milan,Alexis Sánchez,Second Striker,35,2500000.0,26/08/2023
+IT1,2023,Inter Milan,Lautaro Martínez,Centre-Forward,26,110000000.0,04/07/2018
+IT1,2023,Inter Milan,Marcus Thuram,Centre-Forward,26,65000000.0,01/07/2023
+IT1,2023,Inter Milan,Marko Arnautovic,Centre-Forward,35,4000000.0,01/07/2024
+IT1,2023,Inter Milan,Amadou Sarr,Centre-Forward,20,150000.0,
+IT1,2023,AC Milan,Mike Maignan,Goalkeeper,28,38000000.0,01/07/2021
+IT1,2023,AC Milan,Marco Sportiello,Goalkeeper,32,1500000.0,01/07/2023
+IT1,2023,AC Milan,Noah Raveyre,Goalkeeper,19,200000.0,
+IT1,2023,AC Milan,Lapo Nava,Goalkeeper,20,150000.0,01/07/2023
+IT1,2023,AC Milan,Antonio Mirante,Goalkeeper,40,100000.0,13/10/2021
+IT1,2023,AC Milan,Andrea Bartoccioni,Goalkeeper,20,50000.0,
+IT1,2023,AC Milan,Lorenzo Torriani,Goalkeeper,19,10000.0,01/07/2024
+IT1,2023,AC Milan,Fikayo Tomori,Centre-Back,26,40000000.0,01/07/2021
+IT1,2023,AC Milan,Malick Thiaw,Centre-Back,22,25000000.0,29/08/2022
+IT1,2023,AC Milan,Pierre Kalulu,Centre-Back,24,20000000.0,01/09/2020
+IT1,2023,AC Milan,Matteo Gabbia,Centre-Back,24,8000000.0,01/07/2017
+IT1,2023,AC Milan,Jan-Carlo Simić,Centre-Back,19,5000000.0,01/07/2024
+IT1,2023,AC Milan,Filippo Terracciano,Centre-Back,21,4500000.0,08/01/2024
+IT1,2023,AC Milan,Marco Pellegrino,Centre-Back,21,3500000.0,22/08/2023
+IT1,2023,AC Milan,Simon Kjaer,Centre-Back,35,1500000.0,01/09/2020
+IT1,2023,AC Milan,Mattia Caldara,Centre-Back,30,800000.0,02/08/2018
+IT1,2023,AC Milan,Clinton Nsiala,Centre-Back,20,200000.0,
+IT1,2023,AC Milan,Theo Hernández,Left-Back,26,60000000.0,06/07/2019
+IT1,2023,AC Milan,Davide Bartesaghi,Left-Back,18,1000000.0,01/07/2025
+IT1,2023,AC Milan,Davide Calabria,Right-Back,27,13000000.0,01/07/2015
+IT1,2023,AC Milan,Álex Jiménez,Right-Back,19,4000000.0,01/07/2024
+IT1,2023,AC Milan,Alessandro Florenzi,Right-Back,33,2000000.0,01/07/2022
+IT1,2023,AC Milan,Ismaël Bennacer,Defensive Midfield,26,30000000.0,04/08/2019
+IT1,2023,AC Milan,Yacine Adli,Defensive Midfield,23,15000000.0,30/08/2021
+IT1,2023,AC Milan,Rade Krunic,Defensive Midfield,30,6000000.0,08/07/2019
+IT1,2023,AC Milan,Victor Eletu,Defensive Midfield,19,400000.0,
+IT1,2023,AC Milan,Tijjani Reijnders,Central Midfield,25,30000000.0,19/07/2023
+IT1,2023,AC Milan,Ruben Loftus-Cheek,Central Midfield,28,25000000.0,01/07/2023
+IT1,2023,AC Milan,Yunus Musah,Central Midfield,21,22000000.0,04/08/2023
+IT1,2023,AC Milan,Tommaso Pobega,Central Midfield,24,10000000.0,01/07/2018
+IT1,2023,AC Milan,Kevin Zeroli,Central Midfield,19,2000000.0,01/07/2024
+IT1,2023,AC Milan,Rafael Leão,Left Winger,25,90000000.0,01/08/2019
+IT1,2023,AC Milan,Noah Okafor,Left Winger,24,20000000.0,22/07/2023
+IT1,2023,AC Milan,Chaka Traorè,Left Winger,19,1500000.0,01/07/2023
+IT1,2023,AC Milan,Diego Sia,Left Winger,18,,
+IT1,2023,AC Milan,Christian Pulisic,Right Winger,25,40000000.0,13/07/2023
+IT1,2023,AC Milan,Samuel Chukwueze,Right Winger,25,20000000.0,27/07/2023
+IT1,2023,AC Milan,Luka Romero,Right Winger,19,5000000.0,06/07/2023
+IT1,2023,AC Milan,Francesco Camarda,Centre-Forward,16,10000000.0,01/06/2025
+IT1,2023,AC Milan,Luka Jović,Centre-Forward,26,7000000.0,01/09/2023
+IT1,2023,AC Milan,Lorenzo Colombo,Centre-Forward,22,6000000.0,01/09/2020
+IT1,2023,AC Milan,Olivier Giroud,Centre-Forward,37,3000000.0,17/07/2021
+IT1,2023,SSC Napoli,Alex Meret,Goalkeeper,27,12000000.0,01/07/2019
+IT1,2023,SSC Napoli,Pierluigi Gollini,Goalkeeper,29,4000000.0,25/01/2023
+IT1,2023,SSC Napoli,Nikita Contini,Goalkeeper,28,400000.0,01/07/2015
+IT1,2023,SSC Napoli,Hubert Idasiak,Goalkeeper,22,150000.0,01/07/2022
+IT1,2023,SSC Napoli,Amir Rrahmani,Centre-Back,30,15000000.0,20/01/2020
+IT1,2023,SSC Napoli,Natan,Centre-Back,23,12000000.0,07/08/2023
+IT1,2023,SSC Napoli,Leo Østigård,Centre-Back,24,8000000.0,18/07/2022
+IT1,2023,SSC Napoli,Juan Jesus,Centre-Back,33,2500000.0,18/08/2021
+IT1,2023,SSC Napoli,Luigi D'Avino,Centre-Back,18,125000.0,
+IT1,2023,SSC Napoli,Mathías Olivera,Left-Back,26,15000000.0,01/07/2022
+IT1,2023,SSC Napoli,Mário Rui,Left-Back,33,3500000.0,03/01/2018
+IT1,2023,SSC Napoli,Giovanni Di Lorenzo,Right-Back,30,15000000.0,01/07/2019
+IT1,2023,SSC Napoli,Alessandro Zanoli,Right-Back,23,5000000.0,01/09/2020
+IT1,2023,SSC Napoli,Pasquale Mazzocchi,Right-Back,28,3000000.0,05/01/2024
+IT1,2023,SSC Napoli,Stanislav Lobotka,Defensive Midfield,29,28000000.0,15/01/2020
+IT1,2023,SSC Napoli,Jens Cajuste,Defensive Midfield,24,10000000.0,10/08/2023
+IT1,2023,SSC Napoli,Leander Dendoncker,Defensive Midfield,29,7000000.0,26/01/2024
+IT1,2023,SSC Napoli,Gianluca Gaetano,Defensive Midfield,24,6000000.0,01/07/2019
+IT1,2023,SSC Napoli,Diego Demme,Defensive Midfield,32,800000.0,11/01/2020
+IT1,2023,SSC Napoli,Lorenzo Russo,Defensive Midfield,19,100000.0,
+IT1,2023,SSC Napoli,Frank Anguissa,Central Midfield,28,27000000.0,01/07/2022
+IT1,2023,SSC Napoli,Piotr Zielinski,Central Midfield,30,22000000.0,04/08/2016
+IT1,2023,SSC Napoli,Francesco Gioielli,Central Midfield,20,175000.0,
+IT1,2023,SSC Napoli,Alessio Zerbin,Right Midfield,25,4000000.0,01/07/2018
+IT1,2023,SSC Napoli,Karim Zedadka,Left Midfield,24,250000.0,01/09/2020
+IT1,2023,SSC Napoli,Eljif Elmas,Attacking Midfield,24,20000000.0,01/09/2025
+IT1,2023,SSC Napoli,Khvicha Kvaratskhelia,Left Winger,23,80000000.0,01/07/2022
+IT1,2023,SSC Napoli,Hamed Traoré,Left Winger,24,17000000.0,17/01/2024
+IT1,2023,SSC Napoli,Hirving Lozano,Left Winger,28,15000000.0,23/08/2019
+IT1,2023,SSC Napoli,Jesper Lindstrøm,Right Winger,24,22000000.0,29/08/2023
+IT1,2023,SSC Napoli,Matteo Politano,Right Winger,30,13000000.0,01/07/2021
+IT1,2023,SSC Napoli,Cyril Ngonge,Right Winger,24,12000000.0,19/01/2024
+IT1,2023,SSC Napoli,Giacomo Raspadori,Second Striker,24,25000000.0,01/07/2023
+IT1,2023,SSC Napoli,Victor Osimhen,Centre-Forward,25,100000000.0,01/09/2020
+IT1,2023,SSC Napoli,Giovanni Simeone,Centre-Forward,28,10000000.0,01/07/2023
+IT1,2023,Juventus FC,Wojciech Szczesny,Goalkeeper,34,6000000.0,19/07/2017
+IT1,2023,Juventus FC,Mattia Perin,Goalkeeper,31,3000000.0,01/07/2018
+IT1,2023,Juventus FC,Giovanni Daffara,Goalkeeper,19,300000.0,
+IT1,2023,Juventus FC,Carlo Pinsoglio,Goalkeeper,34,200000.0,01/07/2014
+IT1,2023,Juventus FC,Giovanni Garofani,Goalkeeper,21,100000.0,
+IT1,2023,Juventus FC,Gian Marco Crespi,Goalkeeper,23,100000.0,
+IT1,2023,Juventus FC,Simone Scaglia,Goalkeeper,19,25000.0,
+IT1,2023,Juventus FC,Bremer,Centre-Back,27,60000000.0,20/07/2022
+IT1,2023,Juventus FC,Federico Gatti,Centre-Back,26,18000000.0,31/01/2022
+IT1,2023,Juventus FC,Tiago Djaló,Centre-Back,24,12000000.0,22/01/2024
+IT1,2023,Juventus FC,Danilo,Centre-Back,32,10000000.0,07/08/2019
+IT1,2023,Juventus FC,Dean Huijsen,Centre-Back,19,10000000.0,07/11/2023
+IT1,2023,Juventus FC,Daniele Rugani,Centre-Back,29,4000000.0,31/07/2013
+IT1,2023,Juventus FC,Tarik Muharemović,Centre-Back,21,1200000.0,
+IT1,2023,Juventus FC,Andrea Cambiaso,Left-Back,24,25000000.0,14/07/2022
+IT1,2023,Juventus FC,Alex Sandro,Left-Back,33,2000000.0,20/08/2015
+IT1,2023,Juventus FC,Mattia De Sciglio,Right-Back,31,1000000.0,20/07/2017
+IT1,2023,Juventus FC,Manuel Locatelli,Defensive Midfield,26,28000000.0,01/07/2023
+IT1,2023,Juventus FC,Hans Nicolussi Caviglia,Defensive Midfield,24,3000000.0,01/07/2023
+IT1,2023,Juventus FC,Adrien Rabiot,Central Midfield,29,35000000.0,01/07/2019
+IT1,2023,Juventus FC,Weston McKennie,Central Midfield,25,28000000.0,01/07/2021
+IT1,2023,Juventus FC,Fabio Miretti,Central Midfield,20,15000000.0,01/07/2022
+IT1,2023,Juventus FC,Nicolò Fagioli,Central Midfield,23,15000000.0,01/01/2021
+IT1,2023,Juventus FC,Carlos Alcaraz,Central Midfield,21,15000000.0,31/01/2024
+IT1,2023,Juventus FC,Joseph Nonge,Central Midfield,19,3000000.0,
+IT1,2023,Juventus FC,Luis Hasa,Central Midfield,20,1000000.0,
+IT1,2023,Juventus FC,Paul Pogba,Central Midfield,31,,11/07/2022
+IT1,2023,Juventus FC,Timothy Weah,Right Midfield,24,12000000.0,01/07/2023
+IT1,2023,Juventus FC,Filip Kostic,Left Midfield,31,6500000.0,12/08/2022
+IT1,2023,Juventus FC,Nikola Sekulov,Attacking Midfield,22,800000.0,
+IT1,2023,Juventus FC,Kenan Yıldız,Left Winger,19,30000000.0,07/11/2023
+IT1,2023,Juventus FC,Samuel Iling-Junior,Left Winger,20,13000000.0,19/12/2022
+IT1,2023,Juventus FC,Federico Chiesa,Right Winger,26,35000000.0,01/07/2022
+IT1,2023,Juventus FC,Matías Soulé,Right Winger,21,25000000.0,01/07/2022
+IT1,2023,Juventus FC,Dušan Vlahović,Centre-Forward,24,65000000.0,28/01/2022
+IT1,2023,Juventus FC,Moise Kean,Centre-Forward,24,14000000.0,01/07/2023
+IT1,2023,Juventus FC,Arkadiusz Milik,Centre-Forward,30,6000000.0,01/07/2023
+IT1,2023,Juventus FC,Leonardo Cerri,Centre-Forward,21,800000.0,
+IT1,2023,Juventus FC,Tommaso Mancini,Centre-Forward,19,500000.0,
+IT1,2023,Atalanta BC,Marco Carnesecchi,Goalkeeper,23,16000000.0,01/07/2019
+IT1,2023,Atalanta BC,Juan Musso,Goalkeeper,30,5000000.0,02/07/2021
+IT1,2023,Atalanta BC,Paolo Vismara,Goalkeeper,21,600000.0,01/07/2026
+IT1,2023,Atalanta BC,Francesco Rossi,Goalkeeper,33,100000.0,01/07/2009
+IT1,2023,Atalanta BC,Giorgio Scalvini,Centre-Back,20,45000000.0,09/07/2021
+IT1,2023,Atalanta BC,Isak Hien,Centre-Back,25,20000000.0,02/01/2024
+IT1,2023,Atalanta BC,Berat Djimsiti,Centre-Back,31,10000000.0,18/01/2016
+IT1,2023,Atalanta BC,Sead Kolasinac,Centre-Back,31,10000000.0,06/07/2023
+IT1,2023,Atalanta BC,Caleb Okoli,Centre-Back,22,8000000.0,01/09/2020
+IT1,2023,Atalanta BC,Rafael Tolói,Centre-Back,33,2500000.0,26/08/2015
+IT1,2023,Atalanta BC,Giovanni Bonfanti,Centre-Back,21,1000000.0,01/07/2022
+IT1,2023,Atalanta BC,José Luis Palomino,Centre-Back,34,700000.0,01/07/2017
+IT1,2023,Atalanta BC,Tommaso Del Lungo,Centre-Back,20,250000.0,
+IT1,2023,Atalanta BC,Pietro Comi,Centre-Back,19,250000.0,
+IT1,2023,Atalanta BC,Matteo Ruggeri,Left-Back,21,20000000.0,01/09/2020
+IT1,2023,Atalanta BC,Andrea Ceresoli,Left-Back,21,500000.0,
+IT1,2023,Atalanta BC,Emil Holm,Right-Back,24,12000000.0,31/08/2023
+IT1,2023,Atalanta BC,Hans Hateboer,Right-Back,30,3500000.0,31/01/2017
+IT1,2023,Atalanta BC,Nadir Zortea,Right-Back,25,3000000.0,01/07/2019
+IT1,2023,Atalanta BC,Marco Palestra,Right-Back,19,1000000.0,01/07/2024
+IT1,2023,Atalanta BC,Teun Koopmeiners,Defensive Midfield,26,50000000.0,30/08/2021
+IT1,2023,Atalanta BC,Marten de Roon,Defensive Midfield,33,7000000.0,10/08/2017
+IT1,2023,Atalanta BC,Leonardo Mendicino,Defensive Midfield,18,800000.0,
+IT1,2023,Atalanta BC,Matteo Colombo,Defensive Midfield,20,150000.0,
+IT1,2023,Atalanta BC,Éderson,Central Midfield,24,40000000.0,06/07/2022
+IT1,2023,Atalanta BC,Mario Pašalić,Central Midfield,29,13000000.0,01/09/2020
+IT1,2023,Atalanta BC,Michel Adopo,Central Midfield,23,1000000.0,10/07/2023
+IT1,2023,Atalanta BC,Alberto Manzoni,Central Midfield,19,300000.0,
+IT1,2023,Atalanta BC,Davide Zappacosta,Right Midfield,32,6000000.0,24/08/2021
+IT1,2023,Atalanta BC,Mitchel Bakker,Left Midfield,24,6500000.0,07/07/2023
+IT1,2023,Atalanta BC,Charles De Ketelaere,Attacking Midfield,23,34000000.0,01/07/2024
+IT1,2023,Atalanta BC,Aleksey Miranchuk,Attacking Midfield,28,10000000.0,04/09/2020
+IT1,2023,Atalanta BC,Alessandro Cortinovis,Attacking Midfield,23,400000.0,
+IT1,2023,Atalanta BC,Andrea Bonanomi,Attacking Midfield,18,,
+IT1,2023,Atalanta BC,Ademola Lookman,Left Winger,26,40000000.0,04/08/2022
+IT1,2023,Atalanta BC,El Bilal Touré,Left Winger,22,20000000.0,29/07/2023
+IT1,2023,Atalanta BC,Tommaso De Nipoti,Second Striker,20,200000.0,
+IT1,2023,Atalanta BC,Gianluca Scamacca,Centre-Forward,25,35000000.0,07/08/2023
+IT1,2023,Atalanta BC,Duván Zapata,Centre-Forward,33,8000000.0,17/01/2020
+IT1,2023,Atalanta BC,Luis Muriel,Centre-Forward,33,2000000.0,01/07/2019
+IT1,2023,Atalanta BC,Siren Diao,Centre-Forward,19,1500000.0,
+IT1,2023,Atalanta BC,Moustapha Cissé,Centre-Forward,20,800000.0,01/07/2022
+IT1,2023,Bologna FC 1909,Lukasz Skorupski,Goalkeeper,33,3500000.0,01/07/2018
+IT1,2023,Bologna FC 1909,Federico Ravaglia,Goalkeeper,24,1000000.0,01/07/2017
+IT1,2023,Bologna FC 1909,Nicola Bagnolini,Goalkeeper,20,200000.0,01/07/2022
+IT1,2023,Bologna FC 1909,Tito Gasperini,Goalkeeper,18,,
+IT1,2023,Bologna FC 1909,Sam Beukema,Centre-Back,25,18000000.0,03/07/2023
+IT1,2023,Bologna FC 1909,Jhon Lucumí,Centre-Back,26,17000000.0,18/08/2022
+IT1,2023,Bologna FC 1909,Stefan Posch,Centre-Back,27,14000000.0,01/07/2023
+IT1,2023,Bologna FC 1909,Mihajlo Ilić,Centre-Back,21,4000000.0,18/01/2024
+IT1,2023,Bologna FC 1909,Adama Soumaoro,Centre-Back,32,2000000.0,01/07/2021
+IT1,2023,Bologna FC 1909,Kevin Bonifazi,Centre-Back,28,1800000.0,02/07/2021
+IT1,2023,Bologna FC 1909,Joaquín Sosa,Centre-Back,22,1500000.0,17/08/2022
+IT1,2023,Bologna FC 1909,Riccardo Stivanello,Centre-Back,20,200000.0,
+IT1,2023,Bologna FC 1909,Riccardo Calafiori,Left-Back,22,30000000.0,31/08/2023
+IT1,2023,Bologna FC 1909,Victor Kristiansen,Left-Back,21,15000000.0,30/08/2023
+IT1,2023,Bologna FC 1909,Charalampos Lykogiannis,Left-Back,30,1000000.0,01/07/2022
+IT1,2023,Bologna FC 1909,Lorenzo De Silvestri,Right-Back,36,400000.0,17/09/2020
+IT1,2023,Bologna FC 1909,Jerdy Schouten,Defensive Midfield,27,28000000.0,05/07/2019
+IT1,2023,Bologna FC 1909,Nikola Moro,Defensive Midfield,26,5000000.0,02/07/2023
+IT1,2023,Bologna FC 1909,Oussama El Azzouzi,Defensive Midfield,23,2500000.0,20/07/2023
+IT1,2023,Bologna FC 1909,Lewis Ferguson,Central Midfield,24,24000000.0,12/07/2022
+IT1,2023,Bologna FC 1909,Nicolás Domínguez,Central Midfield,26,17000000.0,30/08/2019
+IT1,2023,Bologna FC 1909,Michel Aebischer,Central Midfield,27,9000000.0,01/07/2022
+IT1,2023,Bologna FC 1909,Remo Freuler,Central Midfield,32,6500000.0,01/07/2024
+IT1,2023,Bologna FC 1909,Niklas Pyyhtiä,Central Midfield,20,1200000.0,01/01/2023
+IT1,2023,Bologna FC 1909,Alexis Saelemaekers,Right Midfield,25,12000000.0,30/08/2023
+IT1,2023,Bologna FC 1909,Tommaso Corazza,Left Midfield,20,1000000.0,01/07/2023
+IT1,2023,Bologna FC 1909,Giovanni Fabbian,Attacking Midfield,21,14000000.0,20/08/2023
+IT1,2023,Bologna FC 1909,Kacper Urbański,Attacking Midfield,19,7000000.0,01/07/2022
+IT1,2023,Bologna FC 1909,Jens Odgaard,Attacking Midfield,25,4500000.0,01/07/2024
+IT1,2023,Bologna FC 1909,Jesper Karlsson,Left Winger,25,8000000.0,23/08/2023
+IT1,2023,Bologna FC 1909,Tommaso Ravaglioli,Left Winger,18,,
+IT1,2023,Bologna FC 1909,Riccardo Orsolini,Right Winger,27,16000000.0,01/07/2019
+IT1,2023,Bologna FC 1909,Dan Ndoye,Right Winger,23,14000000.0,14/08/2023
+IT1,2023,Bologna FC 1909,Joshua Zirkzee,Centre-Forward,23,50000000.0,30/08/2022
+IT1,2023,Bologna FC 1909,Santiago Castro,Centre-Forward,19,12000000.0,30/01/2024
+IT1,2023,Bologna FC 1909,Marko Arnautovic,Centre-Forward,35,4000000.0,01/08/2021
+IT1,2023,Bologna FC 1909,Sydney van Hooijdonk,Centre-Forward,24,4000000.0,03/07/2021
+IT1,2023,AS Roma,Mile Svilar,Goalkeeper,24,9000000.0,01/07/2022
+IT1,2023,AS Roma,Rui Patrício,Goalkeeper,36,1000000.0,13/07/2021
+IT1,2023,AS Roma,Renato Marin,Goalkeeper,17,500000.0,01/07/2024
+IT1,2023,AS Roma,Pietro Boer,Goalkeeper,22,150000.0,01/07/2021
+IT1,2023,AS Roma,Evan Ndicka,Centre-Back,24,25000000.0,01/07/2023
+IT1,2023,AS Roma,Gianluca Mancini,Centre-Back,28,25000000.0,01/09/2020
+IT1,2023,AS Roma,Dean Huijsen,Centre-Back,19,10000000.0,06/01/2024
+IT1,2023,AS Roma,Diego Llorente,Centre-Back,30,7000000.0,31/01/2023
+IT1,2023,AS Roma,Marash Kumbulla,Centre-Back,24,4500000.0,01/07/2021
+IT1,2023,AS Roma,Chris Smalling,Centre-Back,34,2500000.0,05/10/2020
+IT1,2023,AS Roma,Matteo Plaia,Centre-Back,18,,
+IT1,2023,AS Roma,Lovro Golic,Centre-Back,18,,
+IT1,2023,AS Roma,Angeliño,Left-Back,27,8000000.0,01/07/2024
+IT1,2023,AS Roma,Leonardo Spinazzola,Left-Back,31,4000000.0,01/07/2019
+IT1,2023,AS Roma,Jan Oliveras,Left-Back,19,150000.0,
+IT1,2023,AS Roma,Rasmus Nissen Kristensen,Right-Back,26,10000000.0,14/07/2023
+IT1,2023,AS Roma,Zeki Çelik,Right-Back,27,6000000.0,05/07/2022
+IT1,2023,AS Roma,Rick Karsdorp,Right-Back,29,5000000.0,01/07/2017
+IT1,2023,AS Roma,Mattia Mannini,Right-Back,17,,01/07/2025
+IT1,2023,AS Roma,Bryan Cristante,Defensive Midfield,29,20000000.0,01/07/2019
+IT1,2023,AS Roma,Leandro Paredes,Defensive Midfield,30,8000000.0,16/08/2023
+IT1,2023,AS Roma,Martin Vetkal,Defensive Midfield,20,50000.0,
+IT1,2023,AS Roma,Edoardo Bove,Central Midfield,22,18000000.0,01/07/2021
+IT1,2023,AS Roma,Renato Sanches,Central Midfield,26,6500000.0,16/08/2023
+IT1,2023,AS Roma,Niccolò Pisilli,Central Midfield,19,3500000.0,01/07/2024
+IT1,2023,AS Roma,Riccardo Pagano,Central Midfield,19,2500000.0,01/07/2024
+IT1,2023,AS Roma,Francesco D'Alessio,Right Midfield,20,100000.0,
+IT1,2023,AS Roma,Nicola Zalewski,Left Midfield,22,12000000.0,01/07/2021
+IT1,2023,AS Roma,Lorenzo Pellegrini,Attacking Midfield,28,25000000.0,01/07/2017
+IT1,2023,AS Roma,Tommaso Baldanzi,Attacking Midfield,21,15000000.0,01/02/2024
+IT1,2023,AS Roma,Houssem Aouar,Attacking Midfield,26,10000000.0,01/07/2023
+IT1,2023,AS Roma,Stephan El Shaarawy,Left Winger,31,5000000.0,30/01/2021
+IT1,2023,AS Roma,Luigi Cherubini,Left Winger,20,350000.0,
+IT1,2023,AS Roma,Ola Solbakken,Right Winger,25,2500000.0,02/01/2023
+IT1,2023,AS Roma,João Costa,Right Winger,19,1000000.0,01/07/2024
+IT1,2023,AS Roma,Paulo Dybala,Second Striker,30,20000000.0,20/07/2022
+IT1,2023,AS Roma,Filippo Alessio,Second Striker,19,100000.0,
+IT1,2023,AS Roma,Tammy Abraham,Centre-Forward,26,30000000.0,17/08/2021
+IT1,2023,AS Roma,Romelu Lukaku,Centre-Forward,31,30000000.0,30/08/2023
+IT1,2023,AS Roma,Sardar Azmoun,Centre-Forward,29,8000000.0,26/08/2023
+IT1,2023,AS Roma,Andrea Belotti,Centre-Forward,30,5000000.0,28/08/2022
+IT1,2023,ACF Fiorentina,Oliver Christensen,Goalkeeper,25,3000000.0,10/08/2023
+IT1,2023,ACF Fiorentina,Pietro Terracciano,Goalkeeper,34,2500000.0,07/07/2019
+IT1,2023,ACF Fiorentina,Tommaso Martinelli,Goalkeeper,18,1000000.0,01/07/2023
+IT1,2023,ACF Fiorentina,Tommaso Vannucchi,Goalkeeper,17,400000.0,
+IT1,2023,ACF Fiorentina,Nikola Milenković,Centre-Back,26,15000000.0,01/07/2017
+IT1,2023,ACF Fiorentina,Lucas Martínez Quarta,Centre-Back,28,15000000.0,05/10/2020
+IT1,2023,ACF Fiorentina,Luca Ranieri,Centre-Back,25,8000000.0,01/07/2018
+IT1,2023,ACF Fiorentina,Yerry Mina,Centre-Back,29,3000000.0,05/08/2023
+IT1,2023,ACF Fiorentina,Christian Dalle Mura,Centre-Back,22,850000.0,01/09/2020
+IT1,2023,ACF Fiorentina,Pietro Comuzzo,Centre-Back,19,700000.0,01/07/2023
+IT1,2023,ACF Fiorentina,Christian Biagetti,Centre-Back,20,150000.0,
+IT1,2023,ACF Fiorentina,Fabiano Parisi,Left-Back,23,9500000.0,14/07/2023
+IT1,2023,ACF Fiorentina,Cristiano Biraghi,Left-Back,31,3500000.0,01/07/2018
+IT1,2023,ACF Fiorentina,Niccolò Fortini,Left-Back,18,500000.0,01/07/2024
+IT1,2023,ACF Fiorentina,Michael Kayode,Right-Back,19,25000000.0,01/07/2023
+IT1,2023,ACF Fiorentina,Dodô,Right-Back,25,17000000.0,22/07/2022
+IT1,2023,ACF Fiorentina,Niccolò Pierozzi,Right-Back,22,1800000.0,01/07/2021
+IT1,2023,ACF Fiorentina,Davide Faraoni,Right-Back,32,1500000.0,13/01/2024
+IT1,2023,ACF Fiorentina,Sofyan Amrabat,Defensive Midfield,27,22000000.0,31/01/2020
+IT1,2023,ACF Fiorentina,Arthur Melo,Defensive Midfield,27,15000000.0,22/07/2023
+IT1,2023,ACF Fiorentina,Rolando Mandragora,Defensive Midfield,27,8500000.0,04/07/2022
+IT1,2023,ACF Fiorentina,Maxime Lopez,Defensive Midfield,26,7500000.0,01/09/2023
+IT1,2023,ACF Fiorentina,Lorenzo Amatucci,Defensive Midfield,20,1000000.0,01/07/2023
+IT1,2023,ACF Fiorentina,Gaetano Castrovilli,Central Midfield,27,7000000.0,01/07/2017
+IT1,2023,ACF Fiorentina,Alfred Duncan,Central Midfield,31,4000000.0,01/09/2020
+IT1,2023,ACF Fiorentina,Gino Infantino,Central Midfield,21,3000000.0,03/08/2023
+IT1,2023,ACF Fiorentina,Antonín Barák,Attacking Midfield,29,4500000.0,31/01/2023
+IT1,2023,ACF Fiorentina,Giacomo Bonaventura,Attacking Midfield,34,3000000.0,10/09/2020
+IT1,2023,ACF Fiorentina,Abdelhamid Sabiri,Attacking Midfield,27,2200000.0,30/01/2023
+IT1,2023,ACF Fiorentina,Nico González,Left Winger,26,35000000.0,01/07/2021
+IT1,2023,ACF Fiorentina,Riccardo Sottil,Left Winger,25,6000000.0,01/07/2018
+IT1,2023,ACF Fiorentina,Josip Brekalo,Left Winger,26,3500000.0,28/01/2023
+IT1,2023,ACF Fiorentina,Maat Daniel Caprini,Left Winger,18,,03/02/2025
+IT1,2023,ACF Fiorentina,Jonathan Ikoné,Right Winger,26,10000000.0,03/01/2022
+IT1,2023,ACF Fiorentina,Aleksandr Kokorin,Second Striker,33,800000.0,27/01/2021
+IT1,2023,ACF Fiorentina,Lucas Beltrán,Centre-Forward,23,16000000.0,14/08/2023
+IT1,2023,ACF Fiorentina,Christian Kouamé,Centre-Forward,26,7500000.0,01/09/2020
+IT1,2023,ACF Fiorentina,Luka Jović,Centre-Forward,26,7000000.0,08/07/2022
+IT1,2023,ACF Fiorentina,M'Bala Nzola,Centre-Forward,27,7000000.0,10/08/2023
+IT1,2023,ACF Fiorentina,Andrea Belotti,Centre-Forward,30,5000000.0,31/01/2024
+IT1,2023,ACF Fiorentina,Fallou Sene,Centre-Forward,19,200000.0,
+IT1,2023,Torino FC,Vanja Milinković-Savić,Goalkeeper,27,5000000.0,01/07/2017
+IT1,2023,Torino FC,Mihai Popa,Goalkeeper,23,800000.0,01/07/2023
+IT1,2023,Torino FC,Luca Gemello,Goalkeeper,23,300000.0,01/07/2019
+IT1,2023,Torino FC,Pietro Passador,Goalkeeper,21,100000.0,
+IT1,2023,Torino FC,Matteo Brezzo,Goalkeeper,19,25000.0,
+IT1,2023,Torino FC,Alessandro Buongiorno,Centre-Back,25,35000000.0,01/07/2018
+IT1,2023,Torino FC,Perr Schuurs,Centre-Back,24,25000000.0,18/08/2022
+IT1,2023,Torino FC,Matteo Lovato,Centre-Back,24,4000000.0,31/01/2024
+IT1,2023,Torino FC,David Zima,Centre-Back,23,4000000.0,31/08/2021
+IT1,2023,Torino FC,Saba Sazonov,Centre-Back,22,2800000.0,31/08/2023
+IT1,2023,Torino FC,Koffi Djidji,Centre-Back,31,2500000.0,01/07/2019
+IT1,2023,Torino FC,Adam Masina,Centre-Back,30,1500000.0,01/07/2024
+IT1,2023,Torino FC,Alessandro Dellavalle,Centre-Back,20,800000.0,01/07/2024
+IT1,2023,Torino FC,Ange N'Guessan,Centre-Back,20,200000.0,01/07/2023
+IT1,2023,Torino FC,Ricardo Rodríguez,Left-Back,31,3500000.0,01/09/2020
+IT1,2023,Torino FC,Vimoj Muntu Wa Mungu,Left-Back,19,300000.0,
+IT1,2023,Torino FC,Jacopo Antolini,Left-Back,20,100000.0,
+IT1,2023,Torino FC,Wilfried Singo,Right-Back,23,25000000.0,01/07/2019
+IT1,2023,Torino FC,Mërgim Vojvoda,Right-Back,29,3000000.0,01/09/2020
+IT1,2023,Torino FC,Brandon Soppy,Right-Back,22,2000000.0,31/08/2023
+IT1,2023,Torino FC,Brian Bayeye,Right-Back,24,400000.0,04/07/2022
+IT1,2023,Torino FC,Ali Dembélé,Right-Back,20,300000.0,01/07/2023
+IT1,2023,Torino FC,Côme Bianay Balcot,Right-Back,19,200000.0,01/07/2024
+IT1,2023,Torino FC,Samuele Ricci,Defensive Midfield,22,22000000.0,01/07/2022
+IT1,2023,Torino FC,Adrien Tamèze,Defensive Midfield,30,5000000.0,23/07/2023
+IT1,2023,Torino FC,Ivan Ilić,Central Midfield,23,18000000.0,01/07/2023
+IT1,2023,Torino FC,Karol Linetty,Central Midfield,29,3500000.0,01/09/2020
+IT1,2023,Torino FC,Emirhan İlkhan,Central Midfield,20,3000000.0,08/08/2022
+IT1,2023,Torino FC,Gvidas Gineitis,Central Midfield,20,2000000.0,02/01/2023
+IT1,2023,Torino FC,Aaron Ciammaglichella,Central Midfield,19,1000000.0,01/07/2024
+IT1,2023,Torino FC,Raoul Bellanova,Right Midfield,24,15000000.0,01/07/2023
+IT1,2023,Torino FC,Valentino Lazaro,Right Midfield,28,3500000.0,23/08/2023
+IT1,2023,Torino FC,Nikola Vlašić,Attacking Midfield,26,10000000.0,08/08/2023
+IT1,2023,Torino FC,Simone Verdi,Attacking Midfield,31,2500000.0,01/09/2020
+IT1,2023,Torino FC,Jonathan Silva,Attacking Midfield,20,400000.0,
+IT1,2023,Torino FC,Nemanja Radonjic,Left Winger,28,2800000.0,01/07/2023
+IT1,2023,Torino FC,Yann Karamoh,Left Winger,25,2500000.0,01/09/2022
+IT1,2023,Torino FC,Alieu Njie,Left Winger,19,300000.0,01/07/2024
+IT1,2023,Torino FC,Demba Seck,Right Winger,23,2000000.0,31/01/2022
+IT1,2023,Torino FC,Uros Kabic,Right Winger,20,1000000.0,01/02/2024
+IT1,2023,Torino FC,Zanos Savva,Right Winger,18,1000000.0,01/07/2024
+IT1,2023,Torino FC,Duván Zapata,Centre-Forward,33,8000000.0,01/07/2024
+IT1,2023,Torino FC,Antonio Sanabria,Centre-Forward,28,7000000.0,31/01/2021
+IT1,2023,Torino FC,Pietro Pellegri,Centre-Forward,23,3000000.0,01/07/2022
+IT1,2023,Torino FC,David Okereke,Centre-Forward,26,2400000.0,01/02/2024
+IT1,2023,SS Lazio,Ivan Provedel,Goalkeeper,30,14000000.0,08/08/2022
+IT1,2023,SS Lazio,Christos Mandas,Goalkeeper,22,3000000.0,01/09/2023
+IT1,2023,SS Lazio,Luigi Sepe,Goalkeeper,33,500000.0,25/08/2023
+IT1,2023,SS Lazio,Federico Magro,Goalkeeper,19,250000.0,
+IT1,2023,SS Lazio,Marius Adamonis,Goalkeeper,27,200000.0,01/07/2017
+IT1,2023,SS Lazio,Alessio Furlanetto,Goalkeeper,22,50000.0,01/07/2022
+IT1,2023,SS Lazio,Davide Renzetti,Goalkeeper,18,50000.0,01/07/2024
+IT1,2023,SS Lazio,Alessio Romagnoli,Centre-Back,29,15000000.0,12/07/2022
+IT1,2023,SS Lazio,Nicolò Casale,Centre-Back,26,14000000.0,08/07/2022
+IT1,2023,SS Lazio,Mario Gila,Centre-Back,23,13000000.0,12/07/2022
+IT1,2023,SS Lazio,Patric,Centre-Back,31,4000000.0,01/07/2015
+IT1,2023,SS Lazio,Fabio Andrea Ruggeri,Centre-Back,19,200000.0,
+IT1,2023,SS Lazio,Matteo Duțu,Centre-Back,18,200000.0,
+IT1,2023,SS Lazio,Luca Pellegrini,Left-Back,25,3500000.0,01/07/2025
+IT1,2023,SS Lazio,Dimitrije Kamenovic,Left-Back,23,800000.0,01/07/2021
+IT1,2023,SS Lazio,Adam Marusic,Right-Back,31,5000000.0,01/07/2017
+IT1,2023,SS Lazio,Manuel Lazzari,Right-Back,30,4000000.0,12/07/2019
+IT1,2023,SS Lazio,Elseid Hysaj,Right-Back,30,2500000.0,01/07/2021
+IT1,2023,SS Lazio,Nicolò Rovella,Defensive Midfield,22,18000000.0,01/07/2025
+IT1,2023,SS Lazio,Danilo Cataldi,Defensive Midfield,29,5500000.0,01/07/2013
+IT1,2023,SS Lazio,Mattéo Guendouzi,Central Midfield,25,25000000.0,01/07/2024
+IT1,2023,SS Lazio,Toma Bašić,Central Midfield,27,2800000.0,25/08/2021
+IT1,2023,SS Lazio,Matías Vecino,Central Midfield,32,2500000.0,01/08/2022
+IT1,2023,SS Lazio,Larsson Coulibaly,Central Midfield,21,50000.0,
+IT1,2023,SS Lazio,Daichi Kamada,Attacking Midfield,27,18000000.0,04/08/2023
+IT1,2023,SS Lazio,Luis Alberto,Attacking Midfield,31,11000000.0,31/08/2016
+IT1,2023,SS Lazio,André Anderson,Attacking Midfield,24,400000.0,14/08/2018
+IT1,2023,SS Lazio,Luca Napolitano,Attacking Midfield,20,50000.0,
+IT1,2023,SS Lazio,Mattia Zaccagni,Left Winger,29,20000000.0,01/07/2022
+IT1,2023,SS Lazio,Felipe Anderson,Left Winger,31,8000000.0,16/07/2021
+IT1,2023,SS Lazio,Saná Fernandes,Left Winger,18,800000.0,01/07/2023
+IT1,2023,SS Lazio,Gustav Isaksen,Right Winger,23,12000000.0,08/08/2023
+IT1,2023,SS Lazio,Pedro,Right Winger,36,1000000.0,19/08/2021
+IT1,2023,SS Lazio,Diego González,Right Winger,21,1000000.0,01/07/2023
+IT1,2023,SS Lazio,Cristiano Lombardi,Right Winger,28,100000.0,01/07/2014
+IT1,2023,SS Lazio,Taty Castellanos,Centre-Forward,25,15000000.0,21/07/2023
+IT1,2023,SS Lazio,Ciro Immobile,Centre-Forward,34,4000000.0,27/07/2016
+IT1,2023,Genoa CFC,Josep Martínez,Goalkeeper,26,8000000.0,01/07/2023
+IT1,2023,Genoa CFC,Nicola Leali,Goalkeeper,31,600000.0,05/07/2023
+IT1,2023,Genoa CFC,Franz Stolz,Goalkeeper,23,200000.0,27/01/2024
+IT1,2023,Genoa CFC,Simone Calvani,Goalkeeper,19,150000.0,01/07/2023
+IT1,2023,Genoa CFC,Daniele Sommariva,Goalkeeper,26,100000.0,05/07/2023
+IT1,2023,Genoa CFC,Radu Drăgușin,Centre-Back,22,25000000.0,01/07/2023
+IT1,2023,Genoa CFC,Koni De Winter,Centre-Back,22,12000000.0,01/07/2024
+IT1,2023,Genoa CFC,Johan Vásquez,Centre-Back,25,10000000.0,03/01/2022
+IT1,2023,Genoa CFC,Alan Matturro,Centre-Back,19,4000000.0,02/01/2023
+IT1,2023,Genoa CFC,Mattia Bani,Centre-Back,30,2500000.0,05/10/2020
+IT1,2023,Genoa CFC,Giorgio Cittadini,Centre-Back,22,2400000.0,26/01/2024
+IT1,2023,Genoa CFC,Alessandro Vogliacco,Centre-Back,25,2000000.0,13/08/2021
+IT1,2023,Genoa CFC,Davide Biraschi,Centre-Back,29,900000.0,31/08/2016
+IT1,2023,Genoa CFC,Faroukou Cissé,Centre-Back,20,200000.0,
+IT1,2023,Genoa CFC,Tommaso Pittino,Centre-Back,19,150000.0,
+IT1,2023,Genoa CFC,Aarón Martín,Left-Back,27,5000000.0,03/07/2023
+IT1,2023,Genoa CFC,Ridgeciano Haps,Left-Back,31,900000.0,31/01/2023
+IT1,2023,Genoa CFC,Djed Spence,Right-Back,23,8000000.0,11/01/2024
+IT1,2023,Genoa CFC,Silvan Hefti,Right-Back,26,2500000.0,03/01/2022
+IT1,2023,Genoa CFC,Stefano Sabelli,Right-Back,31,1500000.0,20/07/2021
+IT1,2023,Genoa CFC,Morten Frendrup,Defensive Midfield,23,15000000.0,30/01/2022
+IT1,2023,Genoa CFC,Emil Bohinen,Defensive Midfield,25,1800000.0,01/07/2024
+IT1,2023,Genoa CFC,Milan Badelj,Defensive Midfield,35,800000.0,16/09/2020
+IT1,2023,Genoa CFC,Ruslan Malinovskyi,Central Midfield,31,8000000.0,31/01/2024
+IT1,2023,Genoa CFC,Berkan Kutlu,Central Midfield,26,3800000.0,31/08/2023
+IT1,2023,Genoa CFC,Morten Thorsby,Central Midfield,28,3000000.0,01/07/2024
+IT1,2023,Genoa CFC,Pablo Galdames,Central Midfield,27,1500000.0,02/09/2021
+IT1,2023,Genoa CFC,Filippo Melegoni,Central Midfield,25,1200000.0,01/07/2022
+IT1,2023,Genoa CFC,Kevin Strootman,Central Midfield,34,800000.0,01/07/2023
+IT1,2023,Genoa CFC,Léandre Kuavita,Central Midfield,20,400000.0,
+IT1,2023,Genoa CFC,Riccardo Arboscello,Central Midfield,18,200000.0,
+IT1,2023,Genoa CFC,Mattia Aramu,Attacking Midfield,29,1300000.0,01/07/2023
+IT1,2023,Genoa CFC,Filip Jagiełło,Attacking Midfield,26,1100000.0,31/01/2019
+IT1,2023,Genoa CFC,Christos Papadopoulos,Attacking Midfield,19,800000.0,01/07/2024
+IT1,2023,Genoa CFC,Junior Messias,Right Winger,33,2500000.0,13/01/2024
+IT1,2023,Genoa CFC,Seydou Fini,Right Winger,18,1000000.0,
+IT1,2023,Genoa CFC,Albert Gudmundsson,Second Striker,27,30000000.0,31/01/2022
+IT1,2023,Genoa CFC,Mateo Retegui,Centre-Forward,25,16000000.0,26/07/2023
+IT1,2023,Genoa CFC,Vitinha,Centre-Forward,24,14000000.0,01/07/2024
+IT1,2023,Genoa CFC,David Ankeye,Centre-Forward,22,2000000.0,31/01/2024
+IT1,2023,Genoa CFC,Caleb Ekuban,Centre-Forward,30,1500000.0,10/08/2021
+IT1,2023,Genoa CFC,George Pușcaș,Centre-Forward,28,1500000.0,01/07/2023
+IT1,2023,Genoa CFC,Massimo Coda,Centre-Forward,35,1000000.0,01/07/2022
+IT1,2023,Genoa CFC,Yoan Bornosuzov,Centre-Forward,20,100000.0,
+IT1,2023,Udinese Calcio,Maduka Okoye,Goalkeeper,24,4000000.0,24/08/2023
+IT1,2023,Udinese Calcio,Marco Silvestri,Goalkeeper,33,1000000.0,20/07/2021
+IT1,2023,Udinese Calcio,Daniele Padelli,Goalkeeper,38,150000.0,01/07/2021
+IT1,2023,Udinese Calcio,Federico Mosca,Goalkeeper,18,100000.0,
+IT1,2023,Udinese Calcio,Edoardo Piana,Goalkeeper,20,25000.0,01/07/2022
+IT1,2023,Udinese Calcio,Joel Malusà,Goalkeeper,17,,
+IT1,2023,Udinese Calcio,Nehuén Pérez,Centre-Back,24,13000000.0,29/07/2022
+IT1,2023,Udinese Calcio,Jaka Bijol,Centre-Back,25,10000000.0,14/07/2022
+IT1,2023,Udinese Calcio,Thomas Kristensen,Centre-Back,22,4500000.0,01/09/2023
+IT1,2023,Udinese Calcio,Enzo Ebosse,Centre-Back,25,2500000.0,29/07/2022
+IT1,2023,Udinese Calcio,Lautaro Giannetti,Centre-Back,30,2500000.0,05/01/2024
+IT1,2023,Udinese Calcio,Adam Masina,Centre-Back,30,1500000.0,18/07/2022
+IT1,2023,Udinese Calcio,Matteo Palma,Centre-Back,16,1000000.0,01/07/2024
+IT1,2023,Udinese Calcio,Christian Kabasele,Centre-Back,33,1000000.0,25/07/2023
+IT1,2023,Udinese Calcio,Antonio Tikvic,Centre-Back,20,700000.0,01/09/2023
+IT1,2023,Udinese Calcio,Axel Guessand,Centre-Back,19,500000.0,01/07/2022
+IT1,2023,Udinese Calcio,James Abankwah,Centre-Back,20,300000.0,26/01/2022
+IT1,2023,Udinese Calcio,Samuel John Nwachukwu,Centre-Back,18,150000.0,
+IT1,2023,Udinese Calcio,Jordan Zemura,Left-Back,24,5000000.0,01/07/2023
+IT1,2023,Udinese Calcio,Hassane Kamara,Left-Back,30,4500000.0,22/08/2022
+IT1,2023,Udinese Calcio,Festy Ebosele,Right-Back,21,6000000.0,01/07/2022
+IT1,2023,Udinese Calcio,Kingsley Ehizibue,Right-Back,29,2200000.0,29/08/2022
+IT1,2023,Udinese Calcio,João Ferreira,Right-Back,23,2000000.0,01/08/2023
+IT1,2023,Udinese Calcio,Walace,Defensive Midfield,29,6000000.0,12/08/2019
+IT1,2023,Udinese Calcio,Étienne Camara,Defensive Midfield,21,1500000.0,14/07/2023
+IT1,2023,Udinese Calcio,Sandi Lovrić,Central Midfield,26,8000000.0,01/07/2022
+IT1,2023,Udinese Calcio,Martín Payero,Central Midfield,25,4500000.0,01/09/2023
+IT1,2023,Udinese Calcio,Oier Zarraga,Central Midfield,25,2000000.0,01/07/2023
+IT1,2023,Udinese Calcio,Roberto Pereyra,Central Midfield,33,2000000.0,11/09/2023
+IT1,2023,Udinese Calcio,Domingos Quina,Central Midfield,24,1500000.0,01/07/2023
+IT1,2023,Udinese Calcio,Marco Ballarini,Central Midfield,23,75000.0,01/06/2020
+IT1,2023,Udinese Calcio,Bor Zunec,Central Midfield,19,10000.0,
+IT1,2023,Udinese Calcio,Lazar Samardžić,Attacking Midfield,22,20000000.0,05/08/2021
+IT1,2023,Udinese Calcio,Simone Pafundi,Attacking Midfield,18,10000000.0,01/07/2022
+IT1,2023,Udinese Calcio,David Pejičić,Attacking Midfield,17,1000000.0,01/07/2023
+IT1,2023,Udinese Calcio,Marley Aké,Left Winger,23,1600000.0,07/08/2023
+IT1,2023,Udinese Calcio,Florian Thauvin,Right Winger,31,3000000.0,31/01/2023
+IT1,2023,Udinese Calcio,Beto,Centre-Forward,26,20000000.0,01/07/2022
+IT1,2023,Udinese Calcio,Lorenzo Lucca,Centre-Forward,23,12000000.0,01/07/2024
+IT1,2023,Udinese Calcio,Brenner,Centre-Forward,24,7000000.0,01/07/2023
+IT1,2023,Udinese Calcio,Keinan Davis,Centre-Forward,26,3000000.0,01/09/2023
+IT1,2023,Udinese Calcio,Isaac Success,Centre-Forward,28,2500000.0,26/08/2021
+IT1,2023,Udinese Calcio,Gerard Deulofeu,Centre-Forward,30,1000000.0,30/01/2021
+IT1,2023,Udinese Calcio,Vivaldo Semedo,Centre-Forward,19,500000.0,01/05/2023
+IT1,2023,Udinese Calcio,Sekou Diawara,Centre-Forward,20,250000.0,09/01/2025
+IT1,2023,AC Monza,Michele Di Gregorio,Goalkeeper,26,18000000.0,01/07/2022
+IT1,2023,AC Monza,Alessandro Sorrentino,Goalkeeper,22,800000.0,13/07/2022
+IT1,2023,AC Monza,Stefano Gori,Goalkeeper,28,500000.0,31/07/2023
+IT1,2023,AC Monza,Eugenio Lamanna,Goalkeeper,34,100000.0,13/07/2019
+IT1,2023,AC Monza,Andrea Mazza,Goalkeeper,20,75000.0,01/07/2024
+IT1,2023,AC Monza,Andrea Carboni,Centre-Back,23,4000000.0,01/07/2022
+IT1,2023,AC Monza,Pablo Marí,Centre-Back,30,3500000.0,01/07/2023
+IT1,2023,AC Monza,Armando Izzo,Centre-Back,32,2500000.0,05/07/2023
+IT1,2023,AC Monza,Giorgio Cittadini,Centre-Back,22,2400000.0,04/07/2023
+IT1,2023,AC Monza,Luca Caldirola,Centre-Back,33,1300000.0,17/07/2021
+IT1,2023,AC Monza,Davide Bettella,Centre-Back,24,1000000.0,01/07/2022
+IT1,2023,AC Monza,Danilo D'Ambrosio,Centre-Back,35,1000000.0,02/08/2023
+IT1,2023,AC Monza,Georgios Kyriakopoulos,Left-Back,28,3500000.0,01/07/2024
+IT1,2023,AC Monza,Franco Carboni,Left-Back,21,900000.0,24/01/2023
+IT1,2023,AC Monza,Samuele Birindelli,Right-Back,24,3500000.0,07/07/2022
+IT1,2023,AC Monza,Pedro Pereira,Right-Back,26,1500000.0,01/07/2022
+IT1,2023,AC Monza,Giulio Donati,Right-Back,34,300000.0,21/09/2023
+IT1,2023,AC Monza,Leonardo Colombo,Defensive Midfield,19,250000.0,20/11/2024
+IT1,2023,AC Monza,Matteo Pessina,Central Midfield,27,15000000.0,01/07/2023
+IT1,2023,AC Monza,Warren Bondo,Central Midfield,20,6000000.0,28/07/2022
+IT1,2023,AC Monza,Roberto Gagliardini,Central Midfield,30,3000000.0,07/07/2023
+IT1,2023,AC Monza,Jean-Daniel Akpa Akpro,Central Midfield,31,1000000.0,02/01/2025
+IT1,2023,AC Monza,Alessandro Berretta,Central Midfield,17,,01/07/2025
+IT1,2023,AC Monza,Alessio Zerbin,Right Midfield,25,4000000.0,25/01/2024
+IT1,2023,AC Monza,Patrick Ciurria,Right Midfield,29,4000000.0,31/07/2021
+IT1,2023,AC Monza,Andrea Colpani,Attacking Midfield,25,18000000.0,01/07/2022
+IT1,2023,AC Monza,Valentín Carboni,Attacking Midfield,19,15000000.0,15/07/2023
+IT1,2023,AC Monza,Daniel Maldini,Attacking Midfield,22,4500000.0,31/07/2024
+IT1,2023,AC Monza,Samuele Vignato,Attacking Midfield,20,3500000.0,11/08/2021
+IT1,2023,AC Monza,Matija Popović,Attacking Midfield,18,2000000.0,25/01/2024
+IT1,2023,AC Monza,Pepín Machín,Attacking Midfield,27,1000000.0,01/07/2020
+IT1,2023,AC Monza,Andrea Ferraris,Left Winger,21,200000.0,
+IT1,2023,AC Monza,Papu Gómez,Left Winger,36,,29/09/2023
+IT1,2023,AC Monza,Gianluca Caprari,Second Striker,30,4000000.0,01/07/2023
+IT1,2023,AC Monza,Lorenzo Colombo,Centre-Forward,22,6000000.0,01/09/2023
+IT1,2023,AC Monza,Dany Mota,Centre-Forward,26,5000000.0,01/07/2020
+IT1,2023,AC Monza,Andrea Petagna,Centre-Forward,29,3800000.0,01/07/2023
+IT1,2023,AC Monza,Milan Djuric,Centre-Forward,34,1500000.0,26/01/2024
+IT1,2023,AC Monza,Mirko Marić,Centre-Forward,29,800000.0,01/09/2020
+IT1,2023,Hellas Verona,Lorenzo Montipò,Goalkeeper,28,3500000.0,01/07/2022
+IT1,2023,Hellas Verona,Simone Perilli,Goalkeeper,29,200000.0,03/08/2022
+IT1,2023,Hellas Verona,Giacomo Toniolo,Goalkeeper,20,100000.0,01/07/2024
+IT1,2023,Hellas Verona,Mattia Chiesa,Goalkeeper,23,100000.0,01/07/2019
+IT1,2023,Hellas Verona,Alessandro Berardi,Goalkeeper,33,50000.0,14/12/2018
+IT1,2023,Hellas Verona,Isak Hien,Centre-Back,25,20000000.0,27/08/2022
+IT1,2023,Hellas Verona,Diego Coppola,Centre-Back,20,6000000.0,01/01/2022
+IT1,2023,Hellas Verona,Filippo Terracciano,Centre-Back,21,4500000.0,01/07/2022
+IT1,2023,Hellas Verona,Bruno Amione,Centre-Back,22,3000000.0,03/10/2020
+IT1,2023,Hellas Verona,Giangiacomo Magnani,Centre-Back,28,3000000.0,01/07/2021
+IT1,2023,Hellas Verona,Paweł Dawidowicz,Centre-Back,29,3000000.0,01/07/2019
+IT1,2023,Hellas Verona,Federico Ceccherini,Centre-Back,32,1000000.0,01/07/2021
+IT1,2023,Hellas Verona,Koray Günter,Centre-Back,29,850000.0,02/09/2020
+IT1,2023,Hellas Verona,Christian Corradi,Centre-Back,19,800000.0,01/07/2024
+IT1,2023,Hellas Verona,Nicolò Calabrese,Centre-Back,19,150000.0,
+IT1,2023,Hellas Verona,Josh Doig,Left-Back,22,6000000.0,13/07/2022
+IT1,2023,Hellas Verona,Juan Cabal,Left-Back,23,3500000.0,20/08/2022
+IT1,2023,Hellas Verona,Fabien Centonze,Right-Back,28,3000000.0,01/02/2024
+IT1,2023,Hellas Verona,Jackson Tchatchoua,Right-Back,22,3000000.0,01/07/2024
+IT1,2023,Hellas Verona,Davide Faraoni,Right-Back,32,1500000.0,01/07/2019
+IT1,2023,Hellas Verona,Martin Hongla,Defensive Midfield,26,2500000.0,01/07/2022
+IT1,2023,Hellas Verona,Reda Belahyane,Defensive Midfield,20,500000.0,25/01/2024
+IT1,2023,Hellas Verona,Charlys,Defensive Midfield,20,100000.0,18/07/2024
+IT1,2023,Hellas Verona,Joselito,Defensive Midfield,20,75000.0,01/07/2023
+IT1,2023,Hellas Verona,Michael Folorunsho,Central Midfield,26,8500000.0,16/08/2023
+IT1,2023,Hellas Verona,Suat Serdar,Central Midfield,27,5000000.0,01/07/2024
+IT1,2023,Hellas Verona,Ondrej Duda,Central Midfield,29,4000000.0,01/07/2023
+IT1,2023,Hellas Verona,Dani Silva,Central Midfield,24,2000000.0,25/01/2024
+IT1,2023,Hellas Verona,Ajdin Hrustic,Central Midfield,27,600000.0,01/09/2022
+IT1,2023,Hellas Verona,Rúben Vinagre,Left Midfield,25,2400000.0,26/01/2024
+IT1,2023,Hellas Verona,Darko Lazović,Left Midfield,33,1500000.0,06/08/2019
+IT1,2023,Hellas Verona,Tomas Suslov,Attacking Midfield,22,7000000.0,31/01/2024
+IT1,2023,Hellas Verona,Alphadjo Cissè,Attacking Midfield,17,1400000.0,01/07/2024
+IT1,2023,Hellas Verona,Riccardo Saponara,Attacking Midfield,32,700000.0,21/07/2023
+IT1,2023,Hellas Verona,Stefan Mitrović,Left Winger,21,1800000.0,01/02/2024
+IT1,2023,Hellas Verona,Jayden Braaf,Left Winger,21,800000.0,02/07/2023
+IT1,2023,Hellas Verona,Cyril Ngonge,Right Winger,24,12000000.0,19/01/2023
+IT1,2023,Hellas Verona,Tijjani Noslin,Right Winger,24,10000000.0,23/01/2024
+IT1,2023,Hellas Verona,Jordi Mboula,Right Winger,25,1200000.0,01/07/2024
+IT1,2023,Hellas Verona,Elayis Tavsan,Right Winger,23,1000000.0,23/01/2024
+IT1,2023,Hellas Verona,Yayah Kallon,Right Winger,23,1000000.0,01/07/2023
+IT1,2023,Hellas Verona,Nicola Patanè,Right Winger,20,150000.0,
+IT1,2023,Hellas Verona,Denis Cazzadori,Second Striker,20,125000.0,
+IT1,2023,Hellas Verona,Karol Świderski,Centre-Forward,27,5000000.0,01/02/2024
+IT1,2023,Hellas Verona,Federico Bonazzoli,Centre-Forward,27,2500000.0,10/08/2023
+IT1,2023,Hellas Verona,Thomas Henry,Centre-Forward,29,2000000.0,16/07/2022
+IT1,2023,Hellas Verona,Siren Diao,Centre-Forward,19,1500000.0,
+IT1,2023,Hellas Verona,Milan Djuric,Centre-Forward,34,1500000.0,01/07/2022
+IT1,2023,Hellas Verona,Juan Manuel Cruz,Centre-Forward,24,450000.0,12/09/2023
+IT1,2023,Hellas Verona,Junior Ajayi,Centre-Forward,19,150000.0,01/07/2024
+IT1,2023,US Sassuolo,Alessio Cragno,Goalkeeper,30,1500000.0,15/07/2023
+IT1,2023,US Sassuolo,Andrea Consigli,Goalkeeper,37,800000.0,01/09/2014
+IT1,2023,US Sassuolo,Daniel Theiner,Goalkeeper,20,150000.0,
+IT1,2023,US Sassuolo,Gianluca Pegolo,Goalkeeper,43,100000.0,02/09/2013
+IT1,2023,US Sassuolo,Alessandro Scacchetti,Goalkeeper,19,10000.0,
+IT1,2023,US Sassuolo,Mattia Viti,Centre-Back,22,5000000.0,12/07/2023
+IT1,2023,US Sassuolo,Marash Kumbulla,Centre-Back,24,4500000.0,01/02/2024
+IT1,2023,US Sassuolo,Martin Erlić,Centre-Back,26,3000000.0,31/08/2021
+IT1,2023,US Sassuolo,Ruan,Centre-Back,25,2500000.0,11/08/2021
+IT1,2023,US Sassuolo,Gian Marco Ferrari,Centre-Back,32,1400000.0,30/08/2016
+IT1,2023,US Sassuolo,Kevin Miranda,Centre-Back,21,350000.0,01/07/2023
+IT1,2023,US Sassuolo,Seb Loeffen,Centre-Back,20,150000.0,
+IT1,2023,US Sassuolo,Matías Viña,Left-Back,26,8000000.0,31/07/2023
+IT1,2023,US Sassuolo,Josh Doig,Left-Back,22,6000000.0,20/01/2024
+IT1,2023,US Sassuolo,Matteo Falasca,Left-Back,20,150000.0,
+IT1,2023,US Sassuolo,Marcus Pedersen,Right-Back,23,5500000.0,22/08/2023
+IT1,2023,US Sassuolo,Jeremy Toljan,Right-Back,29,3500000.0,01/07/2021
+IT1,2023,US Sassuolo,Filippo Missori,Right-Back,20,1500000.0,01/07/2023
+IT1,2023,US Sassuolo,Yeferson Paz,Right-Back,22,500000.0,01/07/2022
+IT1,2023,US Sassuolo,Maxime Lopez,Defensive Midfield,26,7500000.0,01/07/2021
+IT1,2023,US Sassuolo,Daniel Boloca,Defensive Midfield,25,7000000.0,13/07/2023
+IT1,2023,US Sassuolo,Luca Lipani,Defensive Midfield,19,4000000.0,08/08/2023
+IT1,2023,US Sassuolo,Uros Racic,Defensive Midfield,26,2500000.0,16/08/2023
+IT1,2023,US Sassuolo,Matheus Henrique,Central Midfield,26,8500000.0,01/07/2022
+IT1,2023,US Sassuolo,Kristian Thorstvedt,Central Midfield,25,8000000.0,12/07/2022
+IT1,2023,US Sassuolo,Justin Kumi,Central Midfield,19,800000.0,01/07/2024
+IT1,2023,US Sassuolo,Pedro Obiang,Central Midfield,32,500000.0,24/07/2019
+IT1,2023,US Sassuolo,Salim Abubakar,Central Midfield,21,25000.0,
+IT1,2023,US Sassuolo,Nedim Bajrami,Attacking Midfield,25,4500000.0,01/07/2023
+IT1,2023,US Sassuolo,Cristian Volpato,Attacking Midfield,20,4500000.0,01/07/2023
+IT1,2023,US Sassuolo,Armand Laurienté,Left Winger,25,10000000.0,31/08/2022
+IT1,2023,US Sassuolo,Emil Konradsen Ceide,Left Winger,22,2000000.0,01/07/2022
+IT1,2023,US Sassuolo,Domenico Berardi,Right Winger,29,10000000.0,01/07/2015
+IT1,2023,US Sassuolo,Samu Castillejo,Right Winger,29,600000.0,01/09/2023
+IT1,2023,US Sassuolo,Andrea Pinamonti,Centre-Forward,25,15000000.0,01/07/2023
+IT1,2023,US Sassuolo,Agustín Álvarez,Centre-Forward,23,4500000.0,01/07/2022
+IT1,2023,US Sassuolo,Samuele Mulattieri,Centre-Forward,23,4000000.0,07/07/2023
+IT1,2023,US Sassuolo,Grégoire Defrel,Centre-Forward,33,1000000.0,01/09/2020
+IT1,2023,Frosinone Calcio,Stefano Turati,Goalkeeper,22,7000000.0,13/07/2023
+IT1,2023,Frosinone Calcio,Michele Cerofolini,Goalkeeper,25,700000.0,14/08/2023
+IT1,2023,Frosinone Calcio,Michele Avella,Goalkeeper,24,250000.0,13/09/2023
+IT1,2023,Frosinone Calcio,Lorenzo Palmisani,Goalkeeper,20,200000.0,01/07/2023
+IT1,2023,Frosinone Calcio,Pierluigi Frattali,Goalkeeper,38,100000.0,29/08/2023
+IT1,2023,Frosinone Calcio,Caleb Okoli,Centre-Back,22,8000000.0,01/09/2023
+IT1,2023,Frosinone Calcio,Ilario Monterisi,Centre-Back,22,2800000.0,14/07/2023
+IT1,2023,Frosinone Calcio,Riccardo Marchizza,Centre-Back,26,2500000.0,13/07/2023
+IT1,2023,Frosinone Calcio,Kevin Bonifazi,Centre-Back,28,1800000.0,08/01/2024
+IT1,2023,Frosinone Calcio,Simone Romagnoli,Centre-Back,34,800000.0,25/07/2023
+IT1,2023,Frosinone Calcio,Przemysław Szymiński,Centre-Back,30,700000.0,24/07/2019
+IT1,2023,Frosinone Calcio,Karlo Lulic,Centre-Back,28,450000.0,30/08/2021
+IT1,2023,Frosinone Calcio,Mateus Lusuardi,Centre-Back,20,300000.0,11/08/2023
+IT1,2023,Frosinone Calcio,Sergio Kalaj,Centre-Back,24,200000.0,13/01/2022
+IT1,2023,Frosinone Calcio,Matjaz Kamensek-Pahic,Centre-Back,19,100000.0,
+IT1,2023,Frosinone Calcio,Daniel Macej,Centre-Back,20,25000.0,
+IT1,2023,Frosinone Calcio,Emanuele Valeri,Left-Back,25,2300000.0,31/01/2024
+IT1,2023,Frosinone Calcio,Nadir Zortea,Right-Back,25,3000000.0,18/01/2024
+IT1,2023,Frosinone Calcio,Anthony Oyono,Right-Back,23,2000000.0,30/01/2022
+IT1,2023,Frosinone Calcio,Pol Lirola,Right-Back,26,1800000.0,28/08/2023
+IT1,2023,Frosinone Calcio,Enzo Barrenechea,Defensive Midfield,23,7500000.0,15/08/2023
+IT1,2023,Frosinone Calcio,Matteo Cichella,Defensive Midfield,18,75000.0,01/07/2024
+IT1,2023,Frosinone Calcio,Luca Mazzitelli,Central Midfield,28,4000000.0,01/07/2023
+IT1,2023,Frosinone Calcio,Marco Brescianini,Central Midfield,24,3500000.0,07/07/2023
+IT1,2023,Frosinone Calcio,Abdou Harroui,Central Midfield,26,2700000.0,13/07/2023
+IT1,2023,Frosinone Calcio,Francesco Gelli,Central Midfield,27,1000000.0,31/01/2023
+IT1,2023,Frosinone Calcio,Mehdi Bourabia,Central Midfield,32,1000000.0,01/09/2023
+IT1,2023,Frosinone Calcio,İsak Vural,Central Midfield,18,200000.0,01/02/2024
+IT1,2023,Frosinone Calcio,Hamza Haoudi,Central Midfield,23,175000.0,02/07/2021
+IT1,2023,Frosinone Calcio,Kalifa Kujabi,Central Midfield,24,75000.0,30/03/2023
+IT1,2023,Frosinone Calcio,Lukas Klitten,Left Midfield,24,350000.0,01/07/2021
+IT1,2023,Frosinone Calcio,Reinier,Attacking Midfield,22,3500000.0,01/09/2023
+IT1,2023,Frosinone Calcio,Giuseppe Caso,Attacking Midfield,25,1500000.0,16/07/2022
+IT1,2023,Frosinone Calcio,Luca Garritano,Attacking Midfield,30,1200000.0,07/08/2021
+IT1,2023,Frosinone Calcio,Arijon Ibrahimovic,Left Winger,18,4000000.0,01/09/2023
+IT1,2023,Frosinone Calcio,Jaime Báez,Left Winger,29,900000.0,13/01/2023
+IT1,2023,Frosinone Calcio,Giorgi Kvernadze,Left Winger,21,800000.0,01/07/2024
+IT1,2023,Frosinone Calcio,Soufiane Bidaoui,Left Winger,34,200000.0,31/01/2023
+IT1,2023,Frosinone Calcio,Matías Soulé,Right Winger,21,25000000.0,28/08/2023
+IT1,2023,Frosinone Calcio,Demba Seck,Right Winger,23,2000000.0,23/01/2024
+IT1,2023,Frosinone Calcio,Luigi Canotto,Right Winger,30,600000.0,04/08/2021
+IT1,2023,Frosinone Calcio,Farès Ghedjemis,Right Winger,21,600000.0,02/01/2024
+IT1,2023,Frosinone Calcio,Walid Cheddira,Centre-Forward,26,6000000.0,21/08/2023
+IT1,2023,Frosinone Calcio,Kaio Jorge,Centre-Forward,22,4000000.0,29/08/2023
+IT1,2023,Frosinone Calcio,Gennaro Borrelli,Centre-Forward,24,1400000.0,01/07/2023
+IT1,2023,Frosinone Calcio,Marvin Cuni,Centre-Forward,22,900000.0,06/07/2023
+IT1,2023,Frosinone Calcio,Alessandro Selvini,Centre-Forward,20,200000.0,
+IT1,2023,Frosinone Calcio,Alejandro Cichero,Centre-Forward,17,,01/07/2026
+IT1,2023,US Lecce,Wladimiro Falcone,Goalkeeper,29,5000000.0,27/07/2023
+IT1,2023,US Lecce,Federico Brancolini,Goalkeeper,22,200000.0,01/07/2022
+IT1,2023,US Lecce,Alexandru Borbei,Goalkeeper,21,150000.0,01/07/2022
+IT1,2023,US Lecce,Jasper Samooja,Goalkeeper,20,75000.0,01/07/2022
+IT1,2023,US Lecce,Marin Pongracic,Centre-Back,26,7000000.0,01/07/2023
+IT1,2023,US Lecce,Federico Baschirotto,Centre-Back,27,6000000.0,12/07/2022
+IT1,2023,US Lecce,Ahmed Touba,Centre-Back,26,1600000.0,27/08/2023
+IT1,2023,US Lecce,Kastriot Dermaku,Centre-Back,32,250000.0,30/08/2021
+IT1,2023,US Lecce,Sebastian Esposito,Centre-Back,19,200000.0,01/07/2024
+IT1,2023,US Lecce,Mats Lemmens,Centre-Back,22,150000.0,01/07/2022
+IT1,2023,US Lecce,Zinedin Smajlović,Centre-Back,20,100000.0,19/07/2023
+IT1,2023,US Lecce,Patrick Dorgu,Left-Back,19,12000000.0,01/07/2023
+IT1,2023,US Lecce,Antonino Gallo,Left-Back,24,4500000.0,25/07/2019
+IT1,2023,US Lecce,Valentin Gendrey,Right-Back,24,7000000.0,29/07/2021
+IT1,2023,US Lecce,Lorenzo Venuti,Right-Back,29,1200000.0,14/07/2023
+IT1,2023,US Lecce,Ylber Ramadani,Defensive Midfield,28,4000000.0,04/08/2023
+IT1,2023,US Lecce,Alexis Blin,Defensive Midfield,27,3000000.0,01/07/2021
+IT1,2023,US Lecce,Giacomo Faticanti,Defensive Midfield,19,800000.0,25/08/2023
+IT1,2023,US Lecce,Youssef Maleh,Central Midfield,25,4500000.0,01/07/2023
+IT1,2023,US Lecce,Joan González,Central Midfield,22,4500000.0,01/07/2022
+IT1,2023,US Lecce,Mohamed Kaba,Central Midfield,22,3500000.0,14/08/2023
+IT1,2023,US Lecce,Daniel Samek,Central Midfield,20,1200000.0,30/07/2022
+IT1,2023,US Lecce,Thórir Jóhann Helgason,Central Midfield,23,1000000.0,15/07/2021
+IT1,2023,US Lecce,Medon Berisha,Central Midfield,20,1000000.0,01/07/2022
+IT1,2023,US Lecce,Rémi Oudin,Attacking Midfield,27,3500000.0,28/08/2023
+IT1,2023,US Lecce,Hamza Rafia,Attacking Midfield,25,1700000.0,18/07/2023
+IT1,2023,US Lecce,Marcin Listkowski,Attacking Midfield,26,200000.0,01/09/2020
+IT1,2023,US Lecce,Lameck Banda,Left Winger,23,6000000.0,04/08/2022
+IT1,2023,US Lecce,Federico Di Francesco,Left Winger,30,1400000.0,31/07/2022
+IT1,2023,US Lecce,Nicola Sansone,Left Winger,32,1000000.0,11/09/2023
+IT1,2023,US Lecce,Gabriel Strefezza,Right Winger,27,6000000.0,12/08/2021
+IT1,2023,US Lecce,Pontus Almqvist,Right Winger,24,3000000.0,01/07/2023
+IT1,2023,US Lecce,Santiago Pierotti,Right Winger,23,2500000.0,16/01/2024
+IT1,2023,US Lecce,Jeppe Corfitzen,Right Winger,19,400000.0,01/07/2023
+IT1,2023,US Lecce,Nikola Krstović,Centre-Forward,24,6000000.0,18/08/2023
+IT1,2023,US Lecce,Roberto Piccoli,Centre-Forward,23,4000000.0,31/08/2023
+IT1,2023,US Lecce,Assan Ceesay,Centre-Forward,30,2000000.0,01/07/2022
+IT1,2023,US Lecce,Rareș Burnete,Centre-Forward,20,700000.0,01/07/2023
+IT1,2023,US Lecce,Joel Voelkerling Persson,Centre-Forward,21,400000.0,13/07/2022
+IT1,2023,FC Empoli,Elia Caprile,Goalkeeper,22,6000000.0,24/07/2023
+IT1,2023,FC Empoli,Samuele Perisan,Goalkeeper,26,600000.0,01/07/2022
+IT1,2023,FC Empoli,Etrit Berisha,Goalkeeper,35,500000.0,29/08/2023
+IT1,2023,FC Empoli,Lovro Stubljar,Goalkeeper,19,300000.0,01/07/2022
+IT1,2023,FC Empoli,Jacopo Seghetti,Goalkeeper,19,150000.0,01/07/2024
+IT1,2023,FC Empoli,Filippo Vertua,Goalkeeper,17,,
+IT1,2023,FC Empoli,Sebastiano Luperto,Centre-Back,27,3500000.0,01/07/2023
+IT1,2023,FC Empoli,Ardian Ismajli,Centre-Back,27,3000000.0,09/08/2021
+IT1,2023,FC Empoli,Gabriele Guarino,Centre-Back,20,1000000.0,01/07/2022
+IT1,2023,FC Empoli,Saba Goglichidze,Centre-Back,20,300000.0,06/01/2024
+IT1,2023,FC Empoli,Lorenzo Tonelli,Centre-Back,34,200000.0,27/08/2021
+IT1,2023,FC Empoli,Gabriele Indragoli,Centre-Back,20,200000.0,
+IT1,2023,FC Empoli,Luca Marianucci,Centre-Back,19,175000.0,
+IT1,2023,FC Empoli,Giuseppe Pezzella,Left-Back,26,2200000.0,31/07/2023
+IT1,2023,FC Empoli,Liberato Cacace,Left-Back,23,2000000.0,01/07/2022
+IT1,2023,FC Empoli,Sebastian Walukiewicz,Right-Back,24,2500000.0,01/07/2023
+IT1,2023,FC Empoli,Tyronne Ebuehi,Right-Back,28,2000000.0,05/07/2022
+IT1,2023,FC Empoli,Bartosz Bereszyński,Right-Back,31,1300000.0,22/08/2023
+IT1,2023,FC Empoli,Alberto Grassi,Defensive Midfield,29,1800000.0,01/07/2023
+IT1,2023,FC Empoli,Jacopo Fazzini,Central Midfield,21,6000000.0,01/07/2022
+IT1,2023,FC Empoli,Youssef Maleh,Central Midfield,25,4500000.0,31/08/2023
+IT1,2023,FC Empoli,Filippo Ranocchia,Central Midfield,23,4000000.0,17/07/2023
+IT1,2023,FC Empoli,Răzvan Marin,Central Midfield,28,2700000.0,05/07/2022
+IT1,2023,FC Empoli,Szymon Żurkowski,Central Midfield,26,2500000.0,09/01/2024
+IT1,2023,FC Empoli,Viktor Kovalenko,Central Midfield,28,1500000.0,11/02/2025
+IT1,2023,FC Empoli,Simone Bastoni,Central Midfield,27,1500000.0,01/09/2023
+IT1,2023,FC Empoli,Liam Henderson,Central Midfield,28,1400000.0,11/08/2021
+IT1,2023,FC Empoli,Luca Belardinelli,Central Midfield,23,1000000.0,01/07/2021
+IT1,2023,FC Empoli,Nicolas Haas,Central Midfield,28,700000.0,01/07/2021
+IT1,2023,FC Empoli,Giovanni Crociata,Central Midfield,26,600000.0,01/07/2021
+IT1,2023,FC Empoli,Lorenzo Ignacchiti,Central Midfield,20,600000.0,
+IT1,2023,FC Empoli,Iwo Kaczmarski,Central Midfield,20,300000.0,
+IT1,2023,FC Empoli,Emmanuel Gyasi,Right Midfield,30,1800000.0,21/07/2023
+IT1,2023,FC Empoli,Petar Stojanović,Right Midfield,28,1300000.0,01/07/2022
+IT1,2023,FC Empoli,Tommaso Baldanzi,Attacking Midfield,21,15000000.0,01/07/2021
+IT1,2023,FC Empoli,Daniel Maldini,Attacking Midfield,22,4500000.0,10/07/2023
+IT1,2023,FC Empoli,Andrea Sodero,Attacking Midfield,19,300000.0,
+IT1,2023,FC Empoli,Nicolò Cambiaghi,Left Winger,23,7000000.0,04/08/2022
+IT1,2023,FC Empoli,Emmanuel Ekong,Left Winger,22,500000.0,01/07/2021
+IT1,2023,FC Empoli,Matteo Cancellieri,Right Winger,22,4800000.0,16/08/2023
+IT1,2023,FC Empoli,Roberto Piccoli,Centre-Forward,23,4000000.0,31/01/2023
+IT1,2023,FC Empoli,M'Baye Niang,Centre-Forward,29,2500000.0,31/01/2024
+IT1,2023,FC Empoli,Stiven Shpendi,Centre-Forward,21,2000000.0,01/07/2025
+IT1,2023,FC Empoli,Alberto Cerri,Centre-Forward,28,1700000.0,19/01/2024
+IT1,2023,FC Empoli,Francesco Caputo,Centre-Forward,36,1000000.0,01/07/2023
+IT1,2023,FC Empoli,Mattia Destro,Centre-Forward,33,500000.0,01/07/2022
+IT1,2023,FC Empoli,Giacomo Corona,Centre-Forward,20,400000.0,
+IT1,2023,US Salernitana 1919,Guillermo Ochoa,Goalkeeper,38,1000000.0,02/01/2023
+IT1,2023,US Salernitana 1919,Benoît Costil,Goalkeeper,36,600000.0,31/07/2023
+IT1,2023,US Salernitana 1919,Vincenzo Fiorillo,Goalkeeper,34,150000.0,06/08/2021
+IT1,2023,US Salernitana 1919,Pasquale Allocca,Goalkeeper,19,100000.0,01/07/2023
+IT1,2023,US Salernitana 1919,Gregorio Salvati,Goalkeeper,19,50000.0,01/07/2024
+IT1,2023,US Salernitana 1919,Flavius Daniliuc,Centre-Back,23,6000000.0,29/08/2022
+IT1,2023,US Salernitana 1919,Lorenzo Pirola,Centre-Back,22,5500000.0,01/07/2023
+IT1,2023,US Salernitana 1919,Matteo Lovato,Centre-Back,24,4000000.0,06/07/2022
+IT1,2023,US Salernitana 1919,Marco Pellegrino,Centre-Back,21,3500000.0,01/02/2024
+IT1,2023,US Salernitana 1919,Norbert Gyömbér,Centre-Back,31,1300000.0,12/09/2020
+IT1,2023,US Salernitana 1919,Dylan Bronn,Centre-Back,29,1300000.0,12/08/2022
+IT1,2023,US Salernitana 1919,Konstantinos Manolas,Centre-Back,33,1000000.0,09/02/2024
+IT1,2023,US Salernitana 1919,Triantafyllos Pasalidis,Centre-Back,27,500000.0,31/01/2024
+IT1,2023,US Salernitana 1919,Jérôme Boateng,Centre-Back,35,400000.0,02/02/2024
+IT1,2023,US Salernitana 1919,Federico Fazio,Centre-Back,37,400000.0,29/01/2022
+IT1,2023,US Salernitana 1919,Andrei Motoc,Centre-Back,21,225000.0,01/07/2022
+IT1,2023,US Salernitana 1919,Emanuele Elia,Centre-Back,19,50000.0,
+IT1,2023,US Salernitana 1919,Niccolò Guccione,Centre-Back,18,,
+IT1,2023,US Salernitana 1919,Domagoj Bradarić,Left-Back,24,5000000.0,15/07/2022
+IT1,2023,US Salernitana 1919,Tommaso Ferrari,Left-Back,19,100000.0,
+IT1,2023,US Salernitana 1919,Alessandro Zanoli,Right-Back,23,5000000.0,17/01/2024
+IT1,2023,US Salernitana 1919,Pasquale Mazzocchi,Right-Back,28,3000000.0,01/07/2022
+IT1,2023,US Salernitana 1919,Junior Sambia,Right-Back,27,2000000.0,19/07/2022
+IT1,2023,US Salernitana 1919,Niccolò Pierozzi,Right-Back,22,1800000.0,11/01/2024
+IT1,2023,US Salernitana 1919,Mateusz Łęgowski,Defensive Midfield,21,3000000.0,17/08/2023
+IT1,2023,US Salernitana 1919,Emil Bohinen,Defensive Midfield,25,1800000.0,01/07/2022
+IT1,2023,US Salernitana 1919,Ciro Borrelli,Defensive Midfield,18,,
+IT1,2023,US Salernitana 1919,Lassana Coulibaly,Central Midfield,28,3500000.0,31/07/2021
+IT1,2023,US Salernitana 1919,Giulio Maggiore,Central Midfield,26,3500000.0,16/08/2022
+IT1,2023,US Salernitana 1919,Toma Bašić,Central Midfield,27,2800000.0,17/01/2024
+IT1,2023,US Salernitana 1919,Grigoris Kastanos,Central Midfield,26,1800000.0,02/08/2022
+IT1,2023,US Salernitana 1919,Mamadou Coulibaly,Central Midfield,25,1300000.0,01/07/2022
+IT1,2023,US Salernitana 1919,Iron Gomis,Central Midfield,24,900000.0,01/02/2024
+IT1,2023,US Salernitana 1919,Antonio Pio Iervolino,Central Midfield,21,50000.0,01/07/2022
+IT1,2023,US Salernitana 1919,Rocco Di Vico,Central Midfield,17,,18/07/2024
+IT1,2023,US Salernitana 1919,Agustín Martegani,Attacking Midfield,24,1800000.0,21/08/2023
+IT1,2023,US Salernitana 1919,Jovane Cabral,Left Winger,26,2500000.0,23/08/2023
+IT1,2023,US Salernitana 1919,Andres Sfait,Left Winger,19,500000.0,30/08/2022
+IT1,2023,US Salernitana 1919,Loum Tchaouna,Right Winger,20,8000000.0,31/08/2023
+IT1,2023,US Salernitana 1919,Emanuel Vignato,Right Winger,23,1100000.0,01/02/2024
+IT1,2023,US Salernitana 1919,Antonio Candreva,Right Winger,37,1000000.0,01/07/2023
+IT1,2023,US Salernitana 1919,Luca Boncori,Second Striker,18,,01/07/2025
+IT1,2023,US Salernitana 1919,Boulaye Dia,Centre-Forward,27,10000000.0,01/07/2023
+IT1,2023,US Salernitana 1919,Erik Botheim,Centre-Forward,24,3500000.0,07/07/2022
+IT1,2023,US Salernitana 1919,Chukwubuikem Ikwuemesi,Centre-Forward,22,1800000.0,18/08/2023
+IT1,2023,US Salernitana 1919,Shon Weissman,Centre-Forward,28,1700000.0,01/02/2024
+IT1,2023,US Salernitana 1919,Simy,Centre-Forward,32,500000.0,09/01/2022
+IT1,2023,US Salernitana 1919,Mikael,Centre-Forward,25,300000.0,01/07/2022
+IT1,2023,US Salernitana 1919,Trivante Stewart,Centre-Forward,24,150000.0,17/08/2023
+IT1,2023,US Salernitana 1919,Gerardo Fusco,Centre-Forward,19,125000.0,
+IT1,2023,Cagliari Calcio,Simone Scuffet,Goalkeeper,28,2500000.0,14/07/2023
+IT1,2023,Cagliari Calcio,Boris Radunović,Goalkeeper,28,1000000.0,14/07/2021
+IT1,2023,Cagliari Calcio,Velizar-Iliya Iliev,Goalkeeper,18,100000.0,01/07/2025
+IT1,2023,Cagliari Calcio,Simone Aresti,Goalkeeper,38,75000.0,01/09/2020
+IT1,2023,Cagliari Calcio,Alberto Dossena,Centre-Back,25,5000000.0,21/01/2026
+IT1,2023,Cagliari Calcio,Mateusz Wieteska,Centre-Back,27,3000000.0,29/08/2023
+IT1,2023,Cagliari Calcio,Yerry Mina,Centre-Back,29,3000000.0,01/02/2024
+IT1,2023,Cagliari Calcio,Pantelis Hatzidiakos,Centre-Back,27,2500000.0,01/09/2023
+IT1,2023,Cagliari Calcio,Giorgio Altare,Centre-Back,25,2000000.0,18/07/2021
+IT1,2023,Cagliari Calcio,Edoardo Goldaniga,Centre-Back,30,1200000.0,12/01/2022
+IT1,2023,Cagliari Calcio,Elio Capradossi,Centre-Back,28,300000.0,01/09/2022
+IT1,2023,Cagliari Calcio,Adam Obert,Left-Back,21,3500000.0,01/07/2021
+IT1,2023,Cagliari Calcio,Tommaso Augello,Left-Back,29,2000000.0,18/07/2023
+IT1,2023,Cagliari Calcio,Gabriele Zappa,Right-Back,24,2500000.0,01/07/2021
+IT1,2023,Cagliari Calcio,Alessandro Di Pardo,Right-Back,24,900000.0,01/07/2023
+IT1,2023,Cagliari Calcio,Matteo Prati,Defensive Midfield,20,10000000.0,17/08/2023
+IT1,2023,Cagliari Calcio,Gianluca Gaetano,Defensive Midfield,24,6000000.0,01/07/2025
+IT1,2023,Cagliari Calcio,Antoine Makoumbou,Defensive Midfield,25,4500000.0,15/07/2022
+IT1,2023,Cagliari Calcio,Ibrahim Sulemana,Defensive Midfield,21,4000000.0,21/01/2026
+IT1,2023,Cagliari Calcio,Alessandro Deiola,Central Midfield,28,1900000.0,01/07/2014
+IT1,2023,Cagliari Calcio,Marko Rog,Central Midfield,28,1300000.0,01/09/2020
+IT1,2023,Cagliari Calcio,Christos Kourfalidis,Central Midfield,21,800000.0,01/07/2022
+IT1,2023,Cagliari Calcio,Nunzio Lella,Central Midfield,23,750000.0,01/07/2019
+IT1,2023,Cagliari Calcio,Nahitan Nández,Right Midfield,28,5000000.0,09/08/2019
+IT1,2023,Cagliari Calcio,Jakub Jankto,Left Midfield,28,1200000.0,15/07/2023
+IT1,2023,Cagliari Calcio,Paulo Azzi,Left Midfield,29,1000000.0,12/01/2023
+IT1,2023,Cagliari Calcio,Gaetano Oristanio,Attacking Midfield,21,4000000.0,20/07/2023
+IT1,2023,Cagliari Calcio,Gastón Pereiro,Attacking Midfield,29,1000000.0,31/01/2020
+IT1,2023,Cagliari Calcio,Nicolas Viola,Attacking Midfield,34,800000.0,02/07/2022
+IT1,2023,Cagliari Calcio,Marco Mancosu,Attacking Midfield,35,400000.0,18/08/2022
+IT1,2023,Cagliari Calcio,Alessandro Vinciguerra,Left Winger,18,200000.0,
+IT1,2023,Cagliari Calcio,Jacopo Desogus,Left Winger,21,200000.0,01/07/2022
+IT1,2023,Cagliari Calcio,Zito Luvumbo,Right Winger,22,7500000.0,01/07/2022
+IT1,2023,Cagliari Calcio,Eldor Shomurodov,Centre-Forward,29,5000000.0,27/07/2023
+IT1,2023,Cagliari Calcio,Andrea Petagna,Centre-Forward,29,3800000.0,30/08/2023
+IT1,2023,Cagliari Calcio,Gianluca Lapadula,Centre-Forward,34,1500000.0,25/07/2022
+IT1,2023,Cagliari Calcio,Kingstone Mutandwa,Centre-Forward,21,1000000.0,01/03/2024
+IT1,2023,Cagliari Calcio,Leonardo Pavoletti,Centre-Forward,35,800000.0,30/08/2017

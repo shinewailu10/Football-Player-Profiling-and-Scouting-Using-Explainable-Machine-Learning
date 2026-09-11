@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Large / regeneratable artefacts
+models/
+data/processed/figures/
+data/processed/shap/
+data/processed/eval/
+
+# Sensitive
+*.env
+.env
+credentials.json
+
+# Streamlit
+.streamlit/secrets.toml

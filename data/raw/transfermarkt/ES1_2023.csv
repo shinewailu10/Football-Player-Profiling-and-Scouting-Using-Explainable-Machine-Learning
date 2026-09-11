@@ -1,0 +1,775 @@
+league,season,club,name,position,age,market_value_eur,contract_expiry
+ES1,2023,Real Madrid,Thibaut Courtois,Goalkeeper,32,28000000.0,09/08/2018
+ES1,2023,Real Madrid,Andriy Lunin,Goalkeeper,25,25000000.0,01/07/2018
+ES1,2023,Real Madrid,Kepa Arrizabalaga,Goalkeeper,29,12000000.0,14/08/2023
+ES1,2023,Real Madrid,Lucas Cañizares,Goalkeeper,22,400000.0,
+ES1,2023,Real Madrid,Mario de Luis,Goalkeeper,22,400000.0,
+ES1,2023,Real Madrid,Diego Piñeiro,Goalkeeper,20,50000.0,
+ES1,2023,Real Madrid,Fran González,Goalkeeper,19,,01/07/2026
+ES1,2023,Real Madrid,Éder Militão,Centre-Back,26,60000000.0,01/07/2019
+ES1,2023,Real Madrid,Antonio Rüdiger,Centre-Back,31,25000000.0,01/07/2022
+ES1,2023,Real Madrid,David Alaba,Centre-Back,32,20000000.0,01/07/2021
+ES1,2023,Real Madrid,Nacho Fernández,Centre-Back,34,3000000.0,01/09/2012
+ES1,2023,Real Madrid,Álvaro Carrillo,Centre-Back,22,300000.0,
+ES1,2023,Real Madrid,Edgar Pujol,Centre-Back,19,250000.0,
+ES1,2023,Real Madrid,Jacobo Ramón,Centre-Back,19,100000.0,
+ES1,2023,Real Madrid,Ferland Mendy,Left-Back,29,22000000.0,01/07/2019
+ES1,2023,Real Madrid,Fran García,Left-Back,24,15000000.0,01/07/2023
+ES1,2023,Real Madrid,Daniel Carvajal,Right-Back,32,12000000.0,01/07/2013
+ES1,2023,Real Madrid,Lucas Vázquez,Right-Back,32,4000000.0,02/07/2015
+ES1,2023,Real Madrid,Vinícius Tobias,Right-Back,20,3000000.0,
+ES1,2023,Real Madrid,Álvaro Odriozola,Right-Back,28,2500000.0,05/07/2018
+ES1,2023,Real Madrid,Aurélien Tchouaméni,Defensive Midfield,24,100000000.0,01/07/2022
+ES1,2023,Real Madrid,Mario Martín,Defensive Midfield,20,300000.0,01/07/2024
+ES1,2023,Real Madrid,Federico Valverde,Central Midfield,25,120000000.0,01/07/2018
+ES1,2023,Real Madrid,Eduardo Camavinga,Central Midfield,21,100000000.0,31/08/2021
+ES1,2023,Real Madrid,Toni Kroos,Central Midfield,34,10000000.0,17/07/2014
+ES1,2023,Real Madrid,Luka Modrić,Central Midfield,38,6000000.0,27/08/2012
+ES1,2023,Real Madrid,Dani Ceballos,Central Midfield,27,6000000.0,14/07/2017
+ES1,2023,Real Madrid,Théo Zidane,Central Midfield,22,300000.0,
+ES1,2023,Real Madrid,Jude Bellingham,Attacking Midfield,21,180000000.0,01/07/2023
+ES1,2023,Real Madrid,Arda Güler,Attacking Midfield,19,30000000.0,06/07/2023
+ES1,2023,Real Madrid,Nico Paz,Attacking Midfield,19,10000000.0,01/07/2024
+ES1,2023,Real Madrid,Vinicius Junior,Left Winger,23,180000000.0,12/07/2018
+ES1,2023,Real Madrid,Rodrygo,Right Winger,23,110000000.0,01/07/2019
+ES1,2023,Real Madrid,Brahim Díaz,Right Winger,24,40000000.0,06/01/2019
+ES1,2023,Real Madrid,Joselu,Centre-Forward,34,5000000.0,01/07/2024
+ES1,2023,Real Madrid,Álvaro Rodríguez,Centre-Forward,19,3500000.0,01/07/2024
+ES1,2023,Real Madrid,Gonzalo García,Centre-Forward,20,1000000.0,01/06/2025
+ES1,2023,FC Barcelona,Marc ter Stegen,Goalkeeper,32,28000000.0,01/07/2014
+ES1,2023,FC Barcelona,Iñaki Peña,Goalkeeper,25,8000000.0,30/01/2022
+ES1,2023,FC Barcelona,Ander Astralaga,Goalkeeper,20,1000000.0,
+ES1,2023,FC Barcelona,Diego Kochen,Goalkeeper,18,100000.0,01/07/2026
+ES1,2023,FC Barcelona,Áron Yaakobishvili,Goalkeeper,18,,01/07/2025
+ES1,2023,FC Barcelona,Ronald Araujo,Centre-Back,25,70000000.0,05/10/2020
+ES1,2023,FC Barcelona,Andreas Christensen,Centre-Back,28,40000000.0,04/07/2022
+ES1,2023,FC Barcelona,Pau Cubarsí,Centre-Back,17,30000000.0,01/01/2024
+ES1,2023,FC Barcelona,Eric García,Centre-Back,23,20000000.0,01/07/2021
+ES1,2023,FC Barcelona,Mikayil Faye,Centre-Back,19,10000000.0,01/07/2024
+ES1,2023,FC Barcelona,Iñigo Martínez,Centre-Back,33,5000000.0,05/07/2023
+ES1,2023,FC Barcelona,Marcos Alonso,Centre-Back,33,2000000.0,01/09/2022
+ES1,2023,FC Barcelona,Alejandro Balde,Left-Back,20,40000000.0,01/07/2022
+ES1,2023,FC Barcelona,Jules Koundé,Right-Back,25,45000000.0,28/07/2022
+ES1,2023,FC Barcelona,João Cancelo,Right-Back,30,25000000.0,13/01/2026
+ES1,2023,FC Barcelona,Héctor Fort,Right-Back,17,10000000.0,01/07/2024
+ES1,2023,FC Barcelona,Marc Casadó,Defensive Midfield,20,2500000.0,01/07/2024
+ES1,2023,FC Barcelona,Oriol Romeu,Defensive Midfield,32,2000000.0,19/07/2023
+ES1,2023,FC Barcelona,Pau Prim,Defensive Midfield,18,500000.0,
+ES1,2023,FC Barcelona,Gavi,Central Midfield,19,90000000.0,01/07/2021
+ES1,2023,FC Barcelona,Pedri,Central Midfield,21,80000000.0,02/09/2019
+ES1,2023,FC Barcelona,Frenkie de Jong,Central Midfield,27,70000000.0,01/07/2019
+ES1,2023,FC Barcelona,İlkay Gündoğan,Central Midfield,33,15000000.0,01/07/2023
+ES1,2023,FC Barcelona,Sergi Roberto,Central Midfield,32,2500000.0,01/07/2013
+ES1,2023,FC Barcelona,Unai Hernández,Central Midfield,19,800000.0,
+ES1,2023,FC Barcelona,Aleix Garrido,Central Midfield,20,500000.0,
+ES1,2023,FC Barcelona,Fermín López,Attacking Midfield,21,30000000.0,01/07/2023
+ES1,2023,FC Barcelona,Raphinha,Left Winger,27,50000000.0,13/07/2022
+ES1,2023,FC Barcelona,Ansu Fati,Left Winger,21,25000000.0,23/09/2020
+ES1,2023,FC Barcelona,Abde Ezzalzouli,Left Winger,22,9000000.0,01/07/2022
+ES1,2023,FC Barcelona,Ángel Alarcón,Left Winger,20,300000.0,
+ES1,2023,FC Barcelona,Lamine Yamal,Right Winger,16,90000000.0,01/07/2023
+ES1,2023,FC Barcelona,João Félix,Second Striker,24,30000000.0,01/09/2023
+ES1,2023,FC Barcelona,Ferran Torres,Centre-Forward,24,30000000.0,01/01/2022
+ES1,2023,FC Barcelona,Vitor Roque,Centre-Forward,19,30000000.0,01/01/2024
+ES1,2023,FC Barcelona,Robert Lewandowski,Centre-Forward,35,15000000.0,19/07/2022
+ES1,2023,FC Barcelona,Marc Guiu,Centre-Forward,18,7500000.0,01/01/2024
+ES1,2023,FC Barcelona,Pau Víctor,Centre-Forward,22,1500000.0,24/07/2024
+ES1,2023,Real Sociedad,Álex Remiro,Goalkeeper,29,25000000.0,01/07/2019
+ES1,2023,Real Sociedad,Gaizka Ayesa,Goalkeeper,23,300000.0,
+ES1,2023,Real Sociedad,Unai Marrero,Goalkeeper,22,300000.0,01/07/2023
+ES1,2023,Real Sociedad,Aitor Fraga,Goalkeeper,21,200000.0,
+ES1,2023,Real Sociedad,Robin Le Normand,Centre-Back,27,40000000.0,01/07/2019
+ES1,2023,Real Sociedad,Igor Zubeldia,Centre-Back,27,22000000.0,01/07/2017
+ES1,2023,Real Sociedad,Jon Pacheco,Centre-Back,23,15000000.0,01/07/2022
+ES1,2023,Real Sociedad,Aritz Elustondo,Centre-Back,30,5000000.0,04/01/2016
+ES1,2023,Real Sociedad,Jon Martín,Centre-Back,18,2000000.0,01/07/2024
+ES1,2023,Real Sociedad,Kieran Tierney,Left-Back,27,12000000.0,27/08/2023
+ES1,2023,Real Sociedad,Aihen Muñoz,Left-Back,26,8000000.0,01/07/2019
+ES1,2023,Real Sociedad,Javi Galán,Left-Back,29,7000000.0,24/01/2024
+ES1,2023,Real Sociedad,Diego Rico,Left-Back,31,1500000.0,26/07/2021
+ES1,2023,Real Sociedad,Hamari Traoré,Right-Back,32,6000000.0,01/07/2023
+ES1,2023,Real Sociedad,Jon Aramburu,Right-Back,21,2500000.0,01/07/2024
+ES1,2023,Real Sociedad,Álvaro Odriozola,Right-Back,28,2500000.0,01/09/2023
+ES1,2023,Real Sociedad,Alberto Dadie,Right-Back,21,250000.0,
+ES1,2023,Real Sociedad,Iñaki Rupérez,Right-Back,21,150000.0,01/07/2026
+ES1,2023,Real Sociedad,Martín Zubimendi,Defensive Midfield,25,50000000.0,10/09/2020
+ES1,2023,Real Sociedad,Urko González de Zárate,Defensive Midfield,23,1200000.0,01/07/2023
+ES1,2023,Real Sociedad,Mikel Merino,Central Midfield,28,50000000.0,12/07/2018
+ES1,2023,Real Sociedad,Beñat Turrientes,Central Midfield,22,20000000.0,07/08/2022
+ES1,2023,Real Sociedad,Jon Ander Olasagasti,Central Midfield,23,1200000.0,01/07/2023
+ES1,2023,Real Sociedad,Brais Méndez,Attacking Midfield,27,40000000.0,06/07/2022
+ES1,2023,Real Sociedad,Arsen Zakharyan,Attacking Midfield,21,18000000.0,19/08/2023
+ES1,2023,Real Sociedad,Pablo Marín,Attacking Midfield,20,1500000.0,01/07/2024
+ES1,2023,Real Sociedad,Jon Magunazelaia,Attacking Midfield,22,1000000.0,01/07/2024
+ES1,2023,Real Sociedad,Ander Barrenetxea,Left Winger,22,20000000.0,01/07/2019
+ES1,2023,Real Sociedad,Sheraldo Becker,Left Winger,29,10000000.0,18/01/2024
+ES1,2023,Real Sociedad,Martín Merquelanz,Left Winger,29,600000.0,14/08/2018
+ES1,2023,Real Sociedad,Takefusa Kubo,Right Winger,23,50000000.0,19/07/2022
+ES1,2023,Real Sociedad,Mohamed-Ali Cho,Right Winger,20,10000000.0,01/07/2022
+ES1,2023,Real Sociedad,Robert Navarro,Right Winger,22,6000000.0,07/08/2022
+ES1,2023,Real Sociedad,Álex Sola,Right Winger,25,4000000.0,01/07/2022
+ES1,2023,Real Sociedad,Mikel Oyarzabal,Centre-Forward,27,45000000.0,01/01/2016
+ES1,2023,Real Sociedad,Umar Sadiq,Centre-Forward,27,10000000.0,01/09/2022
+ES1,2023,Real Sociedad,André Silva,Centre-Forward,28,6000000.0,02/08/2023
+ES1,2023,Real Sociedad,Jon Karrikaburu,Centre-Forward,21,2500000.0,01/07/2022
+ES1,2023,Real Sociedad,Carlos Fernández,Centre-Forward,28,1500000.0,24/01/2021
+ES1,2023,Real Sociedad,Bryan Fiabema,Centre-Forward,21,300000.0,
+ES1,2023,Atlético de Madrid,Jan Oblak,Goalkeeper,31,28000000.0,16/07/2014
+ES1,2023,Atlético de Madrid,Ivo Grbic,Goalkeeper,28,3500000.0,20/08/2020
+ES1,2023,Atlético de Madrid,Horațiu Moldovan,Goalkeeper,26,2500000.0,24/01/2024
+ES1,2023,Atlético de Madrid,Antonio Gomis,Goalkeeper,21,150000.0,
+ES1,2023,Atlético de Madrid,Sergio Mestre,Goalkeeper,19,50000.0,
+ES1,2023,Atlético de Madrid,Mario Hermoso,Centre-Back,29,25000000.0,18/07/2019
+ES1,2023,Atlético de Madrid,José María Giménez,Centre-Back,29,22000000.0,25/04/2013
+ES1,2023,Atlético de Madrid,Çağlar Söyüncü,Centre-Back,28,10000000.0,05/07/2023
+ES1,2023,Atlético de Madrid,Stefan Savic,Centre-Back,33,2500000.0,20/07/2015
+ES1,2023,Atlético de Madrid,César Azpilicueta,Centre-Back,34,2000000.0,06/07/2023
+ES1,2023,Atlético de Madrid,Gabriel Paulista,Centre-Back,33,2000000.0,31/01/2024
+ES1,2023,Atlético de Madrid,Marco Moreno,Centre-Back,23,400000.0,
+ES1,2023,Atlético de Madrid,Ilias Kostis,Centre-Back,21,300000.0,
+ES1,2023,Atlético de Madrid,Reinildo Mandava,Left-Back,30,9000000.0,31/01/2022
+ES1,2023,Atlético de Madrid,Javi Galán,Left-Back,29,7000000.0,03/07/2023
+ES1,2023,Atlético de Madrid,Marcos Llorente,Right-Back,29,30000000.0,01/07/2019
+ES1,2023,Atlético de Madrid,Nahuel Molina,Right-Back,26,28000000.0,28/07/2022
+ES1,2023,Atlético de Madrid,Javier Boñar,Right-Back,19,500000.0,
+ES1,2023,Atlético de Madrid,Arthur Vermeeren,Defensive Midfield,19,25000000.0,26/01/2024
+ES1,2023,Atlético de Madrid,Axel Witsel,Defensive Midfield,35,3500000.0,06/07/2022
+ES1,2023,Atlético de Madrid,Rodrigo De Paul,Central Midfield,30,30000000.0,12/07/2021
+ES1,2023,Atlético de Madrid,Pablo Barrios,Central Midfield,21,25000000.0,23/01/2023
+ES1,2023,Atlético de Madrid,Koke,Central Midfield,32,12000000.0,01/01/2011
+ES1,2023,Atlético de Madrid,Saúl Ñíguez,Central Midfield,29,7500000.0,01/07/2013
+ES1,2023,Atlético de Madrid,Aitor Gismera,Central Midfield,20,250000.0,
+ES1,2023,Atlético de Madrid,Thomas Lemar,Attacking Midfield,28,10000000.0,01/07/2018
+ES1,2023,Atlético de Madrid,Sergio Guerrero,Attacking Midfield,25,200000.0,
+ES1,2023,Atlético de Madrid,Álex Calatrava,Attacking Midfield,24,200000.0,
+ES1,2023,Atlético de Madrid,Rayane Belaid,Attacking Midfield,19,,
+ES1,2023,Atlético de Madrid,Samuel Lino,Left Winger,24,30000000.0,08/07/2022
+ES1,2023,Atlético de Madrid,Rodrigo Riquelme,Left Winger,24,25000000.0,01/07/2020
+ES1,2023,Atlético de Madrid,Yannick Carrasco,Left Winger,30,14000000.0,08/09/2020
+ES1,2023,Atlético de Madrid,Marcos Paulo,Left Winger,23,2000000.0,01/07/2021
+ES1,2023,Atlético de Madrid,Salim El Jebari,Left Winger,20,1000000.0,
+ES1,2023,Atlético de Madrid,Vitolo,Left Winger,34,100000.0,12/07/2017
+ES1,2023,Atlético de Madrid,João Félix,Second Striker,24,30000000.0,03/07/2019
+ES1,2023,Atlético de Madrid,Antoine Griezmann,Second Striker,33,25000000.0,01/07/2023
+ES1,2023,Atlético de Madrid,Ángel Correa,Second Striker,29,18000000.0,01/01/2015
+ES1,2023,Atlético de Madrid,Álvaro Morata,Centre-Forward,31,16000000.0,01/07/2020
+ES1,2023,Atlético de Madrid,Memphis Depay,Centre-Forward,30,10000000.0,20/01/2023
+ES1,2023,Atlético de Madrid,Adrián Niño,Centre-Forward,20,500000.0,
+ES1,2023,Atlético de Madrid,Abde Raihani,Centre-Forward,20,300000.0,
+ES1,2023,Girona FC,Paulo Gazzaniga,Goalkeeper,32,4000000.0,01/07/2023
+ES1,2023,Girona FC,Toni Fuidias,Goalkeeper,23,300000.0,01/09/2022
+ES1,2023,Girona FC,Juan Carlos,Goalkeeper,36,200000.0,01/07/2019
+ES1,2023,Girona FC,Eric García,Centre-Back,23,20000000.0,01/09/2023
+ES1,2023,Girona FC,Santiago Bueno,Centre-Back,25,8000000.0,19/08/2019
+ES1,2023,Girona FC,Daley Blind,Centre-Back,34,3000000.0,07/07/2023
+ES1,2023,Girona FC,David López,Centre-Back,34,2500000.0,25/07/2022
+ES1,2023,Girona FC,Juanpe,Centre-Back,33,1000000.0,07/07/2016
+ES1,2023,Girona FC,Bernardo Espinosa,Centre-Back,34,550000.0,07/07/2017
+ES1,2023,Girona FC,Eric Monjonell,Centre-Back,22,200000.0,
+ES1,2023,Girona FC,Antal Yaakobishvili,Centre-Back,19,,01/07/2025
+ES1,2023,Girona FC,Miguel Gutiérrez,Left-Back,22,25000000.0,05/08/2022
+ES1,2023,Girona FC,Yan Couto,Right-Back,22,25000000.0,25/07/2022
+ES1,2023,Girona FC,Arnau Martínez,Right-Back,21,10000000.0,01/04/2021
+ES1,2023,Girona FC,Ibrahima Kébé,Defensive Midfield,23,500000.0,01/07/2020
+ES1,2023,Girona FC,Selvi Clua,Defensive Midfield,19,,
+ES1,2023,Girona FC,Aleix García,Central Midfield,27,25000000.0,23/07/2021
+ES1,2023,Girona FC,Yangel Herrera,Central Midfield,26,25000000.0,14/07/2023
+ES1,2023,Girona FC,Iván Martín,Central Midfield,25,15000000.0,22/07/2023
+ES1,2023,Girona FC,Jhon Solís,Central Midfield,19,3000000.0,01/09/2023
+ES1,2023,Girona FC,Enric García,Central Midfield,17,,
+ES1,2023,Girona FC,Pablo Torre,Attacking Midfield,21,3000000.0,18/07/2023
+ES1,2023,Girona FC,Borja García,Attacking Midfield,33,800000.0,03/09/2021
+ES1,2023,Girona FC,Ricard Artero,Attacking Midfield,21,,
+ES1,2023,Girona FC,Savinho,Left Winger,20,50000000.0,13/07/2023
+ES1,2023,Girona FC,Toni Villa,Left Winger,29,1500000.0,01/09/2022
+ES1,2023,Girona FC,Alex Almansa,Left Winger,20,,
+ES1,2023,Girona FC,Juan Arango,Left Winger,18,,
+ES1,2023,Girona FC,Jastin Garcia,Left Winger,20,,01/07/2025
+ES1,2023,Girona FC,Viktor Tsygankov,Right Winger,26,30000000.0,17/01/2023
+ES1,2023,Girona FC,Portu,Right Winger,32,3500000.0,01/09/2023
+ES1,2023,Girona FC,Valery Fernández,Right Winger,24,2500000.0,01/01/2019
+ES1,2023,Girona FC,Iker Almena,Right Winger,20,,01/07/2024
+ES1,2023,Girona FC,Manu Vallejo,Second Striker,27,1500000.0,01/09/2022
+ES1,2023,Girona FC,Artem Dovbyk,Centre-Forward,27,35000000.0,06/08/2023
+ES1,2023,Girona FC,Cristhian Stuani,Centre-Forward,37,1800000.0,21/07/2017
+ES1,2023,Girona FC,Carles Garrido,Centre-Forward,19,50000.0,
+ES1,2023,Athletic Bilbao,Unai Simón,Goalkeeper,27,30000000.0,01/07/2018
+ES1,2023,Athletic Bilbao,Julen Agirrezabala,Goalkeeper,23,5000000.0,01/07/2022
+ES1,2023,Athletic Bilbao,Álex Padilla,Goalkeeper,20,200000.0,01/07/2024
+ES1,2023,Athletic Bilbao,Dani Vivian,Centre-Back,24,25000000.0,01/08/2020
+ES1,2023,Athletic Bilbao,Aitor Paredes,Centre-Back,24,22000000.0,01/07/2022
+ES1,2023,Athletic Bilbao,Yeray Álvarez,Centre-Back,29,8000000.0,01/07/2016
+ES1,2023,Athletic Bilbao,Unai Egiluz,Centre-Back,22,100000.0,01/07/2024
+ES1,2023,Athletic Bilbao,Yuri Berchiche,Left-Back,34,1800000.0,02/07/2018
+ES1,2023,Athletic Bilbao,Imanol García de Albéniz,Left-Back,24,1200000.0,01/07/2021
+ES1,2023,Athletic Bilbao,Iñigo Lekue,Right-Back,31,3000000.0,01/07/2016
+ES1,2023,Athletic Bilbao,Óscar de Marcos,Right-Back,35,1500000.0,01/07/2009
+ES1,2023,Athletic Bilbao,Hugo Rincón,Right-Back,21,250000.0,01/07/2024
+ES1,2023,Athletic Bilbao,Mikel Vesga,Defensive Midfield,31,4000000.0,01/07/2016
+ES1,2023,Athletic Bilbao,Dani García,Defensive Midfield,34,1800000.0,01/07/2018
+ES1,2023,Athletic Bilbao,Peru Nolaskoain,Defensive Midfield,25,1000000.0,01/07/2019
+ES1,2023,Athletic Bilbao,Beñat Prados,Central Midfield,23,15000000.0,01/07/2022
+ES1,2023,Athletic Bilbao,Iñigo Ruiz de Galarreta,Central Midfield,30,5000000.0,01/07/2023
+ES1,2023,Athletic Bilbao,Ander Herrera,Central Midfield,34,2000000.0,31/01/2023
+ES1,2023,Athletic Bilbao,Mikel Jauregizar,Central Midfield,20,800000.0,01/07/2024
+ES1,2023,Athletic Bilbao,Oihan Sancet,Attacking Midfield,24,35000000.0,04/08/2020
+ES1,2023,Athletic Bilbao,Unai Gómez,Attacking Midfield,21,6000000.0,01/07/2023
+ES1,2023,Athletic Bilbao,Raúl García,Attacking Midfield,37,1500000.0,30/08/2015
+ES1,2023,Athletic Bilbao,Nico Williams,Left Winger,21,60000000.0,01/07/2021
+ES1,2023,Athletic Bilbao,Álex Berenguer,Left Winger,28,12000000.0,02/10/2020
+ES1,2023,Athletic Bilbao,Iker Muniain,Left Winger,31,5000000.0,01/07/2009
+ES1,2023,Athletic Bilbao,Iñaki Williams,Right Winger,30,25000000.0,01/07/2015
+ES1,2023,Athletic Bilbao,Adu Ares,Right Winger,22,2000000.0,01/07/2023
+ES1,2023,Athletic Bilbao,Aingeru Olabarrieta,Right Winger,18,500000.0,
+ES1,2023,Athletic Bilbao,Gorka Guruzeta,Centre-Forward,27,18000000.0,03/07/2022
+ES1,2023,Athletic Bilbao,Asier Villalibre,Centre-Forward,26,2500000.0,01/07/2019
+ES1,2023,Athletic Bilbao,Javi Martón,Centre-Forward,25,500000.0,05/07/2023
+ES1,2023,Villarreal CF,Filip Jørgensen,Goalkeeper,22,20000000.0,05/01/2023
+ES1,2023,Villarreal CF,Iker Álvarez,Goalkeeper,22,800000.0,
+ES1,2023,Villarreal CF,Pepe Reina,Goalkeeper,41,600000.0,08/07/2022
+ES1,2023,Villarreal CF,Juan Foyth,Centre-Back,26,15000000.0,01/07/2021
+ES1,2023,Villarreal CF,Matteo Gabbia,Centre-Back,24,8000000.0,26/07/2023
+ES1,2023,Villarreal CF,Yerson Mosquera,Centre-Back,23,6000000.0,23/01/2024
+ES1,2023,Villarreal CF,Jorge Cuenca,Centre-Back,24,6000000.0,21/09/2020
+ES1,2023,Villarreal CF,Eric Bailly,Centre-Back,30,3000000.0,01/01/2024
+ES1,2023,Villarreal CF,Stefan Lekovic,Centre-Back,20,1800000.0,
+ES1,2023,Villarreal CF,Aïssa Mandi,Centre-Back,32,1800000.0,01/07/2021
+ES1,2023,Villarreal CF,Raúl Albiol,Centre-Back,38,1500000.0,04/07/2019
+ES1,2023,Villarreal CF,Antonio Espigares,Centre-Back,19,500000.0,
+ES1,2023,Villarreal CF,Alfonso Pedraza,Left-Back,28,5000000.0,01/07/2016
+ES1,2023,Villarreal CF,Alberto Moreno,Left-Back,31,1800000.0,09/07/2019
+ES1,2023,Villarreal CF,Carlos Romero,Left-Back,22,1500000.0,01/07/2024
+ES1,2023,Villarreal CF,Abraham del Moral,Left-Back,22,100000.0,
+ES1,2023,Villarreal CF,Adrià Altimira,Right-Back,23,2000000.0,01/07/2024
+ES1,2023,Villarreal CF,Kiko Femenía,Right-Back,33,1400000.0,28/07/2022
+ES1,2023,Villarreal CF,Daniel Budesca,Right-Back,18,,
+ES1,2023,Villarreal CF,Étienne Capoue,Defensive Midfield,35,1500000.0,04/01/2021
+ES1,2023,Villarreal CF,Francis Coquelin,Defensive Midfield,33,1500000.0,12/08/2020
+ES1,2023,Villarreal CF,Santi Comesaña,Central Midfield,27,6000000.0,01/07/2023
+ES1,2023,Villarreal CF,Ramón Terrats,Central Midfield,23,4000000.0,01/07/2023
+ES1,2023,Villarreal CF,Dani Parejo,Central Midfield,35,2500000.0,12/08/2020
+ES1,2023,Villarreal CF,Manu Trigueros,Central Midfield,32,1500000.0,01/07/2012
+ES1,2023,Villarreal CF,Dani Requena,Central Midfield,20,400000.0,01/07/2025
+ES1,2023,Villarreal CF,Denis Suárez,Attacking Midfield,30,1500000.0,01/07/2023
+ES1,2023,Villarreal CF,Álex Baena,Left Winger,22,40000000.0,01/08/2020
+ES1,2023,Villarreal CF,Yéremy Pino,Left Winger,21,30000000.0,01/08/2020
+ES1,2023,Villarreal CF,Gonçalo Guedes,Left Winger,27,15000000.0,19/01/2024
+ES1,2023,Villarreal CF,Diego Collado,Left Winger,23,800000.0,
+ES1,2023,Villarreal CF,Ilias Akhomach,Right Winger,20,15000000.0,03/07/2023
+ES1,2023,Villarreal CF,Bertrand Traoré,Right Winger,28,9000000.0,01/02/2024
+ES1,2023,Villarreal CF,Alexander Sørloth,Centre-Forward,28,25000000.0,25/07/2023
+ES1,2023,Villarreal CF,Gerard Moreno,Centre-Forward,32,10000000.0,01/07/2018
+ES1,2023,Villarreal CF,Ben Brereton Díaz,Centre-Forward,25,8000000.0,04/07/2023
+ES1,2023,Villarreal CF,Álex Forés,Centre-Forward,23,1500000.0,01/07/2024
+ES1,2023,Villarreal CF,José Luis Morales,Centre-Forward,36,1500000.0,01/07/2022
+ES1,2023,Villarreal CF,Jorge Pascual,Centre-Forward,21,1000000.0,01/07/2024
+ES1,2023,Valencia CF,Giorgi Mamardashvili,Goalkeeper,23,35000000.0,28/08/2024
+ES1,2023,Valencia CF,Jaume Doménech,Goalkeeper,33,800000.0,01/07/2015
+ES1,2023,Valencia CF,Cristian Rivero,Goalkeeper,26,200000.0,01/08/2020
+ES1,2023,Valencia CF,Vicent Abril,Goalkeeper,19,,
+ES1,2023,Valencia CF,Cristhian Mosquera,Centre-Back,20,30000000.0,01/01/2023
+ES1,2023,Valencia CF,Yarek Gasiorowski,Centre-Back,19,15000000.0,01/10/2023
+ES1,2023,Valencia CF,Cenk Özkacar,Centre-Back,23,4000000.0,01/07/2023
+ES1,2023,Valencia CF,Mouctar Diakhaby,Centre-Back,27,2000000.0,01/07/2018
+ES1,2023,Valencia CF,Gabriel Paulista,Centre-Back,33,2000000.0,18/08/2017
+ES1,2023,Valencia CF,César Tárrega,Centre-Back,22,1500000.0,18/01/2024
+ES1,2023,Valencia CF,José Gayà,Left-Back,29,25000000.0,01/07/2014
+ES1,2023,Valencia CF,Jesús Vázquez,Left-Back,21,3000000.0,01/01/2022
+ES1,2023,Valencia CF,Thierry Correia,Right-Back,25,6000000.0,02/09/2019
+ES1,2023,Valencia CF,Dimitri Foulquier,Right-Back,31,2500000.0,30/08/2021
+ES1,2023,Valencia CF,Rubén Iranzo,Right-Back,21,300000.0,
+ES1,2023,Valencia CF,Pepelu,Defensive Midfield,25,22000000.0,08/07/2023
+ES1,2023,Valencia CF,Hugo Guillamón,Defensive Midfield,24,8000000.0,01/07/2020
+ES1,2023,Valencia CF,Javi Guerra,Central Midfield,21,20000000.0,01/07/2023
+ES1,2023,Valencia CF,Ali Fadal,Central Midfield,20,100000.0,
+ES1,2023,Valencia CF,Javi Navarro,Central Midfield,20,25000.0,
+ES1,2023,Valencia CF,André Almeida,Attacking Midfield,24,15000000.0,25/08/2022
+ES1,2023,Valencia CF,Selim Amallah,Attacking Midfield,27,1500000.0,29/08/2023
+ES1,2023,Valencia CF,Pablo Gozálbez,Attacking Midfield,23,800000.0,
+ES1,2023,Valencia CF,Sergi Canós,Left Winger,27,2500000.0,20/08/2023
+ES1,2023,Valencia CF,Marco Camus,Left Winger,22,300000.0,
+ES1,2023,Valencia CF,Martín Tejón,Left Winger,20,100000.0,
+ES1,2023,Valencia CF,Diego López,Right Winger,22,14000000.0,01/07/2023
+ES1,2023,Valencia CF,Fran Pérez,Right Winger,21,8000000.0,01/07/2023
+ES1,2023,Valencia CF,Peter Federico,Right Winger,21,3000000.0,31/01/2024
+ES1,2023,Valencia CF,David Otorbi,Right Winger,16,500000.0,
+ES1,2023,Valencia CF,Hugo González,Right Winger,21,300000.0,01/07/2024
+ES1,2023,Valencia CF,Hugo Duro,Centre-Forward,24,16000000.0,01/07/2022
+ES1,2023,Valencia CF,Roman Yaremchuk,Centre-Forward,28,3500000.0,01/09/2023
+ES1,2023,Valencia CF,Alberto Marí,Centre-Forward,22,1500000.0,26/07/2023
+ES1,2023,Valencia CF,Mario Domínguez,Centre-Forward,20,200000.0,01/07/2026
+ES1,2023,Valencia CF,Joselu Pérez,Centre-Forward,20,100000.0,
+ES1,2023,Sevilla FC,Yassine Bounou,Goalkeeper,33,9000000.0,04/09/2020
+ES1,2023,Sevilla FC,Ørjan Nyland,Goalkeeper,33,1400000.0,20/08/2023
+ES1,2023,Sevilla FC,Marko Dmitrovic,Goalkeeper,32,900000.0,04/07/2021
+ES1,2023,Sevilla FC,Alberto Flores,Goalkeeper,20,300000.0,
+ES1,2023,Sevilla FC,Matías Árbol,Goalkeeper,21,100000.0,
+ES1,2023,Sevilla FC,Rafa Romero,Goalkeeper,20,,
+ES1,2023,Sevilla FC,Loïc Badé,Centre-Back,24,14000000.0,01/07/2023
+ES1,2023,Sevilla FC,Kike Salas,Centre-Back,22,10000000.0,01/01/2023
+ES1,2023,Sevilla FC,Marcão,Centre-Back,28,4000000.0,08/07/2022
+ES1,2023,Sevilla FC,Federico Gattoni,Centre-Back,25,3500000.0,31/01/2023
+ES1,2023,Sevilla FC,Tanguy Nianzou,Centre-Back,22,3000000.0,17/08/2022
+ES1,2023,Sevilla FC,Sergio Ramos,Centre-Back,38,2500000.0,04/09/2023
+ES1,2023,Sevilla FC,Xavi Sintes,Centre-Back,22,200000.0,
+ES1,2023,Sevilla FC,Adrià Pedrosa,Left-Back,26,6000000.0,01/07/2023
+ES1,2023,Sevilla FC,Marcos Acuña,Left-Back,32,4000000.0,14/09/2020
+ES1,2023,Sevilla FC,Diego Hormigo,Left-Back,21,200000.0,
+ES1,2023,Sevilla FC,Oso,Left-Back,20,200000.0,01/01/2026
+ES1,2023,Sevilla FC,Juanlu Sánchez,Right-Back,20,15000000.0,01/07/2022
+ES1,2023,Sevilla FC,Gonzalo Montiel,Right-Back,27,10000000.0,13/08/2021
+ES1,2023,Sevilla FC,Darío Benavides,Right-Back,21,150000.0,
+ES1,2023,Sevilla FC,Boubakary Soumaré,Defensive Midfield,25,14000000.0,01/09/2023
+ES1,2023,Sevilla FC,Lucien Agoumé,Defensive Midfield,22,6000000.0,06/08/2024
+ES1,2023,Sevilla FC,Nemanja Gudelj,Defensive Midfield,32,3500000.0,23/07/2019
+ES1,2023,Sevilla FC,Fernando,Defensive Midfield,36,2000000.0,12/07/2019
+ES1,2023,Sevilla FC,Djibril Sow,Central Midfield,27,9000000.0,04/08/2023
+ES1,2023,Sevilla FC,Óliver Torres,Central Midfield,29,6000000.0,15/07/2019
+ES1,2023,Sevilla FC,Joan Jordán,Central Midfield,29,3500000.0,01/07/2019
+ES1,2023,Sevilla FC,Ivan Rakitic,Central Midfield,36,3500000.0,01/09/2020
+ES1,2023,Sevilla FC,Manu Bueno,Central Midfield,19,300000.0,01/07/2025
+ES1,2023,Sevilla FC,Lulo Dasilva,Central Midfield,21,150000.0,
+ES1,2023,Sevilla FC,Alberto Collado,Central Midfield,19,,
+ES1,2023,Sevilla FC,Jesús Navas,Right Midfield,38,2500000.0,01/08/2017
+ES1,2023,Sevilla FC,Hannibal,Attacking Midfield,21,9000000.0,15/01/2024
+ES1,2023,Sevilla FC,Stanis Idumbo,Attacking Midfield,19,800000.0,01/07/2024
+ES1,2023,Sevilla FC,Miguel Capitas,Attacking Midfield,23,200000.0,
+ES1,2023,Sevilla FC,Lucas Ocampos,Left Winger,29,9000000.0,03/07/2019
+ES1,2023,Sevilla FC,Isra Domínguez,Left Winger,21,150000.0,
+ES1,2023,Sevilla FC,Papu Gómez,Left Winger,36,,26/01/2021
+ES1,2023,Sevilla FC,Dodi Lukébakio,Right Winger,26,12000000.0,24/08/2023
+ES1,2023,Sevilla FC,Suso,Right Winger,30,4000000.0,21/07/2020
+ES1,2023,Sevilla FC,Jesús Corona,Right Winger,31,3500000.0,14/01/2022
+ES1,2023,Sevilla FC,Erik Lamela,Right Winger,32,2000000.0,26/07/2021
+ES1,2023,Sevilla FC,Adnan Januzaj,Right Winger,29,2000000.0,31/08/2022
+ES1,2023,Sevilla FC,Youssef En-Nesyri,Centre-Forward,27,20000000.0,16/01/2020
+ES1,2023,Sevilla FC,Isaac Romero,Centre-Forward,24,18000000.0,11/01/2024
+ES1,2023,Sevilla FC,Alejo Veliz,Centre-Forward,20,9000000.0,01/02/2024
+ES1,2023,Sevilla FC,Rafa Mir,Centre-Forward,27,2500000.0,20/08/2021
+ES1,2023,Sevilla FC,Mariano Díaz,Centre-Forward,30,1500000.0,01/09/2023
+ES1,2023,Sevilla FC,Ibra Sow,Centre-Forward,17,200000.0,
+ES1,2023,Real Betis Balompié,Rui Silva,Goalkeeper,30,8000000.0,01/07/2021
+ES1,2023,Real Betis Balompié,Claudio Bravo,Goalkeeper,41,800000.0,30/08/2020
+ES1,2023,Real Betis Balompié,Fran Vieites,Goalkeeper,25,500000.0,01/07/2024
+ES1,2023,Real Betis Balompié,Guilherme Fernandes,Goalkeeper,23,150000.0,01/07/2025
+ES1,2023,Real Betis Balompié,Germán García,Goalkeeper,20,25000.0,
+ES1,2023,Real Betis Balompié,Chadi Riad,Centre-Back,21,15000000.0,01/07/2024
+ES1,2023,Real Betis Balompié,Luiz Felipe,Centre-Back,27,13000000.0,04/07/2022
+ES1,2023,Real Betis Balompié,Germán Pezzella,Centre-Back,33,3000000.0,19/08/2021
+ES1,2023,Real Betis Balompié,Nobel Mendy,Centre-Back,19,1000000.0,01/07/2025
+ES1,2023,Real Betis Balompié,Marc Bartra,Centre-Back,33,1000000.0,24/07/2023
+ES1,2023,Real Betis Balompié,Sokratis Papastathopoulos,Centre-Back,36,700000.0,26/10/2023
+ES1,2023,Real Betis Balompié,Ricardo Visus,Centre-Back,23,150000.0,01/07/2024
+ES1,2023,Real Betis Balompié,Juan Miranda,Left-Back,24,9000000.0,01/07/2021
+ES1,2023,Real Betis Balompié,Abner,Left-Back,24,7000000.0,15/01/2023
+ES1,2023,Real Betis Balompié,Xavi Pleguezuelo,Left-Back,21,100000.0,
+ES1,2023,Real Betis Balompié,Héctor Bellerín,Right-Back,29,4000000.0,18/07/2023
+ES1,2023,Real Betis Balompié,Youssouf Sabaly,Right-Back,31,2500000.0,01/07/2021
+ES1,2023,Real Betis Balompié,Pablo Busto,Right-Back,18,500000.0,
+ES1,2023,Real Betis Balompié,Guido Rodríguez,Defensive Midfield,30,20000000.0,14/01/2020
+ES1,2023,Real Betis Balompié,Marc Roca,Defensive Midfield,27,9000000.0,01/07/2024
+ES1,2023,Real Betis Balompié,William Carvalho,Defensive Midfield,32,3000000.0,13/07/2018
+ES1,2023,Real Betis Balompié,Sergi Altimira,Defensive Midfield,22,2500000.0,11/08/2023
+ES1,2023,Real Betis Balompié,Paul Akouokou,Defensive Midfield,26,1500000.0,10/09/2020
+ES1,2023,Real Betis Balompié,Johnny Cardoso,Central Midfield,22,25000000.0,01/01/2024
+ES1,2023,Real Betis Balompié,Pablo Fornals,Central Midfield,28,14000000.0,01/02/2024
+ES1,2023,Real Betis Balompié,Andrés Guardado,Central Midfield,37,1000000.0,07/07/2017
+ES1,2023,Real Betis Balompié,Ginés Sorroche,Central Midfield,20,300000.0,
+ES1,2023,Real Betis Balompié,Quique Fernández,Central Midfield,20,150000.0,
+ES1,2023,Real Betis Balompié,Nabil Fekir,Attacking Midfield,30,10000000.0,23/07/2019
+ES1,2023,Real Betis Balompié,Isco,Attacking Midfield,32,8000000.0,26/07/2023
+ES1,2023,Real Betis Balompié,Dani Pérez,Attacking Midfield,18,500000.0,
+ES1,2023,Real Betis Balompié,Assane Diao,Left Winger,18,12000000.0,03/10/2023
+ES1,2023,Real Betis Balompié,Abde Ezzalzouli,Left Winger,22,9000000.0,01/09/2023
+ES1,2023,Real Betis Balompié,Juan Cruz,Left Winger,24,1500000.0,01/07/2023
+ES1,2023,Real Betis Balompié,Luiz Henrique,Right Winger,23,12000000.0,01/07/2022
+ES1,2023,Real Betis Balompié,Aitor Ruibal,Right Winger,28,3500000.0,01/07/2019
+ES1,2023,Real Betis Balompié,Rodri Sánchez,Right Winger,24,3000000.0,01/07/2021
+ES1,2023,Real Betis Balompié,Ayoze Pérez,Centre-Forward,30,7000000.0,06/07/2023
+ES1,2023,Real Betis Balompié,Borja Iglesias,Centre-Forward,31,5000000.0,14/08/2019
+ES1,2023,Real Betis Balompié,Willian José,Centre-Forward,32,5000000.0,01/07/2022
+ES1,2023,Real Betis Balompié,Chimy Ávila,Centre-Forward,30,3000000.0,01/02/2024
+ES1,2023,Real Betis Balompié,Cédric Bakambu,Centre-Forward,33,2500000.0,01/02/2024
+ES1,2023,Celta de Vigo,Iván Villar,Goalkeeper,26,1200000.0,01/07/2019
+ES1,2023,Celta de Vigo,Agustín Marchesín,Goalkeeper,36,800000.0,01/08/2022
+ES1,2023,Celta de Vigo,Vicente Guaita,Goalkeeper,37,800000.0,01/09/2023
+ES1,2023,Celta de Vigo,Coke Carrillo,Goalkeeper,22,200000.0,
+ES1,2023,Celta de Vigo,César Fernández,Goalkeeper,20,200000.0,
+ES1,2023,Celta de Vigo,Ruly García,Goalkeeper,24,150000.0,
+ES1,2023,Celta de Vigo,Unai Núñez,Centre-Back,27,7000000.0,01/07/2024
+ES1,2023,Celta de Vigo,Carl Starfelt,Centre-Back,29,6000000.0,10/08/2023
+ES1,2023,Celta de Vigo,Joseph Aidoo,Centre-Back,28,4000000.0,11/07/2019
+ES1,2023,Celta de Vigo,Carlos Domínguez,Centre-Back,23,3000000.0,01/01/2023
+ES1,2023,Celta de Vigo,Javi Rodríguez,Centre-Back,21,250000.0,01/07/2024
+ES1,2023,Celta de Vigo,Yoel Lago,Centre-Back,20,200000.0,01/07/2025
+ES1,2023,Celta de Vigo,Javi Domínguez,Centre-Back,23,150000.0,
+ES1,2023,Celta de Vigo,Manu Sánchez,Left-Back,23,8000000.0,03/07/2023
+ES1,2023,Celta de Vigo,Mihailo Ristic,Left-Back,28,1000000.0,01/09/2023
+ES1,2023,Celta de Vigo,Joel López,Left-Back,22,200000.0,
+ES1,2023,Celta de Vigo,Óscar Mingueza,Right-Back,25,8000000.0,30/07/2022
+ES1,2023,Celta de Vigo,Javier Manquillo,Right-Back,30,1800000.0,21/01/2024
+ES1,2023,Celta de Vigo,Kevin Vázquez,Right-Back,31,800000.0,01/07/2018
+ES1,2023,Celta de Vigo,Javi Rueda,Right-Back,22,250000.0,01/07/2024
+ES1,2023,Celta de Vigo,Renato Tapia,Defensive Midfield,28,5000000.0,04/08/2020
+ES1,2023,Celta de Vigo,Jailson,Defensive Midfield,28,1500000.0,01/01/2024
+ES1,2023,Celta de Vigo,Damián Rodríguez,Defensive Midfield,21,500000.0,18/07/2024
+ES1,2023,Celta de Vigo,Fran Beltrán,Central Midfield,25,6000000.0,01/08/2018
+ES1,2023,Celta de Vigo,Luca de la Torre,Central Midfield,26,3000000.0,08/07/2022
+ES1,2023,Celta de Vigo,Hugo Sotelo,Central Midfield,20,2500000.0,01/07/2023
+ES1,2023,Celta de Vigo,Carlos Dotor,Central Midfield,23,2000000.0,20/07/2023
+ES1,2023,Celta de Vigo,Gabri Veiga,Attacking Midfield,22,25000000.0,01/07/2022
+ES1,2023,Celta de Vigo,Jonathan Bamba,Left Winger,28,9000000.0,18/07/2023
+ES1,2023,Celta de Vigo,Williot Swedberg,Left Winger,20,5000000.0,01/07/2022
+ES1,2023,Celta de Vigo,Hugo Álvarez,Left Winger,20,1500000.0,18/07/2024
+ES1,2023,Celta de Vigo,Franco Cervi,Left Winger,30,1500000.0,05/07/2021
+ES1,2023,Celta de Vigo,Tadeo Allende,Right Winger,25,4000000.0,31/01/2024
+ES1,2023,Celta de Vigo,Carles Pérez,Right Winger,26,2500000.0,01/07/2023
+ES1,2023,Celta de Vigo,Miguel Rodríguez,Right Winger,21,800000.0,01/01/2023
+ES1,2023,Celta de Vigo,Jørgen Strand Larsen,Centre-Forward,24,25000000.0,01/09/2022
+ES1,2023,Celta de Vigo,Anastasios Douvikas,Centre-Forward,24,6000000.0,28/08/2023
+ES1,2023,Celta de Vigo,Iago Aspas,Centre-Forward,36,3000000.0,07/07/2015
+ES1,2023,Celta de Vigo,Gonçalo Paciência,Centre-Forward,29,1500000.0,06/08/2022
+ES1,2023,Granada CF,Augusto Batalla,Goalkeeper,28,5000000.0,03/01/2024
+ES1,2023,Granada CF,André Ferreira,Goalkeeper,28,800000.0,20/07/2022
+ES1,2023,Granada CF,Marc Martínez,Goalkeeper,34,300000.0,28/01/2024
+ES1,2023,Granada CF,Adri López,Goalkeeper,25,200000.0,
+ES1,2023,Granada CF,Raúl Fernández,Goalkeeper,36,200000.0,18/07/2022
+ES1,2023,Granada CF,Pol Tristán,Goalkeeper,22,100000.0,
+ES1,2023,Granada CF,Fran Árbol,Goalkeeper,18,,
+ES1,2023,Granada CF,Bruno Méndez,Centre-Back,24,5000000.0,01/01/2024
+ES1,2023,Granada CF,Raúl Torrente,Centre-Back,22,3000000.0,01/01/2022
+ES1,2023,Granada CF,Kamil Piątkowski,Centre-Back,24,2500000.0,05/01/2024
+ES1,2023,Granada CF,Miguel Rubio,Centre-Back,26,1500000.0,26/07/2022
+ES1,2023,Granada CF,Ignasi Miquel,Centre-Back,31,1200000.0,26/07/2022
+ES1,2023,Granada CF,Jesús Vallejo,Centre-Back,27,1000000.0,15/07/2023
+ES1,2023,Granada CF,Miki Bosch,Centre-Back,23,100000.0,
+ES1,2023,Granada CF,Álvaro Carreras,Left-Back,21,7000000.0,01/09/2023
+ES1,2023,Granada CF,Faitout Maouassa,Left-Back,25,4000000.0,25/01/2024
+ES1,2023,Granada CF,Carlos Neva,Left-Back,28,2500000.0,15/08/2019
+ES1,2023,Granada CF,Miguel Ángel Brau,Left-Back,22,150000.0,01/07/2024
+ES1,2023,Granada CF,Ricard Sánchez,Right-Back,24,2500000.0,30/08/2021
+ES1,2023,Granada CF,Wilson Manafá,Right-Back,29,1300000.0,07/08/2023
+ES1,2023,Granada CF,Víctor Díaz,Right-Back,36,400000.0,04/07/2017
+ES1,2023,Granada CF,Gerard Gumbau,Defensive Midfield,29,3000000.0,27/07/2023
+ES1,2023,Granada CF,Martin Hongla,Defensive Midfield,26,2500000.0,12/01/2024
+ES1,2023,Granada CF,Njegos Petrovic,Defensive Midfield,24,2500000.0,29/01/2022
+ES1,2023,Granada CF,Gonzalo Villar,Central Midfield,26,3000000.0,04/08/2023
+ES1,2023,Granada CF,Sergio Ruiz,Central Midfield,29,2000000.0,09/08/2022
+ES1,2023,Granada CF,Lass Sangaré,Central Midfield,22,150000.0,
+ES1,2023,Granada CF,Óscar Melendo,Attacking Midfield,26,2000000.0,06/08/2022
+ES1,2023,Granada CF,Alberto Soro,Attacking Midfield,25,700000.0,01/09/2020
+ES1,2023,Granada CF,Mario González,Attacking Midfield,20,150000.0,
+ES1,2023,Granada CF,Bryan Zaragoza,Left Winger,22,12000000.0,01/07/2022
+ES1,2023,Granada CF,Myrto Uzuni,Left Winger,29,8000000.0,31/01/2022
+ES1,2023,Granada CF,Kamil Jóźwiak,Left Winger,26,2000000.0,01/02/2024
+ES1,2023,Granada CF,Alberto Perea,Left Winger,33,450000.0,01/09/2022
+ES1,2023,Granada CF,Sergio Rodelas,Left Winger,19,200000.0,01/11/2024
+ES1,2023,Granada CF,Facundo Pellistri,Right Winger,22,8000000.0,01/02/2024
+ES1,2023,Granada CF,Antonio Puertas,Right Winger,32,2000000.0,01/07/2017
+ES1,2023,Granada CF,Theo Corbeanu,Right Winger,22,1500000.0,01/02/2024
+ES1,2023,Granada CF,José Callejón,Right Winger,37,800000.0,25/07/2022
+ES1,2023,Granada CF,Pablo Sáenz,Right Winger,23,150000.0,01/07/2024
+ES1,2023,Granada CF,Samu Aghehowa,Centre-Forward,20,35000000.0,01/07/2023
+ES1,2023,Granada CF,Lucas Boyé,Centre-Forward,28,7000000.0,30/08/2023
+ES1,2023,Granada CF,Matías Arezo,Centre-Forward,21,7000000.0,31/01/2022
+ES1,2023,Granada CF,Shon Weissman,Centre-Forward,28,1700000.0,01/07/2023
+ES1,2023,Granada CF,Famara Diédhiou,Centre-Forward,31,500000.0,01/07/2023
+ES1,2023,Granada CF,Eghosa Bello,Centre-Forward,20,50000.0,
+ES1,2023,Getafe CF,David Soria,Goalkeeper,31,5000000.0,13/07/2018
+ES1,2023,Getafe CF,Daniel Fuzato,Goalkeeper,26,900000.0,05/07/2023
+ES1,2023,Getafe CF,Jorge Benito,Goalkeeper,18,25000.0,
+ES1,2023,Getafe CF,Djordjije Medenica,Goalkeeper,17,,
+ES1,2023,Getafe CF,Gastón Álvarez,Centre-Back,24,15000000.0,01/07/2023
+ES1,2023,Getafe CF,Omar Alderete,Centre-Back,27,5000000.0,01/07/2023
+ES1,2023,Getafe CF,Dakonam Djené,Centre-Back,32,2500000.0,24/07/2017
+ES1,2023,Getafe CF,Domingos Duarte,Centre-Back,29,2000000.0,11/07/2022
+ES1,2023,Getafe CF,Stefan Mitrovic,Centre-Back,34,1300000.0,06/07/2021
+ES1,2023,Getafe CF,Nabil Aberdin,Centre-Back,21,100000.0,01/07/2024
+ES1,2023,Getafe CF,Sergio Gimeno,Centre-Back,23,50000.0,
+ES1,2023,Getafe CF,Diego Rico,Left-Back,31,1500000.0,16/07/2024
+ES1,2023,Getafe CF,Fabrizio Angileri,Left-Back,30,1000000.0,14/07/2022
+ES1,2023,Getafe CF,Jordi Martín,Left-Back,23,600000.0,
+ES1,2023,Getafe CF,Gorka Rivera,Left-Back,19,100000.0,
+ES1,2023,Getafe CF,Alejandro Herranz,Left-Back,19,25000.0,
+ES1,2023,Getafe CF,José Ángel Carmona,Right-Back,22,3500000.0,20/07/2023
+ES1,2023,Getafe CF,Juan Iglesias,Right-Back,25,2500000.0,01/07/2021
+ES1,2023,Getafe CF,Damián Suárez,Right-Back,36,650000.0,08/07/2015
+ES1,2023,Getafe CF,Nemanja Maksimovic,Central Midfield,29,6000000.0,16/07/2018
+ES1,2023,Getafe CF,Mauro Arambarri,Central Midfield,28,5000000.0,01/07/2018
+ES1,2023,Getafe CF,Luis Milla,Central Midfield,29,3500000.0,25/07/2022
+ES1,2023,Getafe CF,Carles Aleñá,Central Midfield,26,3000000.0,10/07/2021
+ES1,2023,Getafe CF,Ilaix Moriba,Central Midfield,21,3000000.0,08/01/2024
+ES1,2023,Getafe CF,Yellu Santiago,Central Midfield,20,1000000.0,10/01/2024
+ES1,2023,Getafe CF,John Patrick,Central Midfield,20,200000.0,
+ES1,2023,Getafe CF,Facu Esnáider,Central Midfield,22,100000.0,
+ES1,2023,Getafe CF,Óscar Rodríguez,Attacking Midfield,26,2500000.0,01/09/2023
+ES1,2023,Getafe CF,Santi García,Attacking Midfield,22,200000.0,
+ES1,2023,Getafe CF,Diego López,Attacking Midfield,22,100000.0,
+ES1,2023,Getafe CF,Alberto Risco,Attacking Midfield,18,,
+ES1,2023,Getafe CF,Jeremy Jorge,Left Winger,21,200000.0,
+ES1,2023,Getafe CF,Yassin Tallal,Left Winger,19,50000.0,
+ES1,2023,Getafe CF,Mason Greenwood,Right Winger,22,25000000.0,01/09/2023
+ES1,2023,Getafe CF,Portu,Right Winger,32,3500000.0,01/07/2023
+ES1,2023,Getafe CF,Enes Ünal,Centre-Forward,27,18000000.0,13/08/2026
+ES1,2023,Getafe CF,Borja Mayoral,Centre-Forward,27,15000000.0,01/08/2022
+ES1,2023,Getafe CF,Juanmi Latasa,Centre-Forward,23,2800000.0,26/08/2022
+ES1,2023,Getafe CF,Choco Lozano,Centre-Forward,31,1200000.0,01/07/2023
+ES1,2023,Getafe CF,Jaime Mata,Centre-Forward,35,900000.0,01/07/2018
+ES1,2023,Deportivo Alavés,Antonio Sivera,Goalkeeper,27,6000000.0,19/07/2017
+ES1,2023,Deportivo Alavés,Jesús Owono,Goalkeeper,23,1000000.0,01/07/2022
+ES1,2023,Deportivo Alavés,Adrián Rodríguez,Goalkeeper,23,150000.0,01/07/2024
+ES1,2023,Deportivo Alavés,Gaizka García,Goalkeeper,19,100000.0,
+ES1,2023,Deportivo Alavés,Rubén Montero,Goalkeeper,18,,
+ES1,2023,Deportivo Alavés,Abdel Abqar,Centre-Back,25,7500000.0,01/07/2022
+ES1,2023,Deportivo Alavés,Rafa Marín,Centre-Back,22,7500000.0,28/07/2023
+ES1,2023,Deportivo Alavés,Rubén Duarte,Centre-Back,28,3000000.0,01/07/2017
+ES1,2023,Deportivo Alavés,Nikola Maras,Centre-Back,28,1200000.0,01/07/2023
+ES1,2023,Deportivo Alavés,Aleksandar Sedlar,Centre-Back,32,400000.0,05/07/2022
+ES1,2023,Deportivo Alavés,Álvaro García,Centre-Back,18,150000.0,
+ES1,2023,Deportivo Alavés,Javi López,Left-Back,22,7500000.0,04/08/2020
+ES1,2023,Deportivo Alavés,Victor Parada,Left-Back,22,200000.0,01/07/2024
+ES1,2023,Deportivo Alavés,Eneko Ortiz,Left-Back,21,150000.0,
+ES1,2023,Deportivo Alavés,Andoni Gorosabel,Right-Back,27,5000000.0,11/08/2023
+ES1,2023,Deportivo Alavés,Nahuel Tenaglia,Right-Back,28,2000000.0,20/08/2023
+ES1,2023,Deportivo Alavés,Egoitz Muñoz,Right-Back,20,200000.0,01/07/2026
+ES1,2023,Deportivo Alavés,Joseda Álvarez,Right-Back,23,100000.0,
+ES1,2023,Deportivo Alavés,Antonio Blanco,Defensive Midfield,23,7500000.0,25/07/2023
+ES1,2023,Deportivo Alavés,Carlos Protesoni,Defensive Midfield,26,1500000.0,01/07/2022
+ES1,2023,Deportivo Alavés,Tomás Mendes,Defensive Midfield,19,200000.0,01/07/2025
+ES1,2023,Deportivo Alavés,Ander Guevara,Central Midfield,26,5000000.0,09/07/2023
+ES1,2023,Deportivo Alavés,Jon Guridi,Central Midfield,29,4000000.0,11/07/2022
+ES1,2023,Deportivo Alavés,Selu Diallo,Central Midfield,20,200000.0,01/07/2025
+ES1,2023,Deportivo Alavés,Ianis Hagi,Attacking Midfield,25,2000000.0,27/08/2023
+ES1,2023,Deportivo Alavés,Ander Sánchez,Attacking Midfield,20,100000.0,
+ES1,2023,Deportivo Alavés,Abde Rebbach,Left Winger,25,800000.0,01/07/2022
+ES1,2023,Deportivo Alavés,José de León,Left Winger,20,200000.0,
+ES1,2023,Deportivo Alavés,Álex Sola,Right Winger,25,4000000.0,01/09/2023
+ES1,2023,Deportivo Alavés,Luis Rioja,Right Winger,30,4000000.0,01/07/2019
+ES1,2023,Deportivo Alavés,Carlos Vicente,Right Winger,25,4000000.0,01/01/2024
+ES1,2023,Deportivo Alavés,Giuliano Simeone,Right Winger,21,3000000.0,21/07/2023
+ES1,2023,Deportivo Alavés,Xeber Alkain,Right Winger,27,1500000.0,01/07/2022
+ES1,2023,Deportivo Alavés,Unai Ropero,Right Winger,22,500000.0,01/07/2024
+ES1,2023,Deportivo Alavés,Samu Aghehowa,Centre-Forward,20,35000000.0,26/08/2023
+ES1,2023,Deportivo Alavés,Miguel de la Fuente,Centre-Forward,24,2500000.0,23/08/2021
+ES1,2023,Deportivo Alavés,Jon Karrikaburu,Centre-Forward,21,2500000.0,01/09/2023
+ES1,2023,Deportivo Alavés,Mamadou Sylla,Centre-Forward,30,1500000.0,20/08/2021
+ES1,2023,Deportivo Alavés,Kike García,Centre-Forward,34,1000000.0,13/08/2023
+ES1,2023,Deportivo Alavés,Joaquín Panichelli,Centre-Forward,21,300000.0,01/07/2024
+ES1,2023,Deportivo Alavés,Giorgi Gagua,Centre-Forward,22,250000.0,
+ES1,2023,UD Las Palmas,Álvaro Valles,Goalkeeper,26,12000000.0,01/07/2019
+ES1,2023,UD Las Palmas,Aarón Escandell,Goalkeeper,28,1000000.0,24/07/2023
+ES1,2023,UD Las Palmas,Ale Gorrin,Goalkeeper,21,,
+ES1,2023,UD Las Palmas,Álvaro Killane,Goalkeeper,19,,
+ES1,2023,UD Las Palmas,Mika Mármol,Centre-Back,22,15000000.0,11/08/2023
+ES1,2023,UD Las Palmas,Saúl Coco,Centre-Back,25,8000000.0,01/07/2021
+ES1,2023,UD Las Palmas,Álex Suárez,Centre-Back,31,1200000.0,01/07/2019
+ES1,2023,UD Las Palmas,Juanma Herzog,Centre-Back,20,1000000.0,01/07/2024
+ES1,2023,UD Las Palmas,Eric Curbelo,Centre-Back,30,800000.0,02/01/2019
+ES1,2023,UD Las Palmas,Sergi Cardona,Left-Back,24,6000000.0,01/07/2021
+ES1,2023,UD Las Palmas,Daley Sinkgraven,Left-Back,28,1000000.0,11/07/2023
+ES1,2023,UD Las Palmas,Gabriel Palmero,Left-Back,22,,
+ES1,2023,UD Las Palmas,Julián Araujo,Right-Back,22,8000000.0,01/08/2023
+ES1,2023,UD Las Palmas,Marvin Park,Right-Back,23,2000000.0,01/07/2024
+ES1,2023,UD Las Palmas,Álvaro Lemos,Right-Back,31,700000.0,01/07/2018
+ES1,2023,UD Las Palmas,Máximo Perrone,Defensive Midfield,21,9000000.0,23/08/2023
+ES1,2023,UD Las Palmas,Enzo Loiodice,Central Midfield,23,4000000.0,18/08/2020
+ES1,2023,UD Las Palmas,Javi Muñoz,Central Midfield,29,3000000.0,01/07/2023
+ES1,2023,UD Las Palmas,José Campaña,Central Midfield,31,1500000.0,14/02/2024
+ES1,2023,UD Las Palmas,Nuke Mfulu,Central Midfield,30,700000.0,02/08/2021
+ES1,2023,UD Las Palmas,Fabio González,Central Midfield,27,500000.0,01/07/2019
+ES1,2023,UD Las Palmas,Iñaki González,Central Midfield,19,,01/07/2025
+ES1,2023,UD Las Palmas,Aboubacar Bassinga,Central Midfield,18,,01/07/2025
+ES1,2023,UD Las Palmas,Kirian Rodríguez,Attacking Midfield,28,12000000.0,01/07/2019
+ES1,2023,UD Las Palmas,Jonathan Viera,Attacking Midfield,34,1000000.0,12/07/2025
+ES1,2023,UD Las Palmas,Yadam Santana,Attacking Midfield,22,,
+ES1,2023,UD Las Palmas,Alberto Moleiro,Left Winger,20,15000000.0,01/07/2021
+ES1,2023,UD Las Palmas,Benito Ramírez,Left Winger,28,600000.0,01/07/2018
+ES1,2023,UD Las Palmas,Munir El Haddadi,Right Winger,28,2500000.0,30/07/2023
+ES1,2023,UD Las Palmas,Pejiño,Right Winger,27,1200000.0,27/08/2020
+ES1,2023,UD Las Palmas,Sandro Ramírez,Centre-Forward,28,1500000.0,01/07/2023
+ES1,2023,UD Las Palmas,Sory Kaba,Centre-Forward,28,1500000.0,17/08/2023
+ES1,2023,UD Las Palmas,Marc Cardona,Centre-Forward,28,1400000.0,07/07/2022
+ES1,2023,UD Las Palmas,Cristian Herrera,Centre-Forward,33,300000.0,01/07/2023
+ES1,2023,UD Las Palmas,Pau Ferrer,Centre-Forward,20,,
+ES1,2023,CA Osasuna,Sergio Herrera,Goalkeeper,31,6000000.0,12/07/2017
+ES1,2023,CA Osasuna,Aitor Fernández,Goalkeeper,33,1800000.0,02/07/2022
+ES1,2023,CA Osasuna,Pablo Valencia,Goalkeeper,23,200000.0,
+ES1,2023,CA Osasuna,Dimitrios Stamatakis,Goalkeeper,21,200000.0,
+ES1,2023,CA Osasuna,David García,Centre-Back,30,10000000.0,01/01/2015
+ES1,2023,CA Osasuna,Jorge Herrando,Centre-Back,23,6000000.0,01/07/2023
+ES1,2023,CA Osasuna,Alejandro Catena,Centre-Back,29,4000000.0,01/07/2023
+ES1,2023,CA Osasuna,Unai García,Centre-Back,32,1200000.0,01/07/2015
+ES1,2023,CA Osasuna,Jorge Moreno,Centre-Back,22,500000.0,
+ES1,2023,CA Osasuna,Juan Cruz,Left-Back,31,2200000.0,30/08/2020
+ES1,2023,CA Osasuna,Johan Mojica,Left-Back,31,2200000.0,26/07/2023
+ES1,2023,CA Osasuna,Jesús Areso,Right-Back,24,7500000.0,01/07/2021
+ES1,2023,CA Osasuna,Rubén Peña,Right-Back,32,2200000.0,01/07/2022
+ES1,2023,CA Osasuna,Nacho Vidal,Right-Back,29,2000000.0,13/07/2018
+ES1,2023,CA Osasuna,Iñigo Arguibide,Right-Back,19,150000.0,01/01/2026
+ES1,2023,CA Osasuna,Iker Muñoz,Defensive Midfield,21,5000000.0,01/07/2023
+ES1,2023,CA Osasuna,Lucas Torró,Defensive Midfield,29,4000000.0,04/08/2020
+ES1,2023,CA Osasuna,Jon Moncayola,Central Midfield,26,7000000.0,01/07/2019
+ES1,2023,CA Osasuna,Pablo Ibáñez,Central Midfield,25,2500000.0,01/07/2022
+ES1,2023,CA Osasuna,Darko Brasanac,Central Midfield,32,1400000.0,22/07/2019
+ES1,2023,CA Osasuna,Asier Osambela,Central Midfield,19,500000.0,01/07/2025
+ES1,2023,CA Osasuna,Aimar Oroz,Attacking Midfield,22,15000000.0,01/07/2022
+ES1,2023,CA Osasuna,Moi Gómez,Attacking Midfield,30,3500000.0,28/07/2022
+ES1,2023,CA Osasuna,Javi Martínez,Attacking Midfield,24,1200000.0,01/07/2021
+ES1,2023,CA Osasuna,Xabi Huarte,Attacking Midfield,23,200000.0,
+ES1,2023,CA Osasuna,José Manuel Arnáiz,Left Winger,29,2000000.0,01/07/2023
+ES1,2023,CA Osasuna,Rubén García,Right Winger,30,2500000.0,01/07/2019
+ES1,2023,CA Osasuna,Kike Barja,Right Winger,27,2000000.0,01/01/2018
+ES1,2023,CA Osasuna,Ante Budimir,Centre-Forward,32,5000000.0,01/07/2021
+ES1,2023,CA Osasuna,Raúl García,Centre-Forward,23,4000000.0,10/08/2023
+ES1,2023,CA Osasuna,Chimy Ávila,Centre-Forward,30,3000000.0,01/07/2019
+ES1,2023,CA Osasuna,Max Svensson,Centre-Forward,22,400000.0,
+ES1,2023,UD Almería,Luís Maximiano,Goalkeeper,25,5000000.0,01/07/2024
+ES1,2023,UD Almería,Fernando Martínez,Goalkeeper,34,700000.0,05/07/2017
+ES1,2023,UD Almería,Diego Mariño,Goalkeeper,34,300000.0,26/01/2023
+ES1,2023,UD Almería,Bruno Iribarne,Goalkeeper,19,,01/07/2025
+ES1,2023,UD Almería,Srdjan Babic,Centre-Back,28,4000000.0,01/07/2022
+ES1,2023,UD Almería,Marc Pubill,Centre-Back,21,4000000.0,09/08/2023
+ES1,2023,UD Almería,Edgar González,Centre-Back,27,3000000.0,06/07/2023
+ES1,2023,UD Almería,César Montes,Centre-Back,27,3000000.0,01/09/2023
+ES1,2023,UD Almería,Kaiky,Centre-Back,20,2000000.0,19/07/2022
+ES1,2023,UD Almería,Chumi,Centre-Back,25,2000000.0,10/09/2020
+ES1,2023,UD Almería,Aleksandar Radovanovic,Centre-Back,30,900000.0,20/01/2024
+ES1,2023,UD Almería,Paco Sanz,Centre-Back,19,,
+ES1,2023,UD Almería,Sergio Akieme,Left-Back,26,7000000.0,07/07/2021
+ES1,2023,UD Almería,Bruno Langa,Left-Back,26,1500000.0,01/07/2024
+ES1,2023,UD Almería,Álex Centelles,Left-Back,24,1200000.0,02/10/2020
+ES1,2023,UD Almería,Arvin Appiah,Left-Back,23,400000.0,02/09/2019
+ES1,2023,UD Almería,Houboulang Mendes,Right-Back,26,700000.0,06/07/2022
+ES1,2023,UD Almería,Miguel Peña,Right-Back,23,,
+ES1,2023,UD Almería,Carlos Ballestero,Right-Back,20,,
+ES1,2023,UD Almería,Dion Lopy,Defensive Midfield,22,10000000.0,05/08/2023
+ES1,2023,UD Almería,Lucas Robertone,Central Midfield,27,7000000.0,01/10/2020
+ES1,2023,UD Almería,Iddrisu Baba,Central Midfield,28,2200000.0,04/07/2024
+ES1,2023,UD Almería,Gonzalo Melero,Central Midfield,30,1800000.0,01/09/2022
+ES1,2023,UD Almería,Marcos Peña,Central Midfield,19,1000000.0,01/07/2024
+ES1,2023,UD Almería,Gui Guedes,Central Midfield,22,900000.0,01/07/2022
+ES1,2023,UD Almería,Martin Svidersky,Central Midfield,21,300000.0,
+ES1,2023,UD Almería,Sergio Arribas,Attacking Midfield,22,10000000.0,09/08/2023
+ES1,2023,UD Almería,Jonathan Viera,Attacking Midfield,34,1000000.0,06/02/2024
+ES1,2023,UD Almería,Largie Ramazani,Left Winger,23,5000000.0,24/08/2020
+ES1,2023,UD Almería,Luka Romero,Right Winger,19,5000000.0,22/01/2024
+ES1,2023,UD Almería,Álex Pozo,Right Winger,25,2000000.0,01/07/2022
+ES1,2023,UD Almería,Arnau Puigmal,Right Winger,23,1800000.0,09/07/2021
+ES1,2023,UD Almería,Adrián Embarba,Right Winger,32,1800000.0,24/08/2022
+ES1,2023,UD Almería,Léo Baptistão,Right Winger,31,1500000.0,11/08/2022
+ES1,2023,UD Almería,Luis Suárez,Centre-Forward,26,3500000.0,01/07/2023
+ES1,2023,UD Almería,Lázaro,Centre-Forward,22,3500000.0,01/09/2022
+ES1,2023,UD Almería,Ibrahima Koné,Centre-Forward,25,2500000.0,16/08/2023
+ES1,2023,UD Almería,Choco Lozano,Centre-Forward,31,1200000.0,01/02/2024
+ES1,2023,UD Almería,Marko Milovanović,Centre-Forward,20,900000.0,11/07/2022
+ES1,2023,UD Almería,Marciano Sanca,Centre-Forward,20,800000.0,01/10/2023
+ES1,2023,UD Almería,Rachad Fettal,Centre-Forward,19,,01/07/2024
+ES1,2023,RCD Mallorca,Predrag Rajković,Goalkeeper,28,10000000.0,22/07/2022
+ES1,2023,RCD Mallorca,Dominik Greif,Goalkeeper,27,2500000.0,06/07/2021
+ES1,2023,RCD Mallorca,Iván Cuéllar,Goalkeeper,40,100000.0,28/08/2023
+ES1,2023,RCD Mallorca,Pere García,Goalkeeper,22,50000.0,
+ES1,2023,RCD Mallorca,Alex Quevedo,Goalkeeper,20,,
+ES1,2023,RCD Mallorca,Martin Valjent,Centre-Back,28,6000000.0,01/07/2019
+ES1,2023,RCD Mallorca,José Copete,Centre-Back,24,2800000.0,01/07/2022
+ES1,2023,RCD Mallorca,Siebe Van der Heyden,Centre-Back,26,2000000.0,18/07/2023
+ES1,2023,RCD Mallorca,Antonio Raíllo,Centre-Back,32,2000000.0,01/07/2016
+ES1,2023,RCD Mallorca,Matija Nastasić,Centre-Back,31,1500000.0,01/09/2022
+ES1,2023,RCD Mallorca,David López,Centre-Back,21,100000.0,31/01/2024
+ES1,2023,RCD Mallorca,Toni Lato,Left-Back,26,3500000.0,01/07/2023
+ES1,2023,RCD Mallorca,Jaume Costa,Left-Back,36,900000.0,07/07/2021
+ES1,2023,RCD Mallorca,Marcos Fernández,Left-Back,20,50000.0,
+ES1,2023,RCD Mallorca,Pablo Maffeo,Right-Back,26,5000000.0,01/07/2022
+ES1,2023,RCD Mallorca,Giovanni González,Right-Back,29,3000000.0,29/01/2022
+ES1,2023,RCD Mallorca,Nacho Vidal,Right-Back,29,2000000.0,26/01/2024
+ES1,2023,RCD Mallorca,Carles Sogorb,Right-Back,18,,
+ES1,2023,RCD Mallorca,Yuzún Ley,Right-Back,20,,
+ES1,2023,RCD Mallorca,Samú Costa,Defensive Midfield,23,10000000.0,10/08/2023
+ES1,2023,RCD Mallorca,Omar Mascarell,Defensive Midfield,31,1000000.0,01/07/2023
+ES1,2023,RCD Mallorca,Sergi Darder,Central Midfield,30,6000000.0,11/08/2023
+ES1,2023,RCD Mallorca,Manu Morlanes,Central Midfield,25,2500000.0,01/07/2023
+ES1,2023,RCD Mallorca,Antonio Sánchez,Central Midfield,27,2500000.0,01/07/2018
+ES1,2023,RCD Mallorca,Rubén Quintanilla,Central Midfield,22,50000.0,
+ES1,2023,RCD Mallorca,Dani Rodríguez,Attacking Midfield,36,1000000.0,01/07/2018
+ES1,2023,RCD Mallorca,Nemanja Radonjic,Left Winger,28,2800000.0,31/01/2024
+ES1,2023,RCD Mallorca,Javi Llabrés,Left Winger,21,700000.0,01/07/2022
+ES1,2023,RCD Mallorca,Amath Ndiaye,Right Winger,27,1500000.0,01/07/2021
+ES1,2023,RCD Mallorca,Daniel Luna,Right Winger,21,300000.0,01/07/2024
+ES1,2023,RCD Mallorca,Miguelito,Right Winger,23,50000.0,
+ES1,2023,RCD Mallorca,Vedat Muriqi,Centre-Forward,30,12000000.0,22/07/2022
+ES1,2023,RCD Mallorca,Cyle Larin,Centre-Forward,29,4000000.0,03/08/2023
+ES1,2023,RCD Mallorca,Abdón Prats,Centre-Forward,31,1800000.0,04/07/2017
+ES1,2023,RCD Mallorca,Pau Mascaró,Centre-Forward,19,,
+ES1,2023,Rayo Vallecano,Stole Dimitrievski,Goalkeeper,30,4000000.0,31/01/2019
+ES1,2023,Rayo Vallecano,Dani Cárdenas,Goalkeeper,27,1800000.0,18/08/2023
+ES1,2023,Rayo Vallecano,Miguel Ángel Morro,Goalkeeper,23,600000.0,01/08/2020
+ES1,2023,Rayo Vallecano,Florian Lejeune,Centre-Back,33,3000000.0,28/07/2023
+ES1,2023,Rayo Vallecano,Abdul Mumin,Centre-Back,26,2500000.0,01/09/2022
+ES1,2023,Rayo Vallecano,Aridane Hernández,Centre-Back,35,800000.0,05/07/2023
+ES1,2023,Rayo Vallecano,Jorge Moreno,Centre-Back,22,500000.0,01/07/2021
+ES1,2023,Rayo Vallecano,Martín Pascual,Centre-Back,24,300000.0,01/08/2020
+ES1,2023,Rayo Vallecano,Alfonso Espino,Left-Back,32,2400000.0,17/07/2023
+ES1,2023,Rayo Vallecano,Pep Chavarría,Left-Back,26,2000000.0,31/08/2022
+ES1,2023,Rayo Vallecano,Iván Balliu,Right-Back,32,2000000.0,14/07/2021
+ES1,2023,Rayo Vallecano,Andrei Rațiu,Right-Back,26,1400000.0,26/08/2023
+ES1,2023,Rayo Vallecano,Miguel Crespo,Central Midfield,27,4000000.0,31/01/2024
+ES1,2023,Rayo Vallecano,Óscar Valentín,Central Midfield,29,4000000.0,01/07/2019
+ES1,2023,Rayo Vallecano,Kike Pérez,Central Midfield,27,3000000.0,10/08/2023
+ES1,2023,Rayo Vallecano,Unai López,Central Midfield,28,3000000.0,01/07/2022
+ES1,2023,Rayo Vallecano,Pathé Ciss,Central Midfield,30,2500000.0,28/07/2021
+ES1,2023,Rayo Vallecano,Diego Méndez,Central Midfield,20,,
+ES1,2023,Rayo Vallecano,Randy Nteka,Attacking Midfield,26,1500000.0,28/07/2021
+ES1,2023,Rayo Vallecano,José Pozo,Attacking Midfield,28,1000000.0,27/07/2018
+ES1,2023,Rayo Vallecano,Óscar Trejo,Attacking Midfield,36,1000000.0,01/07/2017
+ES1,2023,Rayo Vallecano,Álvaro García,Left Winger,31,3000000.0,23/08/2018
+ES1,2023,Rayo Vallecano,Bebé,Left Winger,33,600000.0,31/08/2018
+ES1,2023,Rayo Vallecano,Pablo Muñoz,Left Winger,20,50000.0,
+ES1,2023,Rayo Vallecano,Jorge de Frutos,Right Winger,27,4000000.0,17/08/2023
+ES1,2023,Rayo Vallecano,Salvi Sánchez,Right Winger,33,1200000.0,01/07/2022
+ES1,2023,Rayo Vallecano,Isi Palazón,Second Striker,29,8000000.0,23/01/2020
+ES1,2023,Rayo Vallecano,Sergio Camello,Centre-Forward,23,3000000.0,17/08/2023
+ES1,2023,Rayo Vallecano,Raúl de Tomás,Centre-Forward,29,2000000.0,13/09/2022
+ES1,2023,Rayo Vallecano,Radamel Falcao,Centre-Forward,38,800000.0,04/09/2021
+ES1,2023,Cádiz CF,Conan Ledesma,Goalkeeper,31,5000000.0,01/07/2021
+ES1,2023,Cádiz CF,David Gil,Goalkeeper,30,700000.0,01/07/2018
+ES1,2023,Cádiz CF,Victor Aznar,Goalkeeper,21,100000.0,01/07/2025
+ES1,2023,Cádiz CF,Nando Almodóvar,Goalkeeper,20,50000.0,
+ES1,2023,Cádiz CF,Fali,Centre-Back,30,2000000.0,01/07/2019
+ES1,2023,Cádiz CF,Víctor Chust,Centre-Back,24,2000000.0,06/07/2022
+ES1,2023,Cádiz CF,Aiham Ousou,Centre-Back,24,1800000.0,01/02/2024
+ES1,2023,Cádiz CF,Jorge Meré,Centre-Back,27,1000000.0,31/07/2023
+ES1,2023,Cádiz CF,Luis Hernández,Centre-Back,35,500000.0,31/01/2022
+ES1,2023,Cádiz CF,Momo Mbaye,Centre-Back,26,400000.0,09/08/2022
+ES1,2023,Cádiz CF,Álex Morata,Centre-Back,17,150000.0,
+ES1,2023,Cádiz CF,Adri Miranda,Centre-Back,21,100000.0,
+ES1,2023,Cádiz CF,Adrián Salguero,Centre-Back,21,100000.0,
+ES1,2023,Cádiz CF,Javi Hernández,Left-Back,26,2500000.0,05/07/2023
+ES1,2023,Cádiz CF,Lucas Pires,Left-Back,23,2000000.0,25/07/2023
+ES1,2023,Cádiz CF,Julio Cabrera,Left-Back,20,150000.0,
+ES1,2023,Cádiz CF,Iván Alejo,Right-Back,29,1500000.0,04/08/2020
+ES1,2023,Cádiz CF,Iza Carcelén,Right-Back,31,1500000.0,01/07/2019
+ES1,2023,Cádiz CF,Joseba Zaldua,Right-Back,32,900000.0,11/07/2022
+ES1,2023,Cádiz CF,Diadié Samassékou,Defensive Midfield,28,2000000.0,01/02/2024
+ES1,2023,Cádiz CF,José Mari,Defensive Midfield,36,200000.0,16/08/2016
+ES1,2023,Cádiz CF,Rominigue Kouamé,Central Midfield,27,2000000.0,01/09/2023
+ES1,2023,Cádiz CF,Rubén Alcaraz,Central Midfield,33,1500000.0,01/07/2022
+ES1,2023,Cádiz CF,Álex Fernández,Central Midfield,31,1500000.0,07/08/2017
+ES1,2023,Cádiz CF,Gonzalo Escalante,Central Midfield,31,1500000.0,01/07/2023
+ES1,2023,Cádiz CF,Fede San Emeterio,Central Midfield,27,1500000.0,07/08/2022
+ES1,2023,Cádiz CF,Álvaro Bastida,Central Midfield,20,300000.0,
+ES1,2023,Cádiz CF,Martín Calderón,Central Midfield,25,200000.0,27/07/2021
+ES1,2023,Cádiz CF,Moussa Diakité,Central Midfield,20,150000.0,01/01/2025
+ES1,2023,Cádiz CF,Juanmi,Left Winger,31,6000000.0,01/02/2024
+ES1,2023,Cádiz CF,Darwin Machís,Left Winger,31,2000000.0,01/07/2023
+ES1,2023,Cádiz CF,Brian Ocampo,Left Winger,25,900000.0,28/08/2022
+ES1,2023,Cádiz CF,Robert Navarro,Right Winger,22,6000000.0,01/09/2023
+ES1,2023,Cádiz CF,José Antonio de la Rosa,Right Winger,19,300000.0,01/08/2023
+ES1,2023,Cádiz CF,Nico Njalla,Right Winger,21,150000.0,
+ES1,2023,Cádiz CF,Chris Ramos,Centre-Forward,27,4000000.0,31/01/2023
+ES1,2023,Cádiz CF,Milutin Osmajic,Centre-Forward,24,2000000.0,10/07/2021
+ES1,2023,Cádiz CF,Maxi Gómez,Centre-Forward,27,2000000.0,22/08/2023
+ES1,2023,Cádiz CF,Rubén Sobrino,Centre-Forward,32,1400000.0,30/08/2021
+ES1,2023,Cádiz CF,Roger Martí,Centre-Forward,33,1200000.0,26/01/2023
+ES1,2023,Cádiz CF,Sergi Guardiola,Centre-Forward,33,800000.0,01/07/2023
+ES1,2023,Cádiz CF,Karl Etta Eyong,Centre-Forward,20,300000.0,
+ES1,2023,Cádiz CF,Álvaro Negredo,Centre-Forward,38,300000.0,04/08/2020
+ES1,2023,Cádiz CF,Borja Vázquez,Centre-Forward,19,50000.0,

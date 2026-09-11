@@ -1,0 +1,856 @@
+league,season,club,name,position,age,market_value_eur,contract_expiry
+GB1,2023,Manchester City,Ederson,Goalkeeper,30,35000000.0,01/07/2017
+GB1,2023,Manchester City,Stefan Ortega,Goalkeeper,31,9000000.0,01/07/2022
+GB1,2023,Manchester City,Zack Steffen,Goalkeeper,29,2000000.0,09/07/2019
+GB1,2023,Manchester City,True Grant,Goalkeeper,18,500000.0,
+GB1,2023,Manchester City,Scott Carson,Goalkeeper,38,200000.0,20/07/2021
+GB1,2023,Manchester City,Rúben Dias,Centre-Back,27,80000000.0,29/09/2020
+GB1,2023,Manchester City,Josko Gvardiol,Centre-Back,22,75000000.0,05/08/2023
+GB1,2023,Manchester City,Manuel Akanji,Centre-Back,28,45000000.0,01/09/2022
+GB1,2023,Manchester City,Nathan Aké,Centre-Back,29,40000000.0,05/08/2020
+GB1,2023,Manchester City,John Stones,Centre-Back,30,38000000.0,09/08/2016
+GB1,2023,Manchester City,Taylor Harwood-Bellis,Centre-Back,22,22000000.0,01/01/2021
+GB1,2023,Manchester City,Aymeric Laporte,Centre-Back,30,20000000.0,30/01/2018
+GB1,2023,Manchester City,Max Alleyne,Centre-Back,18,500000.0,06/01/2026
+GB1,2023,Manchester City,Sergio Gómez,Left-Back,23,10000000.0,16/08/2022
+GB1,2023,Manchester City,Josh Wilson-Esbrand,Left-Back,21,4000000.0,01/01/2023
+GB1,2023,Manchester City,Matheus Nunes,Right-Back,25,50000000.0,01/09/2023
+GB1,2023,Manchester City,Rico Lewis,Right-Back,19,38000000.0,01/07/2022
+GB1,2023,Manchester City,Kyle Walker,Right-Back,34,13000000.0,14/07/2017
+GB1,2023,Manchester City,Issa Kaboré,Right-Back,23,10000000.0,29/07/2020
+GB1,2023,Manchester City,Rodri,Defensive Midfield,28,120000000.0,04/07/2019
+GB1,2023,Manchester City,Kalvin Phillips,Defensive Midfield,28,25000000.0,04/07/2022
+GB1,2023,Manchester City,Máximo Perrone,Defensive Midfield,21,9000000.0,23/01/2023
+GB1,2023,Manchester City,Mahamadou Susoho,Defensive Midfield,19,1500000.0,
+GB1,2023,Manchester City,Jacob Wright,Defensive Midfield,18,800000.0,
+GB1,2023,Manchester City,Mateo Kovacic,Central Midfield,30,30000000.0,01/07/2023
+GB1,2023,Manchester City,Phil Foden,Attacking Midfield,24,150000000.0,01/07/2017
+GB1,2023,Manchester City,Cole Palmer,Attacking Midfield,22,80000000.0,01/07/2021
+GB1,2023,Manchester City,Bernardo Silva,Attacking Midfield,29,70000000.0,01/07/2017
+GB1,2023,Manchester City,Kevin De Bruyne,Attacking Midfield,33,50000000.0,30/08/2015
+GB1,2023,Manchester City,James McAtee,Attacking Midfield,21,12000000.0,01/07/2023
+GB1,2023,Manchester City,Jérémy Doku,Left Winger,22,65000000.0,24/08/2023
+GB1,2023,Manchester City,Jack Grealish,Left Winger,28,60000000.0,05/08/2021
+GB1,2023,Manchester City,Micah Hamilton,Left Winger,20,2000000.0,
+GB1,2023,Manchester City,Oscar Bobb,Right Winger,20,25000000.0,01/07/2023
+GB1,2023,Manchester City,Erling Haaland,Centre-Forward,23,180000000.0,01/07/2022
+GB1,2023,Manchester City,Julián Alvarez,Centre-Forward,24,90000000.0,31/01/2022
+GB1,2023,Arsenal FC,David Raya,Goalkeeper,28,35000000.0,04/07/2024
+GB1,2023,Arsenal FC,Aaron Ramsdale,Goalkeeper,26,25000000.0,20/08/2021
+GB1,2023,Arsenal FC,Matt Turner,Goalkeeper,30,7000000.0,01/07/2022
+GB1,2023,Arsenal FC,Karl Hein,Goalkeeper,22,2000000.0,01/07/2022
+GB1,2023,Arsenal FC,Arthur Okonkwo,Goalkeeper,22,1800000.0,01/07/2021
+GB1,2023,Arsenal FC,William Saliba,Centre-Back,23,80000000.0,25/07/2019
+GB1,2023,Arsenal FC,Gabriel,Centre-Back,26,70000000.0,01/09/2020
+GB1,2023,Arsenal FC,Takehiro Tomiyasu,Centre-Back,25,35000000.0,31/08/2021
+GB1,2023,Arsenal FC,Jakub Kiwior,Centre-Back,24,30000000.0,23/01/2023
+GB1,2023,Arsenal FC,Rob Holding,Centre-Back,28,5000000.0,22/07/2016
+GB1,2023,Arsenal FC,Ayden Heaven,Centre-Back,17,300000.0,
+GB1,2023,Arsenal FC,Oleksandr Zinchenko,Left-Back,27,38000000.0,22/07/2022
+GB1,2023,Arsenal FC,Kieran Tierney,Left-Back,27,12000000.0,08/08/2019
+GB1,2023,Arsenal FC,Lino Sousa,Left-Back,19,2000000.0,
+GB1,2023,Arsenal FC,Myles Lewis-Skelly,Left-Back,17,2000000.0,01/07/2024
+GB1,2023,Arsenal FC,Ben White,Right-Back,26,55000000.0,30/07/2021
+GB1,2023,Arsenal FC,Jurriën Timber,Right-Back,23,38000000.0,14/07/2023
+GB1,2023,Arsenal FC,Reuell Walters,Right-Back,19,4000000.0,
+GB1,2023,Arsenal FC,Cédric Soares,Right-Back,32,2000000.0,01/07/2020
+GB1,2023,Arsenal FC,James Sweet,Right-Back,20,250000.0,
+GB1,2023,Arsenal FC,Thomas Partey,Defensive Midfield,31,18000000.0,05/10/2020
+GB1,2023,Arsenal FC,Jorginho,Defensive Midfield,32,12000000.0,31/01/2023
+GB1,2023,Arsenal FC,Mohamed Elneny,Defensive Midfield,31,3500000.0,14/01/2016
+GB1,2023,Arsenal FC,Bradley Ibrahim,Defensive Midfield,19,400000.0,
+GB1,2023,Arsenal FC,Declan Rice,Central Midfield,25,120000000.0,15/07/2023
+GB1,2023,Arsenal FC,Albert Sambi Lokonga,Central Midfield,24,15000000.0,19/07/2021
+GB1,2023,Arsenal FC,Mauro Bandeira,Central Midfield,20,200000.0,
+GB1,2023,Arsenal FC,Martin Ødegaard,Attacking Midfield,25,110000000.0,20/08/2021
+GB1,2023,Arsenal FC,Emile Smith Rowe,Attacking Midfield,23,22000000.0,01/08/2020
+GB1,2023,Arsenal FC,Fábio Vieira,Attacking Midfield,24,22000000.0,01/07/2022
+GB1,2023,Arsenal FC,Ethan Nwaneri,Attacking Midfield,17,8000000.0,01/07/2024
+GB1,2023,Arsenal FC,Gabriel Martinelli,Left Winger,23,70000000.0,02/07/2019
+GB1,2023,Arsenal FC,Leandro Trossard,Left Winger,29,35000000.0,20/01/2023
+GB1,2023,Arsenal FC,Reiss Nelson,Left Winger,24,15000000.0,01/07/2019
+GB1,2023,Arsenal FC,Charles Sagoe Jr,Left Winger,19,600000.0,
+GB1,2023,Arsenal FC,Bukayo Saka,Right Winger,22,140000000.0,01/07/2019
+GB1,2023,Arsenal FC,Amario Cozier-Duberry,Right Winger,19,2000000.0,
+GB1,2023,Arsenal FC,Kai Havertz,Centre-Forward,25,70000000.0,01/07/2023
+GB1,2023,Arsenal FC,Gabriel Jesus,Centre-Forward,27,65000000.0,04/07/2022
+GB1,2023,Arsenal FC,Eddie Nketiah,Centre-Forward,25,30000000.0,01/01/2019
+GB1,2023,Chelsea FC,Robert Sánchez,Goalkeeper,26,20000000.0,05/08/2023
+GB1,2023,Chelsea FC,Djordje Petrovic,Goalkeeper,24,20000000.0,26/08/2023
+GB1,2023,Chelsea FC,Marcus Bettinelli,Goalkeeper,32,1000000.0,28/07/2021
+GB1,2023,Chelsea FC,Lucas Bergström,Goalkeeper,21,700000.0,01/07/2023
+GB1,2023,Chelsea FC,Teddy Sharman-Lowe,Goalkeeper,21,300000.0,19/01/2026
+GB1,2023,Chelsea FC,Eddie Beach,Goalkeeper,20,250000.0,
+GB1,2023,Chelsea FC,Max Merrick,Goalkeeper,18,,
+GB1,2023,Chelsea FC,Ted Curd,Goalkeeper,18,,
+GB1,2023,Chelsea FC,Levi Colwill,Centre-Back,21,50000000.0,01/07/2022
+GB1,2023,Chelsea FC,Axel Disasi,Centre-Back,26,40000000.0,04/08/2023
+GB1,2023,Chelsea FC,Benoît Badiashile,Centre-Back,23,30000000.0,05/01/2023
+GB1,2023,Chelsea FC,Wesley Fofana,Centre-Back,23,25000000.0,31/08/2022
+GB1,2023,Chelsea FC,Trevoh Chalobah,Centre-Back,24,13000000.0,01/07/2021
+GB1,2023,Chelsea FC,Bashir Humphreys,Centre-Back,21,4800000.0,01/07/2024
+GB1,2023,Chelsea FC,Malang Sarr,Centre-Back,25,4000000.0,27/08/2020
+GB1,2023,Chelsea FC,Thiago Silva,Centre-Back,39,1000000.0,28/08/2020
+GB1,2023,Chelsea FC,Josh Brooking,Centre-Back,21,500000.0,
+GB1,2023,Chelsea FC,Harrison Murray-Campbell,Centre-Back,17,250000.0,
+GB1,2023,Chelsea FC,Billy Gee,Centre-Back,18,,
+GB1,2023,Chelsea FC,Ian Maatsen,Left-Back,22,40000000.0,01/07/2023
+GB1,2023,Chelsea FC,Ben Chilwell,Left-Back,27,28000000.0,26/08/2020
+GB1,2023,Chelsea FC,Marc Cucurella,Left-Back,25,25000000.0,05/08/2022
+GB1,2023,Chelsea FC,Ishé Samuels-Smith,Left-Back,18,500000.0,
+GB1,2023,Chelsea FC,Zak Sturge,Left-Back,20,250000.0,
+GB1,2023,Chelsea FC,Dylan Williams,Left-Back,20,200000.0,
+GB1,2023,Chelsea FC,Reece James,Right-Back,24,40000000.0,01/07/2019
+GB1,2023,Chelsea FC,Malo Gusto,Right-Back,21,35000000.0,29/01/2023
+GB1,2023,Chelsea FC,Alfie Gilchrist,Right-Back,20,5000000.0,01/07/2023
+GB1,2023,Chelsea FC,Josh Acheampong,Right-Back,18,300000.0,18/12/2024
+GB1,2023,Chelsea FC,Moisés Caicedo,Defensive Midfield,22,75000000.0,14/08/2023
+GB1,2023,Chelsea FC,Roméo Lavia,Defensive Midfield,20,35000000.0,18/08/2023
+GB1,2023,Chelsea FC,Lesley Ugochukwu,Defensive Midfield,20,25000000.0,01/08/2023
+GB1,2023,Chelsea FC,Andrey Santos,Defensive Midfield,20,15000000.0,01/01/2023
+GB1,2023,Chelsea FC,Ollie Harrison,Defensive Midfield,16,,
+GB1,2023,Chelsea FC,Enzo Fernández,Central Midfield,23,75000000.0,31/01/2023
+GB1,2023,Chelsea FC,Conor Gallagher,Central Midfield,24,50000000.0,01/07/2022
+GB1,2023,Chelsea FC,Carney Chukwuemeka,Central Midfield,20,15000000.0,04/08/2022
+GB1,2023,Chelsea FC,Cesare Casadei,Central Midfield,21,10000000.0,19/08/2022
+GB1,2023,Chelsea FC,Alex Matos,Central Midfield,19,1200000.0,
+GB1,2023,Chelsea FC,Michael Golding,Central Midfield,18,300000.0,
+GB1,2023,Chelsea FC,Jimi Tauriainen,Central Midfield,20,200000.0,
+GB1,2023,Chelsea FC,Kiano Dyer,Central Midfield,17,,
+GB1,2023,Chelsea FC,Diego Moreira,Left Midfield,19,3000000.0,01/07/2023
+GB1,2023,Chelsea FC,Cole Palmer,Attacking Midfield,22,80000000.0,01/09/2023
+GB1,2023,Chelsea FC,Leo Castledine,Attacking Midfield,18,900000.0,
+GB1,2023,Chelsea FC,Mykhaylo Mudryk,Left Winger,23,35000000.0,15/01/2023
+GB1,2023,Chelsea FC,Tyrique George,Left Winger,18,,18/12/2024
+GB1,2023,Chelsea FC,Raheem Sterling,Right Winger,29,35000000.0,13/07/2022
+GB1,2023,Chelsea FC,Noni Madueke,Right Winger,22,28000000.0,20/01/2023
+GB1,2023,Chelsea FC,Christopher Nkunku,Centre-Forward,26,65000000.0,01/07/2023
+GB1,2023,Chelsea FC,Nicolas Jackson,Centre-Forward,23,35000000.0,01/07/2023
+GB1,2023,Chelsea FC,Armando Broja,Centre-Forward,22,22000000.0,01/07/2022
+GB1,2023,Chelsea FC,David Datro Fofana,Centre-Forward,21,12000000.0,01/01/2023
+GB1,2023,Chelsea FC,Deivid Washington,Centre-Forward,19,9000000.0,
+GB1,2023,Chelsea FC,Mason Burstow,Centre-Forward,20,1800000.0,
+GB1,2023,Chelsea FC,Ronnie Stutter,Centre-Forward,19,200000.0,
+GB1,2023,Liverpool FC,Alisson,Goalkeeper,31,28000000.0,19/07/2018
+GB1,2023,Liverpool FC,Caoimhín Kelleher,Goalkeeper,25,20000000.0,01/07/2019
+GB1,2023,Liverpool FC,Vitezslav Jaros,Goalkeeper,22,5000000.0,01/07/2022
+GB1,2023,Liverpool FC,Adrián San Miguel,Goalkeeper,37,600000.0,05/08/2019
+GB1,2023,Liverpool FC,Marcelo Pitaluga,Goalkeeper,21,300000.0,29/09/2020
+GB1,2023,Liverpool FC,Fabian Mrozek,Goalkeeper,20,200000.0,
+GB1,2023,Liverpool FC,Ibrahima Konaté,Centre-Back,25,45000000.0,01/07/2021
+GB1,2023,Liverpool FC,Virgil van Dijk,Centre-Back,32,30000000.0,01/01/2018
+GB1,2023,Liverpool FC,Joe Gomez,Centre-Back,27,28000000.0,01/07/2015
+GB1,2023,Liverpool FC,Jarell Quansah,Centre-Back,21,22000000.0,01/07/2023
+GB1,2023,Liverpool FC,Joël Matip,Centre-Back,32,8000000.0,01/07/2016
+GB1,2023,Liverpool FC,Nat Phillips,Centre-Back,27,3500000.0,01/07/2019
+GB1,2023,Liverpool FC,Rhys Williams,Centre-Back,23,1800000.0,01/07/2020
+GB1,2023,Liverpool FC,Amara Nallo,Centre-Back,17,,
+GB1,2023,Liverpool FC,Andrew Robertson,Left-Back,30,30000000.0,21/07/2017
+GB1,2023,Liverpool FC,Konstantinos Tsimikas,Left-Back,28,22000000.0,10/08/2020
+GB1,2023,Liverpool FC,Luke Chambers,Left-Back,20,1500000.0,
+GB1,2023,Liverpool FC,Owen Beck,Left-Back,21,1250000.0,
+GB1,2023,Liverpool FC,Calum Scanlon,Left-Back,19,700000.0,
+GB1,2023,Liverpool FC,Trent Alexander-Arnold,Right-Back,25,70000000.0,01/07/2016
+GB1,2023,Liverpool FC,Conor Bradley,Right-Back,20,15000000.0,01/07/2023
+GB1,2023,Liverpool FC,Calvin Ramsay,Right-Back,20,4000000.0,01/07/2025
+GB1,2023,Liverpool FC,Ryan Gravenberch,Defensive Midfield,22,35000000.0,01/09/2023
+GB1,2023,Liverpool FC,Wataru Endo,Defensive Midfield,31,13000000.0,18/08/2023
+GB1,2023,Liverpool FC,Stefan Bajcetic,Defensive Midfield,19,11000000.0,01/07/2022
+GB1,2023,Liverpool FC,James McConnell,Defensive Midfield,19,500000.0,
+GB1,2023,Liverpool FC,Alexis Mac Allister,Central Midfield,25,75000000.0,01/07/2023
+GB1,2023,Liverpool FC,Curtis Jones,Central Midfield,23,35000000.0,01/07/2020
+GB1,2023,Liverpool FC,Thiago Alcántara,Central Midfield,33,10000000.0,18/09/2020
+GB1,2023,Liverpool FC,Bobby Clark,Central Midfield,19,1000000.0,
+GB1,2023,Liverpool FC,Trey Nyoni,Central Midfield,17,500000.0,01/07/2025
+GB1,2023,Liverpool FC,Tom Hill,Central Midfield,21,300000.0,
+GB1,2023,Liverpool FC,Dominik Szoboszlai,Attacking Midfield,23,75000000.0,02/07/2023
+GB1,2023,Liverpool FC,Harvey Elliott,Attacking Midfield,21,35000000.0,01/07/2021
+GB1,2023,Liverpool FC,Fábio Carvalho,Attacking Midfield,21,14000000.0,01/07/2022
+GB1,2023,Liverpool FC,Mateusz Musiałowski,Attacking Midfield,20,300000.0,
+GB1,2023,Liverpool FC,Luis Díaz,Left Winger,27,75000000.0,30/01/2022
+GB1,2023,Liverpool FC,Cody Gakpo,Left Winger,25,50000000.0,01/01/2023
+GB1,2023,Liverpool FC,Diogo Jota,Left Winger,27,50000000.0,19/09/2020
+GB1,2023,Liverpool FC,Lewis Koumas,Left Winger,18,1000000.0,
+GB1,2023,Liverpool FC,Mohamed Salah,Right Winger,32,55000000.0,01/07/2017
+GB1,2023,Liverpool FC,Ben Gannon-Doak,Right Winger,18,10000000.0,01/07/2023
+GB1,2023,Liverpool FC,Kaide Gordon,Right Winger,19,1200000.0,
+GB1,2023,Liverpool FC,Darwin Núñez,Centre-Forward,25,70000000.0,01/07/2022
+GB1,2023,Liverpool FC,Jayden Danns,Centre-Forward,18,1000000.0,
+GB1,2023,Tottenham Hotspur,Guglielmo Vicario,Goalkeeper,27,35000000.0,01/07/2023
+GB1,2023,Tottenham Hotspur,Hugo Lloris,Goalkeeper,37,1200000.0,31/08/2012
+GB1,2023,Tottenham Hotspur,Fraser Forster,Goalkeeper,36,1200000.0,01/07/2022
+GB1,2023,Tottenham Hotspur,Brandon Austin,Goalkeeper,25,600000.0,01/08/2021
+GB1,2023,Tottenham Hotspur,Alfie Whiteman,Goalkeeper,25,500000.0,01/07/2019
+GB1,2023,Tottenham Hotspur,Cristian Romero,Centre-Back,26,60000000.0,30/08/2022
+GB1,2023,Tottenham Hotspur,Micky van de Ven,Centre-Back,23,55000000.0,08/08/2023
+GB1,2023,Tottenham Hotspur,Radu Drăgușin,Centre-Back,22,25000000.0,11/01/2024
+GB1,2023,Tottenham Hotspur,Davinson Sánchez,Centre-Back,28,17000000.0,23/08/2017
+GB1,2023,Tottenham Hotspur,Eric Dier,Centre-Back,30,12000000.0,31/07/2014
+GB1,2023,Tottenham Hotspur,Ben Davies,Centre-Back,31,10000000.0,23/07/2014
+GB1,2023,Tottenham Hotspur,Joe Rodon,Centre-Back,26,8000000.0,16/10/2020
+GB1,2023,Tottenham Hotspur,Ashley Phillips,Centre-Back,19,2200000.0,05/08/2023
+GB1,2023,Tottenham Hotspur,Japhet Tanganga,Centre-Back,25,1800000.0,01/01/2020
+GB1,2023,Tottenham Hotspur,Alfie Dorrington,Centre-Back,19,500000.0,
+GB1,2023,Tottenham Hotspur,Destiny Udogie,Left-Back,21,45000000.0,16/08/2022
+GB1,2023,Tottenham Hotspur,Sergio Reguilón,Left-Back,27,12000000.0,19/09/2020
+GB1,2023,Tottenham Hotspur,Ryan Sessegnon,Left-Back,24,10000000.0,08/08/2019
+GB1,2023,Tottenham Hotspur,Pedro Porro,Right-Back,24,45000000.0,01/07/2023
+GB1,2023,Tottenham Hotspur,Emerson Royal,Right-Back,25,18000000.0,31/08/2021
+GB1,2023,Tottenham Hotspur,Yves Bissouma,Defensive Midfield,27,35000000.0,01/07/2022
+GB1,2023,Tottenham Hotspur,Rodrigo Bentancur,Defensive Midfield,27,35000000.0,31/01/2022
+GB1,2023,Tottenham Hotspur,Pierre-Emile Højbjerg,Defensive Midfield,28,18000000.0,11/08/2020
+GB1,2023,Tottenham Hotspur,Oliver Skipp,Defensive Midfield,23,15000000.0,01/07/2018
+GB1,2023,Tottenham Hotspur,Pape Matar Sarr,Central Midfield,21,45000000.0,27/08/2021
+GB1,2023,Tottenham Hotspur,Tyrese Hall,Central Midfield,18,,
+GB1,2023,Tottenham Hotspur,James Maddison,Attacking Midfield,27,70000000.0,01/07/2023
+GB1,2023,Tottenham Hotspur,Dejan Kulusevski,Attacking Midfield,24,55000000.0,01/07/2023
+GB1,2023,Tottenham Hotspur,Giovani Lo Celso,Attacking Midfield,28,16000000.0,01/07/2020
+GB1,2023,Tottenham Hotspur,Jamie Donley,Attacking Midfield,19,1500000.0,
+GB1,2023,Tottenham Hotspur,Heung-min Son,Left Winger,31,45000000.0,28/08/2015
+GB1,2023,Tottenham Hotspur,Bryan Gil,Left Winger,23,14000000.0,26/07/2021
+GB1,2023,Tottenham Hotspur,Manor Solomon,Left Winger,24,13000000.0,11/07/2023
+GB1,2023,Tottenham Hotspur,Ivan Perisic,Left Winger,35,2000000.0,01/07/2022
+GB1,2023,Tottenham Hotspur,Yago Santiago,Left Winger,21,200000.0,
+GB1,2023,Tottenham Hotspur,Mikey Moore,Left Winger,16,,01/07/2024
+GB1,2023,Tottenham Hotspur,Brennan Johnson,Right Winger,23,48000000.0,01/09/2023
+GB1,2023,Tottenham Hotspur,Richarlison,Centre-Forward,27,38000000.0,01/07/2022
+GB1,2023,Tottenham Hotspur,Timo Werner,Centre-Forward,28,17000000.0,09/01/2024
+GB1,2023,Tottenham Hotspur,Alejo Veliz,Centre-Forward,20,9000000.0,08/08/2023
+GB1,2023,Tottenham Hotspur,Dane Scarlett,Centre-Forward,20,1800000.0,01/07/2023
+GB1,2023,Manchester United,André Onana,Goalkeeper,28,35000000.0,20/07/2023
+GB1,2023,Manchester United,Dean Henderson,Goalkeeper,27,12000000.0,01/08/2020
+GB1,2023,Manchester United,Altay Bayındır,Goalkeeper,26,10000000.0,01/09/2023
+GB1,2023,Manchester United,Radek Vítek,Goalkeeper,20,300000.0,01/07/2025
+GB1,2023,Manchester United,Tom Heaton,Goalkeeper,38,250000.0,02/07/2021
+GB1,2023,Manchester United,Dermot Mee,Goalkeeper,21,,01/07/2026
+GB1,2023,Manchester United,Lisandro Martínez,Centre-Back,26,45000000.0,27/07/2022
+GB1,2023,Manchester United,Raphaël Varane,Centre-Back,31,20000000.0,14/08/2021
+GB1,2023,Manchester United,Harry Maguire,Centre-Back,31,18000000.0,05/08/2019
+GB1,2023,Manchester United,Victor Lindelöf,Centre-Back,29,15000000.0,01/07/2017
+GB1,2023,Manchester United,Willy Kambwala,Centre-Back,19,5000000.0,01/01/2024
+GB1,2023,Manchester United,Jonny Evans,Centre-Back,36,2000000.0,18/07/2023
+GB1,2023,Manchester United,Rhys Bennett,Centre-Back,20,,
+GB1,2023,Manchester United,Louis Jackson,Centre-Back,18,,
+GB1,2023,Manchester United,Luke Shaw,Left-Back,28,32000000.0,01/07/2014
+GB1,2023,Manchester United,Tyrell Malacia,Left-Back,24,18000000.0,05/07/2022
+GB1,2023,Manchester United,Sergio Reguilón,Left-Back,27,12000000.0,01/09/2023
+GB1,2023,Manchester United,Álvaro Carreras,Left-Back,21,7000000.0,01/07/2022
+GB1,2023,Manchester United,Brandon Williams,Left-Back,23,2500000.0,01/07/2019
+GB1,2023,Manchester United,Harry Amass,Left-Back,17,,01/01/2025
+GB1,2023,Manchester United,Diogo Dalot,Right-Back,25,35000000.0,01/07/2018
+GB1,2023,Manchester United,Aaron Wan-Bissaka,Right-Back,26,20000000.0,01/07/2019
+GB1,2023,Manchester United,Habeeb Ogunneye,Right-Back,18,,
+GB1,2023,Manchester United,Sofyan Amrabat,Defensive Midfield,27,22000000.0,01/09/2023
+GB1,2023,Manchester United,Casemiro,Defensive Midfield,32,20000000.0,22/08/2022
+GB1,2023,Manchester United,Toby Collyer,Defensive Midfield,20,200000.0,01/07/2024
+GB1,2023,Manchester United,Kobbie Mainoo,Central Midfield,19,50000000.0,01/07/2023
+GB1,2023,Manchester United,Scott McTominay,Central Midfield,27,32000000.0,01/07/2017
+GB1,2023,Manchester United,Donny van de Beek,Central Midfield,27,5000000.0,02/09/2020
+GB1,2023,Manchester United,Dan Gore,Central Midfield,19,900000.0,
+GB1,2023,Manchester United,Bruno Fernandes,Attacking Midfield,29,70000000.0,29/01/2020
+GB1,2023,Manchester United,Mason Mount,Attacking Midfield,25,35000000.0,05/07/2023
+GB1,2023,Manchester United,Hannibal,Attacking Midfield,21,9000000.0,01/07/2022
+GB1,2023,Manchester United,Christian Eriksen,Attacking Midfield,32,8000000.0,15/07/2022
+GB1,2023,Manchester United,Marcus Rashford,Left Winger,26,60000000.0,01/01/2016
+GB1,2023,Manchester United,Alejandro Garnacho,Left Winger,19,45000000.0,01/07/2022
+GB1,2023,Manchester United,Jadon Sancho,Left Winger,24,30000000.0,23/07/2021
+GB1,2023,Manchester United,Shola Shoretire,Left Winger,20,4000000.0,
+GB1,2023,Manchester United,Antony,Right Winger,24,25000000.0,30/08/2022
+GB1,2023,Manchester United,Amad Diallo,Right Winger,21,18000000.0,02/01/2021
+GB1,2023,Manchester United,Facundo Pellistri,Right Winger,22,8000000.0,05/10/2020
+GB1,2023,Manchester United,Omari Forson,Right Winger,19,2000000.0,01/01/2024
+GB1,2023,Manchester United,Rasmus Højlund,Centre-Forward,21,65000000.0,05/08/2023
+GB1,2023,Manchester United,Anthony Martial,Centre-Forward,28,10000000.0,01/09/2015
+GB1,2023,Manchester United,Joe Hugill,Centre-Forward,20,200000.0,
+GB1,2023,Manchester United,Ethan Wheatley,Centre-Forward,18,,
+GB1,2023,Aston Villa,Emiliano Martínez,Goalkeeper,31,28000000.0,16/09/2020
+GB1,2023,Aston Villa,Joe Gauci,Goalkeeper,23,1500000.0,01/02/2024
+GB1,2023,Aston Villa,Robin Olsen,Goalkeeper,34,1500000.0,01/07/2022
+GB1,2023,Aston Villa,Filip Marschall,Goalkeeper,21,800000.0,01/07/2023
+GB1,2023,Aston Villa,Oliwier Zych,Goalkeeper,20,800000.0,01/07/2025
+GB1,2023,Aston Villa,James Wright,Goalkeeper,19,200000.0,
+GB1,2023,Aston Villa,Sam Proctor,Goalkeeper,17,,
+GB1,2023,Aston Villa,Lander Emery,Goalkeeper,21,,
+GB1,2023,Aston Villa,Pau Torres,Centre-Back,27,45000000.0,12/07/2023
+GB1,2023,Aston Villa,Ezri Konsa,Centre-Back,26,35000000.0,11/07/2019
+GB1,2023,Aston Villa,Diego Carlos,Centre-Back,31,16000000.0,01/07/2022
+GB1,2023,Aston Villa,Tyrone Mings,Centre-Back,31,13000000.0,08/07/2019
+GB1,2023,Aston Villa,Clément Lenglet,Centre-Back,29,10000000.0,01/09/2023
+GB1,2023,Aston Villa,Calum Chambers,Centre-Back,29,4000000.0,27/01/2022
+GB1,2023,Aston Villa,Kortney Hause,Centre-Back,28,2000000.0,01/07/2019
+GB1,2023,Aston Villa,Josh Feeney,Centre-Back,19,500000.0,
+GB1,2023,Aston Villa,Álex Moreno,Left-Back,31,13000000.0,11/01/2023
+GB1,2023,Aston Villa,Lucas Digne,Left-Back,30,12000000.0,13/01/2022
+GB1,2023,Aston Villa,Lino Sousa,Left-Back,19,2000000.0,
+GB1,2023,Aston Villa,Sebastian Revan,Left-Back,20,350000.0,
+GB1,2023,Aston Villa,Finley Munroe,Left-Back,19,100000.0,
+GB1,2023,Aston Villa,Travis Patterson,Left-Back,18,,
+GB1,2023,Aston Villa,Matty Cash,Right-Back,26,28000000.0,03/09/2020
+GB1,2023,Aston Villa,Kaine Kesler-Hayden,Right-Back,21,2200000.0,15/01/2024
+GB1,2023,Aston Villa,Boubacar Kamara,Defensive Midfield,24,38000000.0,01/07/2022
+GB1,2023,Aston Villa,Leander Dendoncker,Defensive Midfield,29,7000000.0,01/09/2022
+GB1,2023,Aston Villa,Douglas Luiz,Central Midfield,26,70000000.0,28/01/2026
+GB1,2023,Aston Villa,Jacob Ramsey,Central Midfield,23,35000000.0,01/07/2020
+GB1,2023,Aston Villa,John McGinn,Central Midfield,29,30000000.0,08/08/2018
+GB1,2023,Aston Villa,Youri Tielemans,Central Midfield,27,25000000.0,01/07/2023
+GB1,2023,Aston Villa,Tim Iroegbunam,Central Midfield,21,4000000.0,01/01/2022
+GB1,2023,Aston Villa,Morgan Rogers,Attacking Midfield,21,15000000.0,01/02/2024
+GB1,2023,Aston Villa,Philippe Coutinho,Attacking Midfield,32,7500000.0,01/07/2022
+GB1,2023,Aston Villa,Omari Kellyman,Attacking Midfield,18,1000000.0,
+GB1,2023,Aston Villa,Tommi O'Reilly,Attacking Midfield,20,200000.0,
+GB1,2023,Aston Villa,Emiliano Buendía,Left Winger,27,22000000.0,01/07/2021
+GB1,2023,Aston Villa,Jaden Philogene,Left Winger,22,15000000.0,19/07/2024
+GB1,2023,Aston Villa,Kadan Young,Left Winger,18,,
+GB1,2023,Aston Villa,Moussa Diaby,Right Winger,24,55000000.0,22/07/2023
+GB1,2023,Aston Villa,Leon Bailey,Right Winger,26,42000000.0,04/08/2021
+GB1,2023,Aston Villa,Bertrand Traoré,Right Winger,28,9000000.0,19/09/2020
+GB1,2023,Aston Villa,Nicolò Zaniolo,Second Striker,24,20000000.0,18/08/2023
+GB1,2023,Aston Villa,Ollie Watkins,Centre-Forward,28,65000000.0,09/09/2020
+GB1,2023,Aston Villa,Jhon Durán,Centre-Forward,20,20000000.0,23/01/2023
+GB1,2023,Aston Villa,Cameron Archer,Centre-Forward,22,13000000.0,11/07/2024
+GB1,2023,Newcastle United,Nick Pope,Goalkeeper,32,16000000.0,01/07/2022
+GB1,2023,Newcastle United,Martin Dúbravka,Goalkeeper,35,1000000.0,01/07/2018
+GB1,2023,Newcastle United,Loris Karius,Goalkeeper,31,1000000.0,12/09/2022
+GB1,2023,Newcastle United,Mark Gillespie,Goalkeeper,32,300000.0,03/07/2020
+GB1,2023,Newcastle United,Adam Harrison,Goalkeeper,17,,
+GB1,2023,Newcastle United,Aidan Harris,Goalkeeper,17,,01/07/2026
+GB1,2023,Newcastle United,Sven Botman,Centre-Back,24,45000000.0,01/07/2022
+GB1,2023,Newcastle United,Fabian Schär,Centre-Back,32,10000000.0,26/07/2018
+GB1,2023,Newcastle United,Dan Burn,Centre-Back,32,8000000.0,31/01/2022
+GB1,2023,Newcastle United,Jamaal Lascelles,Centre-Back,30,7000000.0,09/08/2014
+GB1,2023,Newcastle United,Kell Watts,Centre-Back,24,250000.0,01/07/2022
+GB1,2023,Newcastle United,Lewis Hall,Left-Back,19,18000000.0,01/07/2024
+GB1,2023,Newcastle United,Matt Targett,Left-Back,28,10000000.0,01/07/2022
+GB1,2023,Newcastle United,Jamal Lewis,Left-Back,26,3500000.0,08/09/2020
+GB1,2023,Newcastle United,Paul Dummett,Left-Back,32,900000.0,01/07/2012
+GB1,2023,Newcastle United,Alex Murphy,Left-Back,20,250000.0,01/07/2025
+GB1,2023,Newcastle United,Tino Livramento,Right-Back,21,35000000.0,08/08/2023
+GB1,2023,Newcastle United,Kieran Trippier,Right-Back,33,10000000.0,07/01/2022
+GB1,2023,Newcastle United,Emil Krafth,Right-Back,29,2500000.0,08/08/2019
+GB1,2023,Newcastle United,Javier Manquillo,Right-Back,30,1800000.0,21/07/2017
+GB1,2023,Newcastle United,Harrison Ashby,Right-Back,22,1200000.0,01/07/2025
+GB1,2023,Newcastle United,Sandro Tonali,Defensive Midfield,24,38000000.0,03/07/2023
+GB1,2023,Newcastle United,Isaac Hayden,Defensive Midfield,29,1800000.0,11/07/2016
+GB1,2023,Newcastle United,Bruno Guimarães,Central Midfield,26,85000000.0,30/01/2022
+GB1,2023,Newcastle United,Joelinton,Central Midfield,27,40000000.0,23/07/2019
+GB1,2023,Newcastle United,Joe Willock,Central Midfield,24,30000000.0,13/08/2021
+GB1,2023,Newcastle United,Sean Longstaff,Central Midfield,26,25000000.0,01/01/2019
+GB1,2023,Newcastle United,Lewis Miley,Central Midfield,18,22000000.0,01/07/2023
+GB1,2023,Newcastle United,Elliot Anderson,Central Midfield,21,15000000.0,01/07/2022
+GB1,2023,Newcastle United,Jeff Hendrick,Central Midfield,32,500000.0,24/08/2020
+GB1,2023,Newcastle United,Lucas De Bolle,Central Midfield,21,150000.0,
+GB1,2023,Newcastle United,Travis Hernes,Central Midfield,18,150000.0,
+GB1,2023,Newcastle United,James Huntley,Central Midfield,20,,
+GB1,2023,Newcastle United,Matt Ritchie,Right Midfield,34,1000000.0,01/07/2016
+GB1,2023,Newcastle United,Joe White,Attacking Midfield,21,300000.0,01/07/2023
+GB1,2023,Newcastle United,Anthony Gordon,Left Winger,23,60000000.0,29/01/2023
+GB1,2023,Newcastle United,Harvey Barnes,Left Winger,26,35000000.0,23/07/2023
+GB1,2023,Newcastle United,Ryan Fraser,Left Winger,30,3000000.0,07/09/2020
+GB1,2023,Newcastle United,Amadou Diallo,Left Winger,21,400000.0,
+GB1,2023,Newcastle United,Miguel Almirón,Right Winger,30,20000000.0,31/01/2019
+GB1,2023,Newcastle United,Jacob Murphy,Right Winger,29,15000000.0,19/07/2017
+GB1,2023,Newcastle United,Alexander Isak,Centre-Forward,24,75000000.0,26/08/2022
+GB1,2023,Newcastle United,Callum Wilson,Centre-Forward,32,13000000.0,07/09/2020
+GB1,2023,Newcastle United,Ben Parkinson,Centre-Forward,19,250000.0,
+GB1,2023,Newcastle United,Michael Ndiweni,Centre-Forward,20,,
+GB1,2023,Brighton & Hove Albion,Bart Verbruggen,Goalkeeper,21,18000000.0,03/07/2023
+GB1,2023,Brighton & Hove Albion,Jason Steele,Goalkeeper,33,3500000.0,01/07/2018
+GB1,2023,Brighton & Hove Albion,Carl Rushworth,Goalkeeper,22,3000000.0,01/07/2023
+GB1,2023,Brighton & Hove Albion,Tom McGill,Goalkeeper,24,600000.0,29/07/2022
+GB1,2023,Brighton & Hove Albion,Adam Webster,Centre-Back,29,20000000.0,03/08/2019
+GB1,2023,Brighton & Hove Albion,Jan Paul van Hecke,Centre-Back,24,18000000.0,10/09/2020
+GB1,2023,Brighton & Hove Albion,Igor Julio,Centre-Back,26,17000000.0,26/07/2023
+GB1,2023,Brighton & Hove Albion,Lewis Dunk,Centre-Back,32,12000000.0,01/07/2010
+GB1,2023,Brighton & Hove Albion,Ed Turns,Centre-Back,21,400000.0,
+GB1,2023,Brighton & Hove Albion,Odeluga Offiah,Centre-Back,21,300000.0,01/07/2024
+GB1,2023,Brighton & Hove Albion,Ben Jackson,Centre-Back,20,200000.0,
+GB1,2023,Brighton & Hove Albion,Leigh Kavanagh,Centre-Back,20,200000.0,
+GB1,2023,Brighton & Hove Albion,Noel Atom,Centre-Back,19,,
+GB1,2023,Brighton & Hove Albion,Pervis Estupiñán,Left-Back,26,30000000.0,16/08/2022
+GB1,2023,Brighton & Hove Albion,Imari Samuels,Left-Back,21,100000.0,
+GB1,2023,Brighton & Hove Albion,Tariq Lamptey,Right-Back,23,12000000.0,31/01/2020
+GB1,2023,Brighton & Hove Albion,Joël Veltman,Right-Back,32,10000000.0,29/07/2020
+GB1,2023,Brighton & Hove Albion,Carlos Baleba,Defensive Midfield,20,22000000.0,29/08/2023
+GB1,2023,Brighton & Hove Albion,Billy Gilmour,Defensive Midfield,23,18000000.0,01/09/2022
+GB1,2023,Brighton & Hove Albion,Jack Hinshelwood,Defensive Midfield,19,16000000.0,01/07/2023
+GB1,2023,Brighton & Hove Albion,Jack Hinchy,Defensive Midfield,21,150000.0,
+GB1,2023,Brighton & Hove Albion,Valentín Barco,Central Midfield,19,13000000.0,20/01/2024
+GB1,2023,Brighton & Hove Albion,Jakub Moder,Central Midfield,25,10000000.0,04/10/2020
+GB1,2023,Brighton & Hove Albion,Pascal Groß,Central Midfield,33,8000000.0,02/01/2026
+GB1,2023,Brighton & Hove Albion,Mahmoud Dahoud,Central Midfield,28,6000000.0,01/07/2023
+GB1,2023,Brighton & Hove Albion,Yasin Ayari,Central Midfield,20,4500000.0,30/01/2023
+GB1,2023,Brighton & Hove Albion,Steven Alzate,Central Midfield,25,4000000.0,01/07/2019
+GB1,2023,Brighton & Hove Albion,James Milner,Central Midfield,38,1000000.0,01/07/2023
+GB1,2023,Brighton & Hove Albion,Marc Leonard,Central Midfield,22,450000.0,01/07/2023
+GB1,2023,Brighton & Hove Albion,Jensen Weir,Central Midfield,22,300000.0,01/07/2023
+GB1,2023,Brighton & Hove Albion,Samy Chouchane,Central Midfield,20,250000.0,
+GB1,2023,Brighton & Hove Albion,Julio Enciso,Attacking Midfield,20,22000000.0,01/07/2022
+GB1,2023,Brighton & Hove Albion,Facundo Buonanotte,Attacking Midfield,19,18000000.0,01/01/2023
+GB1,2023,Brighton & Hove Albion,Andrew Moran,Attacking Midfield,20,3000000.0,01/07/2025
+GB1,2023,Brighton & Hove Albion,Adam Lallana,Attacking Midfield,36,1000000.0,27/07/2020
+GB1,2023,Brighton & Hove Albion,Kaoru Mitoma,Left Winger,27,45000000.0,10/08/2021
+GB1,2023,Brighton & Hove Albion,Simon Adingra,Left Winger,22,30000000.0,01/07/2022
+GB1,2023,Brighton & Hove Albion,Ansu Fati,Left Winger,21,25000000.0,01/09/2023
+GB1,2023,Brighton & Hove Albion,Abdallah Sima,Left Winger,23,7500000.0,31/08/2021
+GB1,2023,Brighton & Hove Albion,Jeremy Sarmiento,Left Winger,22,4500000.0,02/07/2021
+GB1,2023,Brighton & Hove Albion,Luca Barrington,Left Winger,19,150000.0,
+GB1,2023,Brighton & Hove Albion,Cameron Peupion,Left Winger,21,100000.0,
+GB1,2023,Brighton & Hove Albion,Solly March,Right Winger,29,18000000.0,01/07/2013
+GB1,2023,Brighton & Hove Albion,Benicio Baker,Right Winger,20,400000.0,
+GB1,2023,Brighton & Hove Albion,Evan Ferguson,Centre-Forward,19,50000000.0,01/07/2022
+GB1,2023,Brighton & Hove Albion,João Pedro,Centre-Forward,22,45000000.0,01/07/2023
+GB1,2023,Brighton & Hove Albion,Danny Welbeck,Centre-Forward,33,5000000.0,18/10/2020
+GB1,2023,Brighton & Hove Albion,Joshua Duffus,Centre-Forward,19,500000.0,
+GB1,2023,Brighton & Hove Albion,Mark O'Mahony,Centre-Forward,19,300000.0,
+GB1,2023,Nottingham Forest,Matt Turner,Goalkeeper,30,7000000.0,09/08/2023
+GB1,2023,Nottingham Forest,Odysseas Vlachodimos,Goalkeeper,30,7000000.0,01/09/2023
+GB1,2023,Nottingham Forest,Matz Sels,Goalkeeper,32,7000000.0,01/02/2024
+GB1,2023,Nottingham Forest,Ethan Horvath,Goalkeeper,29,1800000.0,13/07/2021
+GB1,2023,Nottingham Forest,Wayne Hennessey,Goalkeeper,37,250000.0,13/01/2025
+GB1,2023,Nottingham Forest,Murillo,Centre-Back,21,35000000.0,31/08/2023
+GB1,2023,Nottingham Forest,Moussa Niakhaté,Centre-Back,28,16000000.0,06/07/2022
+GB1,2023,Nottingham Forest,Andrew Omobamidele,Centre-Back,22,11000000.0,01/09/2023
+GB1,2023,Nottingham Forest,Scott McKenna,Centre-Back,27,9000000.0,23/09/2020
+GB1,2023,Nottingham Forest,Joe Worrall,Centre-Back,27,7500000.0,01/07/2015
+GB1,2023,Nottingham Forest,Willy Boly,Centre-Back,33,2500000.0,01/09/2022
+GB1,2023,Nottingham Forest,Felipe,Centre-Back,35,1500000.0,31/01/2023
+GB1,2023,Nottingham Forest,Zach Abbott,Centre-Back,18,300000.0,01/07/2025
+GB1,2023,Nottingham Forest,Neco Williams,Left-Back,23,17000000.0,10/07/2022
+GB1,2023,Nottingham Forest,Nuno Tavares,Left-Back,24,15000000.0,01/09/2023
+GB1,2023,Nottingham Forest,Harry Toffolo,Left-Back,28,5000000.0,20/07/2022
+GB1,2023,Nottingham Forest,Ola Aina,Right-Back,27,12000000.0,22/07/2023
+GB1,2023,Nottingham Forest,Gonzalo Montiel,Right-Back,27,10000000.0,23/08/2023
+GB1,2023,Nottingham Forest,Serge Aurier,Right-Back,31,3700000.0,07/09/2022
+GB1,2023,Nottingham Forest,Ibrahim Sangaré,Defensive Midfield,26,30000000.0,01/09/2023
+GB1,2023,Nottingham Forest,Orel Mangala,Defensive Midfield,26,20000000.0,31/07/2022
+GB1,2023,Nottingham Forest,Andrey Santos,Defensive Midfield,20,15000000.0,25/08/2023
+GB1,2023,Nottingham Forest,Cheikhou Kouyaté,Defensive Midfield,34,1000000.0,13/08/2022
+GB1,2023,Nottingham Forest,Jamie McDonnell,Defensive Midfield,20,200000.0,
+GB1,2023,Nottingham Forest,Danilo,Central Midfield,23,28000000.0,16/01/2023
+GB1,2023,Nottingham Forest,Nicolás Domínguez,Central Midfield,26,17000000.0,01/09/2023
+GB1,2023,Nottingham Forest,Ryan Yates,Central Midfield,26,12000000.0,01/07/2016
+GB1,2023,Nottingham Forest,Remo Freuler,Central Midfield,32,6500000.0,14/08/2022
+GB1,2023,Nottingham Forest,Lewis O'Brien,Central Midfield,25,5000000.0,20/07/2022
+GB1,2023,Nottingham Forest,Harry Arter,Central Midfield,34,400000.0,22/09/2020
+GB1,2023,Nottingham Forest,Brandon Aguilera,Central Midfield,21,300000.0,17/07/2022
+GB1,2023,Nottingham Forest,Morgan Gibbs-White,Attacking Midfield,24,40000000.0,19/08/2022
+GB1,2023,Nottingham Forest,Giovanni Reyna,Attacking Midfield,21,18000000.0,31/01/2024
+GB1,2023,Nottingham Forest,Ui-jo Hwang,Attacking Midfield,31,1800000.0,26/08/2022
+GB1,2023,Nottingham Forest,Callum Hudson-Odoi,Left Winger,23,18000000.0,01/09/2023
+GB1,2023,Nottingham Forest,Alex Mighten,Left Winger,22,600000.0,01/07/2020
+GB1,2023,Nottingham Forest,Brennan Johnson,Right Winger,23,48000000.0,01/07/2019
+GB1,2023,Nottingham Forest,Anthony Elanga,Right Winger,22,22000000.0,25/07/2023
+GB1,2023,Nottingham Forest,Josh Bowler,Right Winger,25,1500000.0,01/09/2022
+GB1,2023,Nottingham Forest,Taiwo Awoniyi,Centre-Forward,26,28000000.0,01/07/2022
+GB1,2023,Nottingham Forest,Chris Wood,Centre-Forward,32,7000000.0,01/07/2023
+GB1,2023,Nottingham Forest,Divock Origi,Centre-Forward,29,5000000.0,01/09/2023
+GB1,2023,Nottingham Forest,Emmanuel Dennis,Centre-Forward,26,4200000.0,13/08/2022
+GB1,2023,Nottingham Forest,Rodrigo Ribeiro,Centre-Forward,19,3000000.0,01/02/2024
+GB1,2023,Nottingham Forest,Joe Gardner,Centre-Forward,19,150000.0,
+GB1,2023,Nottingham Forest,Esapa Osong,Centre-Forward,19,150000.0,
+GB1,2023,West Ham United,Alphonse Areola,Goalkeeper,31,10000000.0,01/07/2022
+GB1,2023,West Ham United,Łukasz Fabiański,Goalkeeper,39,700000.0,10/09/2025
+GB1,2023,West Ham United,Joseph Anang,Goalkeeper,24,300000.0,24/01/2023
+GB1,2023,West Ham United,Jacob Knightbridge,Goalkeeper,20,,
+GB1,2023,West Ham United,Nayef Aguerd,Centre-Back,28,35000000.0,01/07/2022
+GB1,2023,West Ham United,Kurt Zouma,Centre-Back,29,25000000.0,28/08/2021
+GB1,2023,West Ham United,Konstantinos Mavropanos,Centre-Back,26,20000000.0,22/08/2023
+GB1,2023,West Ham United,Thilo Kehrer,Centre-Back,27,10000000.0,17/08/2022
+GB1,2023,West Ham United,Kaelan Casey,Centre-Back,19,1000000.0,01/07/2025
+GB1,2023,West Ham United,Angelo Ogbonna,Centre-Back,36,700000.0,10/07/2015
+GB1,2023,West Ham United,Levi Laing,Centre-Back,21,150000.0,
+GB1,2023,West Ham United,Emerson,Left-Back,29,12000000.0,23/08/2022
+GB1,2023,West Ham United,Aaron Cresswell,Left-Back,34,900000.0,03/07/2014
+GB1,2023,West Ham United,Oliver Scarles,Left-Back,18,400000.0,01/01/2025
+GB1,2023,West Ham United,Ben Johnson,Right-Back,24,8000000.0,01/07/2020
+GB1,2023,West Ham United,Vladimír Coufal,Right-Back,31,8000000.0,02/10/2020
+GB1,2023,West Ham United,Edson Álvarez,Defensive Midfield,26,35000000.0,10/08/2023
+GB1,2023,West Ham United,Tomáš Souček,Defensive Midfield,29,30000000.0,27/07/2020
+GB1,2023,West Ham United,Kalvin Phillips,Defensive Midfield,28,25000000.0,26/01/2024
+GB1,2023,West Ham United,Flynn Downes,Defensive Midfield,25,9000000.0,07/07/2022
+GB1,2023,West Ham United,Conor Coventry,Defensive Midfield,24,1500000.0,01/01/2021
+GB1,2023,West Ham United,James Ward-Prowse,Central Midfield,29,30000000.0,14/08/2023
+GB1,2023,West Ham United,Pablo Fornals,Central Midfield,28,14000000.0,01/07/2019
+GB1,2023,West Ham United,Lewis Orford,Central Midfield,18,400000.0,01/07/2026
+GB1,2023,West Ham United,Dan Chesters,Right Midfield,22,200000.0,
+GB1,2023,West Ham United,Lucas Paquetá,Attacking Midfield,26,65000000.0,29/08/2022
+GB1,2023,West Ham United,George Earthy,Attacking Midfield,19,1000000.0,01/07/2026
+GB1,2023,West Ham United,Kamarai Swyer,Attacking Midfield,21,250000.0,
+GB1,2023,West Ham United,Saïd Benrahma,Left Winger,28,20000000.0,29/01/2021
+GB1,2023,West Ham United,Maxwel Cornet,Left Winger,27,9000000.0,05/08/2022
+GB1,2023,West Ham United,Mohammed Kudus,Right Winger,23,50000000.0,27/08/2023
+GB1,2023,West Ham United,Jarrod Bowen,Right Winger,27,50000000.0,31/01/2020
+GB1,2023,West Ham United,Danny Ings,Centre-Forward,31,8000000.0,20/01/2023
+GB1,2023,West Ham United,Michail Antonio,Centre-Forward,34,4000000.0,01/09/2015
+GB1,2023,West Ham United,Callum Marshall,Centre-Forward,19,2000000.0,01/07/2025
+GB1,2023,West Ham United,Divin Mubama,Centre-Forward,19,1000000.0,01/07/2023
+GB1,2023,Crystal Palace,Dean Henderson,Goalkeeper,27,12000000.0,31/08/2023
+GB1,2023,Crystal Palace,Sam Johnstone,Goalkeeper,31,10000000.0,01/07/2022
+GB1,2023,Crystal Palace,Joe Whitworth,Goalkeeper,20,1000000.0,
+GB1,2023,Crystal Palace,Remi Matthews,Goalkeeper,30,500000.0,12/07/2021
+GB1,2023,Crystal Palace,Marc Guéhi,Centre-Back,23,38000000.0,18/07/2021
+GB1,2023,Crystal Palace,Joachim Andersen,Centre-Back,28,35000000.0,28/07/2021
+GB1,2023,Crystal Palace,Chris Richards,Centre-Back,24,12000000.0,27/07/2022
+GB1,2023,Crystal Palace,Rob Holding,Centre-Back,28,5000000.0,01/09/2023
+GB1,2023,Crystal Palace,Nathan Ferguson,Centre-Back,23,1000000.0,27/07/2020
+GB1,2023,Crystal Palace,James Tomkins,Centre-Back,35,700000.0,05/07/2016
+GB1,2023,Crystal Palace,Seán Grehan,Centre-Back,20,150000.0,
+GB1,2023,Crystal Palace,Tyrick Mitchell,Left-Back,24,25000000.0,01/07/2020
+GB1,2023,Crystal Palace,Tayo Adaramola,Left-Back,20,800000.0,
+GB1,2023,Crystal Palace,Daniel Muñoz,Right-Back,28,18000000.0,30/01/2024
+GB1,2023,Crystal Palace,Nathaniel Clyne,Right-Back,33,1500000.0,14/10/2020
+GB1,2023,Crystal Palace,Joel Ward,Right-Back,34,1000000.0,01/07/2012
+GB1,2023,Crystal Palace,Cheick Doucouré,Defensive Midfield,24,35000000.0,11/07/2022
+GB1,2023,Crystal Palace,Adam Wharton,Defensive Midfield,20,30000000.0,01/02/2024
+GB1,2023,Crystal Palace,Jefferson Lerma,Defensive Midfield,29,20000000.0,01/07/2023
+GB1,2023,Crystal Palace,Jaïro Riedewald,Defensive Midfield,27,3000000.0,24/07/2017
+GB1,2023,Crystal Palace,David Ozoh,Defensive Midfield,19,700000.0,01/01/2024
+GB1,2023,Crystal Palace,Kaden Rodney,Defensive Midfield,19,200000.0,
+GB1,2023,Crystal Palace,Will Hughes,Central Midfield,29,9000000.0,28/08/2021
+GB1,2023,Crystal Palace,Naouirou Ahamada,Central Midfield,22,8000000.0,31/01/2023
+GB1,2023,Crystal Palace,Jack Wells-Morrison,Central Midfield,20,200000.0,
+GB1,2023,Crystal Palace,Jeffrey Schlupp,Left Midfield,31,7000000.0,13/01/2017
+GB1,2023,Crystal Palace,Eberechi Eze,Attacking Midfield,26,55000000.0,28/08/2020
+GB1,2023,Crystal Palace,Matheus França,Attacking Midfield,20,15000000.0,05/08/2023
+GB1,2023,Crystal Palace,Jadan Raymond,Attacking Midfield,20,,
+GB1,2023,Crystal Palace,John-Kymani Gordon,Left Winger,21,200000.0,
+GB1,2023,Crystal Palace,Michael Olise,Right Winger,22,55000000.0,08/07/2021
+GB1,2023,Crystal Palace,Jesurun Rak-Sakyi,Right Winger,21,2000000.0,01/07/2022
+GB1,2023,Crystal Palace,Malcolm Ebiowei,Right Winger,20,1500000.0,01/07/2022
+GB1,2023,Crystal Palace,Franco Umeh,Right Winger,19,75000.0,
+GB1,2023,Crystal Palace,Roshaun Mathurin,Right Winger,20,,
+GB1,2023,Crystal Palace,Jean-Philippe Mateta,Centre-Forward,27,20000000.0,31/01/2022
+GB1,2023,Crystal Palace,Odsonne Édouard,Centre-Forward,26,18000000.0,31/08/2021
+GB1,2023,Crystal Palace,Jordan Ayew,Centre-Forward,32,4000000.0,25/07/2019
+GB1,2023,Crystal Palace,Luke Plange,Centre-Forward,21,800000.0,31/01/2022
+GB1,2023,Crystal Palace,Ademola Ola-Adebomi,Centre-Forward,20,250000.0,
+GB1,2023,Wolverhampton Wanderers,José Sá,Goalkeeper,31,14000000.0,15/07/2021
+GB1,2023,Wolverhampton Wanderers,Daniel Bentley,Goalkeeper,30,2000000.0,25/01/2023
+GB1,2023,Wolverhampton Wanderers,Tom King,Goalkeeper,29,200000.0,03/07/2023
+GB1,2023,Wolverhampton Wanderers,Louie Moulden,Goalkeeper,22,175000.0,
+GB1,2023,Wolverhampton Wanderers,Maximilian Kilman,Centre-Back,27,32000000.0,09/08/2018
+GB1,2023,Wolverhampton Wanderers,Toti,Centre-Back,25,20000000.0,02/09/2020
+GB1,2023,Wolverhampton Wanderers,Santiago Bueno,Centre-Back,25,8000000.0,31/08/2023
+GB1,2023,Wolverhampton Wanderers,Yerson Mosquera,Centre-Back,23,6000000.0,01/07/2021
+GB1,2023,Wolverhampton Wanderers,Craig Dawson,Centre-Back,34,2000000.0,22/01/2023
+GB1,2023,Wolverhampton Wanderers,Justin Hubner,Centre-Back,20,350000.0,
+GB1,2023,Wolverhampton Wanderers,Alfie Pond,Centre-Back,20,250000.0,
+GB1,2023,Wolverhampton Wanderers,Temple Ojinnaka,Centre-Back,19,,
+GB1,2023,Wolverhampton Wanderers,Rayan Aït-Nouri,Left-Back,23,35000000.0,09/07/2021
+GB1,2023,Wolverhampton Wanderers,Hugo Bueno,Left-Back,21,6000000.0,01/07/2022
+GB1,2023,Wolverhampton Wanderers,Aaron Keto-Diyawa,Left-Back,20,,
+GB1,2023,Wolverhampton Wanderers,Matheus Nunes,Right-Back,25,50000000.0,18/08/2022
+GB1,2023,Wolverhampton Wanderers,Nélson Semedo,Right-Back,30,12000000.0,23/09/2020
+GB1,2023,Wolverhampton Wanderers,Jonny Otto,Right-Back,30,5000000.0,31/01/2019
+GB1,2023,Wolverhampton Wanderers,Ki-Jana Hoever,Right-Back,22,4500000.0,19/09/2020
+GB1,2023,Wolverhampton Wanderers,Matt Doherty,Right-Back,32,3000000.0,20/07/2023
+GB1,2023,Wolverhampton Wanderers,Wesley Okoduwa,Right-Back,16,,
+GB1,2023,Wolverhampton Wanderers,Mario Lemina,Defensive Midfield,30,10000000.0,13/01/2023
+GB1,2023,Wolverhampton Wanderers,Boubacar Traoré,Defensive Midfield,22,6000000.0,01/07/2023
+GB1,2023,Wolverhampton Wanderers,Joe Hodge,Defensive Midfield,21,1500000.0,01/07/2022
+GB1,2023,Wolverhampton Wanderers,Bruno Jordão,Defensive Midfield,25,700000.0,02/08/2019
+GB1,2023,Wolverhampton Wanderers,Harvey Griffiths,Defensive Midfield,20,150000.0,
+GB1,2023,Wolverhampton Wanderers,João Gomes,Central Midfield,23,35000000.0,30/01/2023
+GB1,2023,Wolverhampton Wanderers,Jean-Ricner Bellegarde,Central Midfield,26,15000000.0,01/09/2023
+GB1,2023,Wolverhampton Wanderers,Tommy Doyle,Central Midfield,22,10000000.0,01/07/2024
+GB1,2023,Wolverhampton Wanderers,Luke Cundle,Central Midfield,22,5000000.0,01/07/2021
+GB1,2023,Wolverhampton Wanderers,Matthew Whittingham,Central Midfield,19,,
+GB1,2023,Wolverhampton Wanderers,Pablo Sarabia,Attacking Midfield,32,10000000.0,17/01/2023
+GB1,2023,Wolverhampton Wanderers,Tawanda Chirewa,Attacking Midfield,20,500000.0,01/01/2024
+GB1,2023,Wolverhampton Wanderers,Noha Lemina,Attacking Midfield,19,500000.0,31/01/2024
+GB1,2023,Wolverhampton Wanderers,Ty Barnett,Attacking Midfield,18,,
+GB1,2023,Wolverhampton Wanderers,Owen Hesketh,Attacking Midfield,21,,
+GB1,2023,Wolverhampton Wanderers,Enso González,Left Winger,19,4000000.0,31/08/2023
+GB1,2023,Wolverhampton Wanderers,Chem Campbell,Left Winger,21,900000.0,01/07/2022
+GB1,2023,Wolverhampton Wanderers,Emilio Ballard-Matthews,Left Winger,15,,
+GB1,2023,Wolverhampton Wanderers,Pedro Neto,Right Winger,24,55000000.0,02/08/2019
+GB1,2023,Wolverhampton Wanderers,Matheus Cunha,Centre-Forward,25,45000000.0,01/07/2023
+GB1,2023,Wolverhampton Wanderers,Hee-chan Hwang,Centre-Forward,28,25000000.0,01/07/2022
+GB1,2023,Wolverhampton Wanderers,Fábio Silva,Centre-Forward,21,11000000.0,05/09/2020
+GB1,2023,Wolverhampton Wanderers,Sasa Kalajdzic,Centre-Forward,26,5000000.0,31/08/2022
+GB1,2023,Wolverhampton Wanderers,Nathan Fraser,Centre-Forward,19,1000000.0,01/01/2024
+GB1,2023,Wolverhampton Wanderers,Leon Chiwome,Centre-Forward,18,1000000.0,
+GB1,2023,Wolverhampton Wanderers,Fletcher Holman,Centre-Forward,19,,
+GB1,2023,Brentford FC,Mark Flekken,Goalkeeper,31,12000000.0,01/07/2023
+GB1,2023,Brentford FC,Thomas Strakosha,Goalkeeper,29,3000000.0,14/07/2022
+GB1,2023,Brentford FC,Hákon Valdimarsson,Goalkeeper,22,2500000.0,26/01/2024
+GB1,2023,Brentford FC,Matthew Cox,Goalkeeper,21,800000.0,01/07/2022
+GB1,2023,Brentford FC,Ellery Balcombe,Goalkeeper,24,300000.0,01/07/2018
+GB1,2023,Brentford FC,Vincent Angelini,Goalkeeper,20,100000.0,
+GB1,2023,Brentford FC,Nathan Collins,Centre-Back,23,25000000.0,04/07/2023
+GB1,2023,Brentford FC,Kristoffer Ajer,Centre-Back,26,15000000.0,21/07/2021
+GB1,2023,Brentford FC,Ethan Pinnock,Centre-Back,31,12000000.0,02/07/2019
+GB1,2023,Brentford FC,Zanka,Centre-Back,34,1000000.0,09/09/2021
+GB1,2023,Brentford FC,Ben Mee,Centre-Back,34,1000000.0,22/07/2022
+GB1,2023,Brentford FC,Ji-soo Kim,Centre-Back,19,600000.0,01/07/2024
+GB1,2023,Brentford FC,Charlie Goode,Centre-Back,28,500000.0,19/08/2020
+GB1,2023,Brentford FC,Benjamin Fredrick,Centre-Back,19,150000.0,10/07/2026
+GB1,2023,Brentford FC,Benjamin Arthur,Centre-Back,18,,04/07/2025
+GB1,2023,Brentford FC,Rico Henry,Left-Back,26,20000000.0,31/08/2016
+GB1,2023,Brentford FC,Sergio Reguilón,Left-Back,27,12000000.0,17/01/2024
+GB1,2023,Brentford FC,Val Adedokun,Left-Back,21,150000.0,
+GB1,2023,Brentford FC,Aaron Hickey,Right-Back,22,28000000.0,09/07/2022
+GB1,2023,Brentford FC,Mads Roerslev,Right-Back,25,10000000.0,07/08/2019
+GB1,2023,Brentford FC,Fin Stevens,Right-Back,21,450000.0,01/07/2022
+GB1,2023,Brentford FC,Vitaly Janelt,Defensive Midfield,26,22000000.0,03/10/2020
+GB1,2023,Brentford FC,Christian Nørgaard,Defensive Midfield,30,18000000.0,01/07/2019
+GB1,2023,Brentford FC,Yunus Konak,Defensive Midfield,18,3500000.0,11/01/2024
+GB1,2023,Brentford FC,Mathias Jensen,Central Midfield,28,28000000.0,10/07/2019
+GB1,2023,Brentford FC,Josh Dasilva,Central Midfield,25,10000000.0,23/10/2025
+GB1,2023,Brentford FC,Yegor Yarmolyuk,Central Midfield,20,10000000.0,01/07/2023
+GB1,2023,Brentford FC,Frank Onyeka,Central Midfield,26,9000000.0,20/07/2021
+GB1,2023,Brentford FC,Shandon Baptiste,Central Midfield,26,2500000.0,31/01/2020
+GB1,2023,Brentford FC,Paris Maghoma,Central Midfield,23,350000.0,01/07/2022
+GB1,2023,Brentford FC,Ethan Brierley,Central Midfield,20,300000.0,
+GB1,2023,Brentford FC,Ryan Trevitt,Central Midfield,21,275000.0,01/07/2023
+GB1,2023,Brentford FC,Keane Lewis-Potter,Left Midfield,23,15000000.0,12/07/2022
+GB1,2023,Brentford FC,Mikkel Damsgaard,Attacking Midfield,23,10000000.0,10/08/2022
+GB1,2023,Brentford FC,Saman Ghoddos,Attacking Midfield,30,2000000.0,14/01/2021
+GB1,2023,Brentford FC,Myles Peart-Harris,Attacking Midfield,21,700000.0,23/07/2021
+GB1,2023,Brentford FC,Kevin Schade,Left Winger,22,22000000.0,01/07/2023
+GB1,2023,Brentford FC,Bryan Mbeumo,Right Winger,24,40000000.0,05/08/2019
+GB1,2023,Brentford FC,Michael Olakigbe,Right Winger,20,600000.0,
+GB1,2023,Brentford FC,Ivan Toney,Centre-Forward,28,50000000.0,01/09/2020
+GB1,2023,Brentford FC,Yoane Wissa,Centre-Forward,27,28000000.0,10/08/2021
+GB1,2023,Brentford FC,Neal Maupay,Centre-Forward,27,12000000.0,01/09/2023
+GB1,2023,AFC Bournemouth,Mark Travers,Goalkeeper,25,3500000.0,01/07/2020
+GB1,2023,AFC Bournemouth,Ionuț Radu,Goalkeeper,27,3000000.0,27/07/2023
+GB1,2023,AFC Bournemouth,Neto,Goalkeeper,34,2500000.0,07/08/2022
+GB1,2023,AFC Bournemouth,Will Dennis,Goalkeeper,23,350000.0,01/07/2021
+GB1,2023,AFC Bournemouth,Darren Randolph,Goalkeeper,37,300000.0,26/01/2023
+GB1,2023,AFC Bournemouth,Cameron Plain,Goalkeeper,22,100000.0,
+GB1,2023,AFC Bournemouth,Callan McKenna,Goalkeeper,17,100000.0,
+GB1,2023,AFC Bournemouth,Ilya Zabarnyi,Centre-Back,21,32000000.0,31/01/2023
+GB1,2023,AFC Bournemouth,Marcos Senesi,Centre-Back,27,22000000.0,08/08/2022
+GB1,2023,AFC Bournemouth,Lloyd Kelly,Centre-Back,25,18000000.0,01/07/2019
+GB1,2023,AFC Bournemouth,Chris Mepham,Centre-Back,26,6000000.0,22/01/2019
+GB1,2023,AFC Bournemouth,James Hill,Centre-Back,22,2000000.0,05/01/2022
+GB1,2023,AFC Bournemouth,Max Kinsey,Centre-Back,19,,
+GB1,2023,AFC Bournemouth,Milos Kerkez,Left-Back,20,20000000.0,20/07/2023
+GB1,2023,AFC Bournemouth,Ben Greenwood,Left-Back,22,,
+GB1,2023,AFC Bournemouth,Max Aarons,Right-Back,24,16000000.0,10/08/2023
+GB1,2023,AFC Bournemouth,Ryan Fredericks,Right-Back,31,1000000.0,01/07/2022
+GB1,2023,AFC Bournemouth,Adam Smith,Right-Back,33,1000000.0,28/01/2014
+GB1,2023,AFC Bournemouth,Tyler Adams,Defensive Midfield,25,15000000.0,20/08/2023
+GB1,2023,AFC Bournemouth,Philip Billing,Central Midfield,28,22000000.0,29/07/2019
+GB1,2023,AFC Bournemouth,Alex Scott,Central Midfield,20,20000000.0,10/08/2023
+GB1,2023,AFC Bournemouth,Lewis Cook,Central Midfield,27,12000000.0,08/07/2016
+GB1,2023,AFC Bournemouth,Ryan Christie,Central Midfield,29,12000000.0,31/08/2021
+GB1,2023,AFC Bournemouth,Joe Rothwell,Central Midfield,29,2500000.0,01/07/2022
+GB1,2023,AFC Bournemouth,Gavin Kilkenny,Central Midfield,24,300000.0,01/08/2020
+GB1,2023,AFC Bournemouth,Marcus Tavernier,Attacking Midfield,25,20000000.0,01/08/2022
+GB1,2023,AFC Bournemouth,Romain Faivre,Attacking Midfield,25,15000000.0,13/07/2023
+GB1,2023,AFC Bournemouth,Justin Kluivert,Attacking Midfield,25,14000000.0,01/07/2023
+GB1,2023,AFC Bournemouth,Emiliano Marcondes,Attacking Midfield,29,1500000.0,03/07/2021
+GB1,2023,AFC Bournemouth,Luis Sinisterra,Left Winger,25,17000000.0,01/07/2024
+GB1,2023,AFC Bournemouth,Hamed Traoré,Left Winger,24,17000000.0,01/07/2023
+GB1,2023,AFC Bournemouth,Jaidon Anthony,Left Winger,24,6000000.0,01/08/2020
+GB1,2023,AFC Bournemouth,Dango Ouattara,Right Winger,22,20000000.0,19/01/2023
+GB1,2023,AFC Bournemouth,Antoine Semenyo,Right Winger,24,10000000.0,27/01/2023
+GB1,2023,AFC Bournemouth,David Brooks,Right Winger,26,8000000.0,01/07/2018
+GB1,2023,AFC Bournemouth,Dominic Sadi,Right Winger,20,100000.0,
+GB1,2023,AFC Bournemouth,Michael Dacosta,Right Winger,19,,
+GB1,2023,AFC Bournemouth,Dominic Solanke,Centre-Forward,26,40000000.0,04/01/2019
+GB1,2023,AFC Bournemouth,Enes Ünal,Centre-Forward,27,18000000.0,01/07/2024
+GB1,2023,AFC Bournemouth,Kieffer Moore,Centre-Forward,31,2000000.0,31/01/2022
+GB1,2023,AFC Bournemouth,Jamal Lowe,Centre-Forward,29,1500000.0,31/08/2021
+GB1,2023,AFC Bournemouth,Daniel Adu-Adjei,Centre-Forward,19,,
+GB1,2023,Everton FC,Jordan Pickford,Goalkeeper,30,22000000.0,01/07/2017
+GB1,2023,Everton FC,João Virgínia,Goalkeeper,24,800000.0,01/07/2020
+GB1,2023,Everton FC,Andy Lonergan,Goalkeeper,40,100000.0,20/08/2021
+GB1,2023,Everton FC,Billy Crellin,Goalkeeper,24,,01/07/2023
+GB1,2023,Everton FC,Jarrad Branthwaite,Centre-Back,22,42000000.0,13/01/2020
+GB1,2023,Everton FC,James Tarkowski,Centre-Back,31,13000000.0,02/07/2022
+GB1,2023,Everton FC,Ben Godfrey,Centre-Back,26,10000000.0,05/10/2020
+GB1,2023,Everton FC,Michael Keane,Centre-Back,31,6000000.0,03/07/2017
+GB1,2023,Everton FC,Mason Holgate,Centre-Back,27,5000000.0,13/08/2015
+GB1,2023,Everton FC,Elijah Campbell,Centre-Back,19,,
+GB1,2023,Everton FC,Vitaliy Mykolenko,Left-Back,25,28000000.0,01/01/2022
+GB1,2023,Everton FC,Mackenzie Hunt,Left-Back,22,200000.0,
+GB1,2023,Everton FC,Nathan Patterson,Right-Back,22,15000000.0,04/01/2022
+GB1,2023,Everton FC,Ashley Young,Right-Back,38,500000.0,13/07/2023
+GB1,2023,Everton FC,Séamus Coleman,Right-Back,35,500000.0,01/01/2009
+GB1,2023,Everton FC,Amadou Onana,Defensive Midfield,22,50000000.0,09/08/2022
+GB1,2023,Everton FC,James Garner,Defensive Midfield,23,22000000.0,01/09/2022
+GB1,2023,Everton FC,Idrissa Gueye,Defensive Midfield,34,3000000.0,01/09/2022
+GB1,2023,Everton FC,André Gomes,Central Midfield,30,10000000.0,01/07/2019
+GB1,2023,Everton FC,Lewis Warrington,Central Midfield,21,500000.0,
+GB1,2023,Everton FC,Tyler Onyango,Central Midfield,21,500000.0,01/07/2025
+GB1,2023,Everton FC,Jenson Metcalfe,Central Midfield,19,150000.0,
+GB1,2023,Everton FC,Abdoulaye Doucouré,Attacking Midfield,31,10000000.0,08/09/2020
+GB1,2023,Everton FC,Dele Alli,Attacking Midfield,28,5000000.0,31/01/2022
+GB1,2023,Everton FC,Alex Iwobi,Left Winger,28,25000000.0,08/08/2019
+GB1,2023,Everton FC,Dwight McNeil,Left Winger,24,22000000.0,28/07/2022
+GB1,2023,Everton FC,Jack Harrison,Left Winger,27,18000000.0,14/08/2023
+GB1,2023,Everton FC,Arnaut Danjuma,Left Winger,27,13000000.0,23/07/2023
+GB1,2023,Everton FC,Lewis Dobbin,Left Winger,21,2500000.0,01/07/2023
+GB1,2023,Everton FC,Dominic Calvert-Lewin,Centre-Forward,27,22000000.0,31/08/2016
+GB1,2023,Everton FC,Beto,Centre-Forward,26,20000000.0,29/08/2023
+GB1,2023,Everton FC,Neal Maupay,Centre-Forward,27,12000000.0,26/08/2022
+GB1,2023,Everton FC,Youssef Chermiti,Centre-Forward,20,9000000.0,11/08/2023
+GB1,2023,Everton FC,Tom Cannon,Centre-Forward,21,4000000.0,01/07/2022
+GB1,2023,Fulham FC,Bernd Leno,Goalkeeper,32,13000000.0,02/08/2022
+GB1,2023,Fulham FC,Marek Rodák,Goalkeeper,27,3000000.0,01/07/2019
+GB1,2023,Fulham FC,Steven Benda,Goalkeeper,25,1000000.0,30/08/2023
+GB1,2023,Fulham FC,Tosin Adarabioyo,Centre-Back,26,20000000.0,05/10/2020
+GB1,2023,Fulham FC,Issa Diop,Centre-Back,27,20000000.0,10/08/2022
+GB1,2023,Fulham FC,Calvin Bassey,Centre-Back,24,16000000.0,28/07/2023
+GB1,2023,Fulham FC,Tim Ream,Centre-Back,36,800000.0,20/08/2015
+GB1,2023,Fulham FC,Luc De Fougerolles,Centre-Back,18,300000.0,
+GB1,2023,Fulham FC,Antonee Robinson,Left-Back,26,25000000.0,20/08/2020
+GB1,2023,Fulham FC,Fodé Ballo-Touré,Left-Back,27,3000000.0,01/09/2023
+GB1,2023,Fulham FC,Timothy Castagne,Right-Back,28,17000000.0,29/08/2023
+GB1,2023,Fulham FC,Kenny Tete,Right-Back,28,15000000.0,10/09/2020
+GB1,2023,Fulham FC,Kevin Mbabu,Right-Back,29,4000000.0,27/07/2022
+GB1,2023,Fulham FC,Devan Tanton,Right-Back,20,250000.0,
+GB1,2023,Fulham FC,João Palhinha,Defensive Midfield,28,55000000.0,04/07/2022
+GB1,2023,Fulham FC,Andreas Pereira,Central Midfield,28,20000000.0,11/07/2022
+GB1,2023,Fulham FC,Harrison Reed,Central Midfield,29,15000000.0,30/08/2020
+GB1,2023,Fulham FC,Saša Lukić,Central Midfield,27,10000000.0,31/01/2023
+GB1,2023,Fulham FC,Tom Cairney,Central Midfield,33,2000000.0,01/07/2015
+GB1,2023,Fulham FC,Tyrese Francois,Central Midfield,23,600000.0,01/07/2021
+GB1,2023,Fulham FC,Matt Dibley-Dias,Central Midfield,20,500000.0,
+GB1,2023,Fulham FC,Bobby De Cordova-Reid,Attacking Midfield,31,5000000.0,24/01/2020
+GB1,2023,Fulham FC,Luke Harris,Attacking Midfield,19,1000000.0,
+GB1,2023,Fulham FC,Kristian Sekularac,Attacking Midfield,20,200000.0,
+GB1,2023,Fulham FC,Josh King,Attacking Midfield,17,200000.0,01/07/2024
+GB1,2023,Fulham FC,Alex Iwobi,Left Winger,28,25000000.0,01/09/2023
+GB1,2023,Fulham FC,Willian,Left Winger,35,3000000.0,06/02/2025
+GB1,2023,Fulham FC,Harry Wilson,Right Winger,27,17000000.0,24/07/2021
+GB1,2023,Fulham FC,Adama Traoré,Right Winger,28,9000000.0,12/08/2023
+GB1,2023,Fulham FC,Aleksandar Mitrović,Centre-Forward,29,28000000.0,30/07/2018
+GB1,2023,Fulham FC,Armando Broja,Centre-Forward,22,22000000.0,01/02/2024
+GB1,2023,Fulham FC,Rodrigo Muniz,Centre-Forward,23,20000000.0,20/08/2021
+GB1,2023,Fulham FC,Raúl Jiménez,Centre-Forward,33,5000000.0,25/07/2023
+GB1,2023,Fulham FC,Carlos Vinícius,Centre-Forward,29,4000000.0,01/09/2022
+GB1,2023,Fulham FC,Jay Stansfield,Centre-Forward,21,3500000.0,01/07/2023
+GB1,2023,Burnley FC,James Trafford,Goalkeeper,21,18000000.0,20/07/2023
+GB1,2023,Burnley FC,Arijanet Murić,Goalkeeper,25,7000000.0,22/07/2022
+GB1,2023,Burnley FC,Lawrence Vigouroux,Goalkeeper,30,300000.0,01/07/2023
+GB1,2023,Burnley FC,Denis Franchi,Goalkeeper,21,250000.0,26/08/2022
+GB1,2023,Burnley FC,Jordan Beyer,Centre-Back,24,13000000.0,01/07/2023
+GB1,2023,Burnley FC,Ameen Al-Dakhil,Centre-Back,22,12000000.0,13/01/2023
+GB1,2023,Burnley FC,Dara O'Shea,Centre-Back,25,7000000.0,01/07/2023
+GB1,2023,Burnley FC,Hjalmar Ekdal,Centre-Back,25,7000000.0,21/01/2023
+GB1,2023,Burnley FC,Maxime Estève,Centre-Back,22,7000000.0,01/07/2024
+GB1,2023,Burnley FC,Hannes Delcroix,Centre-Back,25,4000000.0,22/08/2023
+GB1,2023,Burnley FC,Luke McNally,Centre-Back,24,3800000.0,01/07/2022
+GB1,2023,Burnley FC,CJ Egan-Riley,Centre-Back,21,1500000.0,01/07/2022
+GB1,2023,Burnley FC,Charlie Taylor,Left-Back,30,3000000.0,06/07/2017
+GB1,2023,Burnley FC,Lorenz Assignon,Right-Back,24,10000000.0,01/02/2024
+GB1,2023,Burnley FC,Connor Roberts,Right-Back,28,7000000.0,31/08/2021
+GB1,2023,Burnley FC,Vitinho,Right-Back,24,5000000.0,28/07/2022
+GB1,2023,Burnley FC,Sander Berge,Defensive Midfield,26,20000000.0,09/08/2023
+GB1,2023,Burnley FC,Jack Cork,Defensive Midfield,35,800000.0,11/07/2017
+GB1,2023,Burnley FC,Josh Brownhill,Central Midfield,28,15000000.0,30/01/2020
+GB1,2023,Burnley FC,Josh Cullen,Central Midfield,28,10000000.0,12/07/2022
+GB1,2023,Burnley FC,Han-Noah Massengo,Central Midfield,22,4000000.0,31/08/2023
+GB1,2023,Burnley FC,Aaron Ramsey,Attacking Midfield,21,15000000.0,22/08/2023
+GB1,2023,Burnley FC,Mike Tresor,Attacking Midfield,25,12000000.0,01/07/2024
+GB1,2023,Burnley FC,Scott Twine,Attacking Midfield,24,3000000.0,01/07/2022
+GB1,2023,Burnley FC,Wilson Odobert,Left Winger,19,10000000.0,12/08/2023
+GB1,2023,Burnley FC,Anass Zaroury,Left Winger,23,9000000.0,30/08/2022
+GB1,2023,Burnley FC,Jacob Bruun Larsen,Left Winger,25,8000000.0,11/07/2025
+GB1,2023,Burnley FC,Darko Churlinov,Left Winger,23,1500000.0,19/08/2022
+GB1,2023,Burnley FC,Dara Costelloe,Left Winger,21,325000.0,01/07/2022
+GB1,2023,Burnley FC,Luca Koleosho,Right Winger,19,7000000.0,25/07/2023
+GB1,2023,Burnley FC,Manuel Benson,Right Winger,27,5000000.0,04/08/2022
+GB1,2023,Burnley FC,Nathan Redmond,Right Winger,30,5000000.0,21/07/2023
+GB1,2023,Burnley FC,Jóhann Berg Gudmundsson,Right Winger,33,1000000.0,19/07/2016
+GB1,2023,Burnley FC,Enock Agyei,Right Winger,19,800000.0,
+GB1,2023,Burnley FC,Lyle Foster,Centre-Forward,23,13000000.0,25/01/2023
+GB1,2023,Burnley FC,David Datro Fofana,Centre-Forward,21,12000000.0,13/01/2024
+GB1,2023,Burnley FC,Zeki Amdouni,Centre-Forward,23,12000000.0,19/07/2023
+GB1,2023,Burnley FC,Michael Obafemi,Centre-Forward,23,2200000.0,01/07/2023
+GB1,2023,Burnley FC,Jay Rodríguez,Centre-Forward,34,1000000.0,09/07/2019
+GB1,2023,Sheffield United,Ivo Grbic,Goalkeeper,28,3500000.0,26/01/2024
+GB1,2023,Sheffield United,Wes Foderingham,Goalkeeper,33,900000.0,27/07/2020
+GB1,2023,Sheffield United,Adam Davies,Goalkeeper,31,500000.0,25/01/2022
+GB1,2023,Sheffield United,Jordan Amissah,Goalkeeper,22,250000.0,01/07/2022
+GB1,2023,Sheffield United,Anel Ahmedhodzic,Centre-Back,25,18000000.0,06/07/2022
+GB1,2023,Sheffield United,Auston Trusty,Centre-Back,25,7000000.0,03/08/2023
+GB1,2023,Sheffield United,Mason Holgate,Centre-Back,27,5000000.0,01/02/2024
+GB1,2023,Sheffield United,John Egan,Centre-Back,31,4000000.0,19/07/2018
+GB1,2023,Sheffield United,Jack Robinson,Centre-Back,30,1000000.0,21/01/2020
+GB1,2023,Sheffield United,Chris Basham,Centre-Back,35,300000.0,01/07/2014
+GB1,2023,Sheffield United,Evan Easton,Centre-Back,19,,
+GB1,2023,Sheffield United,Dovydas Sasnauskas,Centre-Back,17,,
+GB1,2023,Sheffield United,Luke Thomas,Left-Back,23,6000000.0,31/08/2023
+GB1,2023,Sheffield United,Yasser Larouci,Left-Back,23,3000000.0,17/07/2023
+GB1,2023,Sheffield United,Max Lowe,Left-Back,27,2500000.0,07/09/2020
+GB1,2023,Sheffield United,Rhys Norrington-Davies,Left-Back,25,2500000.0,01/07/2019
+GB1,2023,Sheffield United,Jili Buyabu,Left-Back,20,200000.0,
+GB1,2023,Sheffield United,Jayden Bogle,Right-Back,23,3800000.0,07/09/2020
+GB1,2023,Sheffield United,George Baldock,Right-Back,31,2500000.0,01/07/2017
+GB1,2023,Sheffield United,Femi Seriki,Right-Back,22,300000.0,01/07/2023
+GB1,2023,Sheffield United,Sam Curtis,Right-Back,18,150000.0,01/07/2025
+GB1,2023,Sheffield United,Vini Souza,Defensive Midfield,25,12000000.0,09/08/2023
+GB1,2023,Sheffield United,Gustavo Hamer,Central Midfield,27,15000000.0,12/08/2023
+GB1,2023,Sheffield United,Tom Davies,Central Midfield,26,5000000.0,16/08/2023
+GB1,2023,Sheffield United,Andre Brooks,Central Midfield,20,2500000.0,01/07/2023
+GB1,2023,Sheffield United,Oliver Norwood,Central Midfield,33,1000000.0,04/01/2019
+GB1,2023,Sheffield United,Ismaila Coulibaly,Central Midfield,23,1000000.0,08/09/2020
+GB1,2023,Sheffield United,Ben Osborn,Central Midfield,29,1000000.0,26/07/2019
+GB1,2023,Sheffield United,John Fleck,Central Midfield,32,900000.0,08/07/2016
+GB1,2023,Sheffield United,Oliver Arblaster,Central Midfield,20,450000.0,01/07/2023
+GB1,2023,Sheffield United,Sydie Peck,Central Midfield,19,200000.0,01/07/2024
+GB1,2023,Sheffield United,Billy Blacker,Central Midfield,18,100000.0,
+GB1,2023,Sheffield United,Owen Hampson,Central Midfield,19,,
+GB1,2023,Sheffield United,James McAtee,Attacking Midfield,21,12000000.0,01/09/2023
+GB1,2023,Sheffield United,Anis Ben Slimane,Attacking Midfield,23,2500000.0,13/07/2023
+GB1,2023,Sheffield United,Bénie Traoré,Left Winger,21,4000000.0,18/07/2023
+GB1,2023,Sheffield United,Louie Marsh,Second Striker,19,100000.0,01/07/2024
+GB1,2023,Sheffield United,Cameron Archer,Centre-Forward,22,13000000.0,27/08/2023
+GB1,2023,Sheffield United,Ben Brereton Díaz,Centre-Forward,25,8000000.0,20/01/2025
+GB1,2023,Sheffield United,Oli McBurnie,Centre-Forward,28,4500000.0,02/08/2019
+GB1,2023,Sheffield United,Rhian Brewster,Centre-Forward,24,3000000.0,02/10/2020
+GB1,2023,Sheffield United,William Osula,Centre-Forward,20,3000000.0,01/07/2022
+GB1,2023,Sheffield United,Daniel Jebbison,Centre-Forward,20,1000000.0,01/07/2021
+GB1,2023,Sheffield United,Antwoine Hackford,Centre-Forward,20,500000.0,
+GB1,2023,Sheffield United,Ryan Oné,Centre-Forward,18,200000.0,01/07/2024
+GB1,2023,Luton Town,Thomas Kaminski,Goalkeeper,31,3000000.0,03/08/2023
+GB1,2023,Luton Town,Tim Krul,Goalkeeper,36,500000.0,17/08/2023
+GB1,2023,Luton Town,Jack Walton,Goalkeeper,26,400000.0,30/01/2023
+GB1,2023,Luton Town,James Shea,Goalkeeper,33,200000.0,03/07/2017
+GB1,2023,Luton Town,Teden Mengi,Centre-Back,22,12000000.0,31/08/2023
+GB1,2023,Luton Town,Tom Holmes,Centre-Back,24,3500000.0,17/01/2024
+GB1,2023,Luton Town,Gabriel Osho,Centre-Back,25,3000000.0,18/11/2020
+GB1,2023,Luton Town,Mads Andersen,Centre-Back,26,3000000.0,03/07/2023
+GB1,2023,Luton Town,Tom Lockyer,Centre-Back,29,2500000.0,01/09/2020
+GB1,2023,Luton Town,Amari'i Bell,Centre-Back,30,2500000.0,01/07/2021
+GB1,2023,Luton Town,Reece Burke,Centre-Back,27,1800000.0,01/07/2021
+GB1,2023,Luton Town,Dan Potts,Centre-Back,30,900000.0,01/07/2015
+GB1,2023,Luton Town,Aidan Francis-Clarke,Centre-Back,19,,
+GB1,2023,Luton Town,Christian Chigozie,Centre-Back,16,,
+GB1,2023,Luton Town,Ryan Giles,Left-Back,24,4500000.0,28/07/2023
+GB1,2023,Luton Town,Joe Johnson,Left-Back,18,100000.0,01/07/2024
+GB1,2023,Luton Town,Issa Kaboré,Right-Back,23,10000000.0,21/07/2023
+GB1,2023,Luton Town,Daiki Hashioka,Right-Back,25,2000000.0,30/01/2024
+GB1,2023,Luton Town,Marvelous Nakamba,Defensive Midfield,30,5000000.0,20/07/2023
+GB1,2023,Luton Town,Pelly Ruddock Mpanzu,Defensive Midfield,30,1500000.0,28/01/2014
+GB1,2023,Luton Town,Dominic Martins,Defensive Midfield,18,,
+GB1,2023,Luton Town,Albert Sambi Lokonga,Central Midfield,24,15000000.0,01/09/2023
+GB1,2023,Luton Town,Ross Barkley,Central Midfield,30,8000000.0,09/08/2023
+GB1,2023,Luton Town,Allan Campbell,Central Midfield,25,2000000.0,01/07/2021
+GB1,2023,Luton Town,Luke Berry,Central Midfield,31,400000.0,25/08/2017
+GB1,2023,Luton Town,Elliot Thorpe,Central Midfield,23,200000.0,24/09/2021
+GB1,2023,Luton Town,Axel Piesold,Central Midfield,19,150000.0,
+GB1,2023,Luton Town,Jake Burger,Central Midfield,19,,
+GB1,2023,Luton Town,Jayden Luker,Central Midfield,19,,
+GB1,2023,Luton Town,Fred Onyedinma,Right Midfield,27,500000.0,01/07/2021
+GB1,2023,Luton Town,Alfie Doughty,Left Midfield,24,10000000.0,01/07/2022
+GB1,2023,Luton Town,Tahith Chong,Attacking Midfield,24,6000000.0,14/07/2023
+GB1,2023,Luton Town,Jordan Clark,Attacking Midfield,30,1000000.0,05/08/2020
+GB1,2023,Luton Town,Louie Watson,Attacking Midfield,23,250000.0,01/07/2022
+GB1,2023,Luton Town,Zack Nelson,Attacking Midfield,19,100000.0,01/07/2024
+GB1,2023,Luton Town,Dion Pereira,Left Winger,25,175000.0,03/11/2020
+GB1,2023,Luton Town,Chiedozie Ogbene,Right Winger,27,8000000.0,01/07/2023
+GB1,2023,Luton Town,Andros Townsend,Right Winger,32,1800000.0,11/10/2023
+GB1,2023,Luton Town,John McAtee,Second Striker,24,300000.0,02/08/2022
+GB1,2023,Luton Town,Carlton Morris,Centre-Forward,28,13000000.0,06/07/2022
+GB1,2023,Luton Town,Elijah Adebayo,Centre-Forward,26,12000000.0,01/02/2021
+GB1,2023,Luton Town,Jacob Brown,Centre-Forward,26,4000000.0,10/08/2023
+GB1,2023,Luton Town,Cauley Woodrow,Centre-Forward,29,1000000.0,01/07/2022
+GB1,2023,Luton Town,Joe Taylor,Centre-Forward,21,350000.0,31/01/2023
+GB1,2023,Luton Town,Admiral Muskwe,Centre-Forward,25,275000.0,15/07/2021
+GB1,2023,Luton Town,Taylan Harris,Centre-Forward,18,,
