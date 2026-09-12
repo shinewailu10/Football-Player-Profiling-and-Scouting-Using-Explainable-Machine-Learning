@@ -1,0 +1,50 @@
+============================= test session starts ==============================
+platform darwin -- Python 3.12.10, pytest-9.1.1, pluggy-1.6.0 -- /Users/shinewailu/Documents/football_scouting/venv/bin/python3.12
+cachedir: .pytest_cache
+metadata: {'Python': '3.12.10', 'Platform': 'macOS-26.6.2-arm64-arm-64bit', 'Packages': {'pytest': '9.1.1', 'pluggy': '1.6.0'}, 'Plugins': {'rerunfailures': '16.4', 'html': '4.0.2', 'xdist': '3.8.0', 'metadata': '3.1.1', 'anyio': '4.14.2', 'typeguard': '4.6.0', 'ordering': '0.6', 'seleniumbase': '4.51.12'}}
+rootdir: /Users/shinewailu/Documents/football_scouting
+plugins: rerunfailures-16.4, html-4.0.2, xdist-3.8.0, metadata-3.1.1, anyio-4.14.2, typeguard-4.6.0, ordering-0.6, seleniumbase-4.51.12
+collecting ... collected 30 items
+
+tests/test_pipeline.py::TestNormaliseName::test_lowercase PASSED         [  3%]
+tests/test_pipeline.py::TestNormaliseName::test_strips_accents PASSED    [  6%]
+tests/test_pipeline.py::TestNormaliseName::test_removes_hyphens PASSED   [ 10%]
+tests/test_pipeline.py::TestNormaliseName::test_removes_apostrophes PASSED [ 13%]
+tests/test_pipeline.py::TestNormaliseName::test_handles_empty_string PASSED [ 16%]
+tests/test_pipeline.py::TestNormaliseName::test_handles_none PASSED      [ 20%]
+tests/test_pipeline.py::TestNormaliseName::test_handles_non_string PASSED [ 23%]
+tests/test_pipeline.py::TestNormaliseName::test_idempotent PASSED        [ 26%]
+tests/test_pipeline.py::TestPositionFamilyFilter::test_exact_match PASSED [ 30%]
+tests/test_pipeline.py::TestPositionFamilyFilter::test_primary_only_matches PASSED [ 33%]
+tests/test_pipeline.py::TestPositionFamilyFilter::test_component_order_matters_less PASSED [ 36%]
+tests/test_pipeline.py::TestPositionFamilyFilter::test_excludes_extra_component PASSED [ 40%]
+tests/test_pipeline.py::TestPositionFamilyFilter::test_excludes_missing_primary PASSED [ 43%]
+tests/test_pipeline.py::TestPositionFamilyFilter::test_pure_position_matches_itself PASSED [ 46%]
+tests/test_pipeline.py::TestPositionFamilyFilter::test_handles_bad_input PASSED [ 50%]
+tests/test_pipeline.py::TestLogExpRoundtrip::test_roundtrip[50000] PASSED [ 53%]
+tests/test_pipeline.py::TestLogExpRoundtrip::test_roundtrip[1000000] PASSED [ 56%]
+tests/test_pipeline.py::TestLogExpRoundtrip::test_roundtrip[10000000] PASSED [ 60%]
+tests/test_pipeline.py::TestLogExpRoundtrip::test_roundtrip[100000000] PASSED [ 63%]
+tests/test_pipeline.py::TestLogExpRoundtrip::test_roundtrip[200000000] PASSED [ 66%]
+tests/test_pipeline.py::TestLogExpRoundtrip::test_zero_value PASSED      [ 70%]
+tests/test_pipeline.py::TestLogExpRoundtrip::test_log_transformation_reduces_skew PASSED [ 73%]
+tests/test_pipeline.py::TestRecommenderIntegration::test_loads_correct_row_count PASSED [ 76%]
+tests/test_pipeline.py::TestRecommenderIntegration::test_finds_saka PASSED [ 80%]
+tests/test_pipeline.py::TestRecommenderIntegration::test_finds_haaland PASSED [ 83%]
+tests/test_pipeline.py::TestRecommenderIntegration::test_disambiguates_by_team PASSED [ 86%]
+tests/test_pipeline.py::TestRecommenderIntegration::test_similar_returns_valid_count PASSED [ 90%]
+tests/test_pipeline.py::TestRecommenderIntegration::test_same_tm_position_filter_works PASSED [ 93%]
+tests/test_pipeline.py::TestRecommenderIntegration::test_max_age_filter_works PASSED [ 96%]
+tests/test_pipeline.py::TestRecommenderIntegration::test_unknown_player_raises PASSED [100%]
+
+=============================== warnings summary ===============================
+tests/test_pipeline.py::TestRecommenderIntegration::test_loads_correct_row_count
+  /Users/shinewailu/Documents/football_scouting/venv/lib/python3.12/site-packages/_pytest/fixtures.py:1313: PytestRemovedIn10Warning: Class-scoped fixture defined as instance method is deprecated.
+  Instance attributes set in this fixture will NOT be visible to test methods,
+  as each test gets a new instance while the fixture runs only once per class.
+  Use @classmethod decorator and set attributes on cls instead.
+  See https://docs.pytest.org/en/stable/deprecations.html#class-scoped-fixture-as-instance-method
+    fixturefunc = resolve_fixture_function(fixturedef, request)
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+======================== 30 passed, 1 warning in 0.48s =========================
