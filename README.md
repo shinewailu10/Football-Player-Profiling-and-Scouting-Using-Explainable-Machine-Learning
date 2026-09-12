@@ -56,7 +56,6 @@ football_scouting/
 │   └── supervised/        # fitted supervised models (32 total)
 ├── src/                   # all pipeline scripts
 ├── tests/                 # pytest unit and integration tests
-├── notebooks/             # exploratory notebooks
 ├── dissertation/          # dissertation document + figures
 ├── requirements.txt       # Python dependencies
 └── README.md              # this file
@@ -391,7 +390,6 @@ football_scouting/
 ├── tests/
 │   └── test_pipeline.py                    # pytest unit + integration tests
 │
-├── notebooks/                              # exploratory (not required for pipeline)
 │
 └── dissertation/                           # written document + assets
 ```
